@@ -49,6 +49,8 @@ https://www.linuxquestions.org/questions/linux-from-scratch-13/%5Bannoucement%5D
 
 * [Bluedragon](https://wiki.gentoo.org/wiki/Project:Hardened_musl/Bluedragon)
 
+* [bonsai](https://github.com/bonsai-linux/bonsai)
+
 * [build-linux](https://github.com/MichielDerhaeg/build-linux)
 
 * [Buildroot](https://buildroot.org)
@@ -66,6 +68,8 @@ https://www.linuxquestions.org/questions/linux-from-scratch-13/%5Bannoucement%5D
 * [Crosstool-NG](http://crosstool-ng.github.io)
 
 * [Crux Linux](https://crux.nu)
+
+* [Docker Linux From Scratch (DLFS)](https://github.com/reinterpretcat/lfs)
 
 * [Dragora GNU/Linux-Libre](https://www.dragora.org/en/index.html)
 
@@ -91,6 +95,8 @@ https://www.linuxquestions.org/questions/linux-from-scratch-13/%5Bannoucement%5D
 
 * [KISS](https://getkiss.org)
 
+* [KSLinux](https://github.com/Takeya-Yuki/KSLinux)
+
 * [LFS-s6](https://github.com/djlucas/LFS-s6)
 
 * [lh-bootstrap](https://skarnet.org/software/lh-bootstrap)
@@ -101,6 +107,9 @@ https://github.com/jhuntwork/lightcube-bootstrap-musl)
 * [Linaro](https://www.linaro.org)
 
 * [Linux From Scratch (LFS)](http://linuxfromscratch.org)
+
+* [Linux From Scratch Made (more) Easy (LFS-ME)](
+https://github.com/FSMaxB/lfs-me)
 
 * [Mere Linux](https://github.com/jhuntwork/merelinux)
 
@@ -134,9 +143,13 @@ https://github.com/jhuntwork/lightcube-bootstrap-musl)
 
 * [OpenBSD](https://www.openbsd.org)
 
+* [OpenMandriva](https://www.openmandriva.org)
+
 * [OpenWrt](https://openwrt.org)
 
 * [OSDev](https://wiki.osdev.org)
+
+* [Panda Linux](https://github.com/PandaLinux/base-64)
 
 * [PiLFS](https://intestinate.com/pilfs)
 
