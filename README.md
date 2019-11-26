@@ -104,6 +104,8 @@ https://www.linuxquestions.org/questions/linux-from-scratch-13/%5Bannoucement%5D
 * [lightcube-bootstrap-musl](
 https://github.com/jhuntwork/lightcube-bootstrap-musl)
 
+* [Lilala Linux](https://github.com/ilmich/lilala-linux)
+
 * [Linaro](https://www.linaro.org)
 
 * [Linux From Scratch (LFS)](http://linuxfromscratch.org)
@@ -174,6 +176,8 @@ https://github.com/FSMaxB/lfs-me)
 * [solyste](https://ywstd.fr/solyste/)
 
 * [Spark](https://fleshless.org/pages/spark.html)
+
+* [StarLinux](https://github.com/AwlsomeAlex/starlinux)
 
 * [static linux (stali)](http://sta.li)
 
