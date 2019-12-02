@@ -81,6 +81,8 @@ https://www.linuxquestions.org/questions/linux-from-scratch-13/%5Bannoucement%5D
 
 * [Funtoo Linux](https://www.funtoo.org/Welcome)
 
+* [Gary OS](https://github.com/garybgenett/gary-os)
+
 * [Gentoo Linux](https://gentoo.org)
 
 * [GentooLTO](https://github.com/InBetweenNames/gentooLTO)
