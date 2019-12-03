@@ -147,6 +147,8 @@ https://github.com/FSMaxB/lfs-me)
 
 * [OpenBSD](https://www.openbsd.org)
 
+* [OpenEmbedded](http://www.openembedded.org/wiki/Main_Page)
+
 * [OpenMandriva](https://www.openmandriva.org)
 
 * [OpenWrt](https://openwrt.org)
