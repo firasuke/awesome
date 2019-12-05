@@ -123,6 +123,8 @@ https://github.com/FSMaxB/lfs-me)
 
 * [mkroot](https://github.com/landley/mkroot)
 
+* [Moebius](http://moebiuslinux.sourceforge.net/)
+
 * [Morpheus Linux](https://morpheus.2f30.org)
 
 * [musl-cross](https://github.com/GregorR/musl-cross)
