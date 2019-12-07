@@ -187,6 +187,8 @@ https://github.com/FSMaxB/lfs-me)
 
 * [static linux (stali)](http://sta.li)
 
+* [StelaLinux](https://github.com/AwlsomeAlex/stelalinux)
+
 * [T2](https://t2sde.org)
 
 * [tomsrtbt](http://www.toms.net/rb/)
