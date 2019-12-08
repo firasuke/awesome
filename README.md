@@ -191,6 +191,8 @@ https://github.com/FSMaxB/lfs-me)
 
 * [T2](https://t2sde.org)
 
+* [TeoraLinux](https://github.com/AwlsomeAlex/TeoraLinux)
+
 * [tomsrtbt](http://www.toms.net/rb/)
 
 * [trinity](https://notabug.org/rain1/trinity)
