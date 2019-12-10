@@ -137,9 +137,13 @@ https://github.com/FSMaxB/lfs-me)
 
 * [muslpi](https://github.com/repk/muslpi)
 
+* [nenuzhnix](https://github.com/tpimh/nenuzhnix)
+
 * [NetBSD](http://netbsd.org)
 
 * [noname linux](https://github.com/xhebox/noname-linux)
+
+* [Non-GNU toolchain](https://github.com/tpimh/ngtc)
 
 * [Obarun Linux](https://web.obarun.org)
 
