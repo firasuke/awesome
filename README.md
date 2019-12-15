@@ -203,6 +203,8 @@ https://github.com/FSMaxB/lfs-me)
 
 * [Venom Linux](https://github.com/venomlinux)
 
+* [Vine Linux](https://vinelinux.org/)
+
 * [Void Linux](https://voidlinux.org)
 
 * [Warm Linux](https://github.com/WarmLinux)
