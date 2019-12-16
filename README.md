@@ -1,5 +1,4 @@
 # awesome
-
 A curated list of awesome projects.
 
 * [Aboriginal Linux](http://landley.net/aboriginal/): A shell script that builds the smallest/simplest linux system capable of rebuilding itself from source code
@@ -216,3 +215,16 @@ https://github.com/FSMaxB/lfs-me): A simple, fakeroot based, package manager for
 * [Yocto Project](https://www.yoctoproject.org): An open source collaboration project that helps developers create custom Linux-based systems regardless of the hardware architecture
 
 * [ZYDUX](https://github.com/rom1nux/zydux-forge): Toolbox to build the cross compiler and minimal GNU Linux from scratch named ZYDUX
+
+# Mirrors
+This repository is mirrored on multiple open-source infrastructures:
+
+* [GitHub](https://github.com/firasuke/awesome)
+
+* [GitLab](https://gitlab.com/firasuke/awesome)
+
+* [NotABug](https://notabug.org/firasuke/awesome)
+
+* [Bitbucket](https://bitbucket.org/firasuke/awesome)
+
+* [Framagit](https://framagit.org/firasuke/awesome)
