@@ -216,7 +216,7 @@ https://github.com/FSMaxB/lfs-me): A simple, fakeroot based, package manager for
 
 * [ZYDUX](https://github.com/rom1nux/zydux-forge): Toolbox to build the cross compiler and minimal GNU Linux from scratch named ZYDUX
 
-# Mirrors
+## Mirrors
 This repository is mirrored on multiple open-source infrastructures:
 
 * [GitHub](https://github.com/firasuke/awesome)
