@@ -1,5 +1,6 @@
 # awesome
-A curated list of awesome projects.
+A curated list of awesome projects that I both learnt and drew inspiration from
+whilst working on [glaucus](https://github.com/glaucuslinux/glaucus):
 
 * [Aboriginal Linux](http://landley.net/aboriginal/): A shell script that builds
 the smallest/simplest linux system capable of rebuilding itself from source code
@@ -11,6 +12,10 @@ environment based on the Linux kernel
 https://drewdevault.com/2017/05/05/Building-a-real-Linux-distro.html): Silver
 Unix is a POSIX userspace focused on cutting the fat out of the typical modern
 Unix userland
+
+* [Alfheim Linux](https://alfheimlinux.wixsite.com/alfheimlinux): A systemd
+free, Arch Linux based operating system customized to help you get the most out
+of your machine
 
 * [Alpine Linux](https://alpinelinux.org): a security-oriented, lightweight
 Linux distribution based on musl libc and busybox
@@ -189,7 +194,8 @@ server-centric Linux distribution using musl libc, pacman and s6
 social OS
 
 * [Minimal Linux Live (MLL)](http://minimal.idzona.com): A tiny educational
-Linux distribution, which is designed to be built from scratch by using a collection of automated shell scripts
+Linux distribution, which is designed to be built from scratch by using a
+collection of automated shell scripts
 
 * [mkroot](https://github.com/landley/mkroot): Simple Linux build, bootable
 under qemu for multiple architectures
@@ -328,14 +334,8 @@ the hardware architecture
 compiler and minimal GNU Linux from scratch named ZYDUX
 
 ## Mirrors
-This repository is mirrored on:
-
 * [GitHub](https://github.com/firasuke/awesome)
-
 * [GitLab](https://gitlab.com/firasuke/awesome)
-
 * [NotABug](https://notabug.org/firasuke/awesome)
-
 * [Bitbucket](https://bitbucket.org/firasuke/awesome)
-
 * [Framagit](https://framagit.org/firasuke/awesome)
