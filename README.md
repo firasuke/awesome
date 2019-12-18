@@ -168,6 +168,10 @@ on GNU/Linux
 * [lh-bootstrap](https://skarnet.org/software/lh-bootstrap): A set of scripts
 that build a disk image for a virtual machine such as QEMU
 
+* [Libertine Linux](https://github.com/libertine-linux/libertine): A secure,
+built-from git-controlled source Linux system that is fully auditable and runs
+solely from RAM
+
 * [lightcube-bootstrap-musl](
 https://github.com/jhuntwork/lightcube-bootstrap-musl): Scripts to bootstrap a
 build environment for LightCube OS using musl libc
