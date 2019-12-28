@@ -122,7 +122,7 @@ generator
 architecture targeted at experienced Linux users
 
 * [Cucumber Linux](https://cucumberlinux.com/): An independent distribution that
-is usable as an every day, general purpose operating system and aims to tdo this
+is usable as an every day, general purpose operating system and aims to do this
 in as minimalistic a way as possible and in a way that follows the Unix
 Philosophy
 
