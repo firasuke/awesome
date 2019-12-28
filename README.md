@@ -69,7 +69,7 @@ project that continues where the LFS book finishes
 * [Beyond Musl Linux From Scratch (BMLFS)](https://github.com/dslm4515/BMLFS):
 Build Recipes for MLFS [Musl Linux From Scratch]
 
-*  [bleeding-edge-toolchain](
+* [bleeding-edge-toolchain](
 https://github.com/FreddieChopin/bleeding-edge-toolchain): All-in-one script to
 build bleeding-edge-toolchain for ARM microcontrollers
 
@@ -120,6 +120,11 @@ generator
 
 * [Crux Linux](https://crux.nu): A lightweight Linux distribution for the x86-64
 architecture targeted at experienced Linux users
+
+* [Cucumber Linux](https://cucumberlinux.com/): An independent distribution that
+is usable as an every day, general purpose operating system and aims to tdo this
+in as minimalistic a way as possible and in a way that follows the Unix
+Philosophy
 
 * [Docker Linux From Scratch (DLFS)](https://github.com/reinterpretcat/lfs):
 Docker configuration for building Linux From Scratch system
