@@ -284,7 +284,7 @@ using TCC + uClibc
 * [rc](https://github.com/smaeul/rc): s6/s6-rc service management database
 
 * [rc-user](https://github.com/smaeul/rc-user): User s6-rc hierarchy meant for
-use with https://github.com/smaeul/rc
+use with [rc](https://github.com/smaeul/rc)
 
 * [rlsd2](http://rlsd2.dimakrasner.com/): A minimalistic GNU/Linux-libre distro
 
