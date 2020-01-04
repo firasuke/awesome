@@ -326,6 +326,10 @@ Distribution with Musl, BusyBox, and Java
 * [trinity](https://notabug.org/rain1/trinity): Toy linux distro based on
 morpheus
 
+* [Vanilla](http://projects.malikania.fr/vanilla/): A new radically different,
+simple, modern Linux distribution based on a complete LLVM toolchain, musl and
+busybox
+
 * [Venom Linux](https://github.com/venomlinux): A source based linux
 distribution originally built on top of LFS (Linux From Scratch) guide then
 independently grows make it usable for daily use
