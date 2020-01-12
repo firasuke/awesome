@@ -126,6 +126,11 @@ is usable as an every day, general purpose operating system and aims to do this
 in as minimalistic a way as possible and in a way that follows the Unix
 Philosophy
 
+* [Debian From Scratch](
+https://github.com/scottwilliambeasley/debian-from-scratch): An instruction
+manual for teaching Linux From Scratch users how to make a fully-fledged Debian
+system based on LFS
+
 * [Docker Linux From Scratch (DLFS)](https://github.com/reinterpretcat/lfs):
 Docker configuration for building Linux From Scratch system
 
