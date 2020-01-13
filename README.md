@@ -142,6 +142,9 @@ independent GNU/Linux-Libre distribution based on concepts of simplicity
 * [ELLCC](http://ellcc.org): A project using clang and the LLVM compiler
 infrastructure
 
+* [Eltanin](https://eltan.in.net/): A project aiming to produce a free, simple
+and complete general purpose operating system
+
 * [Embedded Linux Wiki](https://elinux.org): The purpose of this wiki is to
 preserve and present information about the development and use of Linux in
 embedded systems as well as open source projects and tools for general embedded
