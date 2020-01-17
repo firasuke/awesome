@@ -224,6 +224,9 @@ under qemu for multiple architectures
 * [Moebius](http://moebiuslinux.sourceforge.net/): Minimal Linux distribution
 for your Raspberry PI
 
+* [Monolinux](https://github.com/eerimoq/monolinux): An embedded Linux distro
+with a single statically linked executable
+
 * [Morpheus Linux](https://morpheus.2f30.org): suckless linux distro
 
 * [musl-cross](https://github.com/GregorR/musl-cross): A small suite of scripts
