@@ -332,6 +332,9 @@ or Distribution Build Kit (others might even name it Meta Distribution)
 * [TeoraLinux](https://github.com/AwlsomeAlex/TeoraLinux): An experimental Linux
 Distribution with Musl, BusyBox, and Java
 
+* [tldrlfs](https://github.com/Sweets/tldrlfs): Too Long; Didn't Read Linux From
+Scratch
+
 * [tomsrtbt](http://www.toms.net/rb/): The most GNU/Linux on 1 floppy disk
 
 * [trinity](https://notabug.org/rain1/trinity): Toy linux distro based on
