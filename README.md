@@ -365,8 +365,9 @@ the hardware architecture
 compiler and minimal GNU Linux from scratch named ZYDUX
 
 ## Mirrors
+* [Bitbucket](https://bitbucket.org/firasuke/awesome)
+* [Framagit](https://framagit.org/firasuke/awesome)
 * [GitHub](https://github.com/firasuke/awesome)
 * [GitLab](https://gitlab.com/firasuke/awesome)
 * [NotABug](https://notabug.org/firasuke/awesome)
-* [Bitbucket](https://bitbucket.org/firasuke/awesome)
-* [Framagit](https://framagit.org/firasuke/awesome)
+* [SourceHut](https://git.sr.ht/~firasuke/awesome)
