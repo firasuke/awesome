@@ -23,6 +23,9 @@ Linux distribution based on musl libc and busybox
 *   [Alpine-S6](https://github.com/woahbase/alpine-s6): Alpine Linux Base + S6
 Init System
 
+*   [Alter Linux](https://github.com/SereneTeam/alterlinux): ArchLinux based
+distro
+
 *   [android-toolchain-build](
 https://github.com/redstar3894/android-toolchain-build): The new Android GNU
 toolchain
@@ -325,6 +328,9 @@ based on the original pre-2010 plans of the suckless.org project, however since
 
 *   [StelaLinux](https://github.com/AwlsomeAlex/stelalinux): A lightweight,
 simple, and fast glibc/busybox/linux Distribution
+
+*   [swerve](https://github.com/swegbun/swerve): A suckless-inspired Unix-like
+monolithic kernel for i386
 
 *   [T2](https://t2sde.org): A flexible Open Source System Development Environment
 or Distribution Build Kit (others might even name it Meta Distribution)
