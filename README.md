@@ -319,6 +319,9 @@ musl libc and busybox
 *   [Spark](https://fleshless.org/pages/spark.html): Spark is an Arch Linux
 meta-distro with some core components swapped out
 
+*   [SSD/Linux](https://www.plathome.co.jp/support/labo/ssdlinux/): The SSD Linux
+operating system, which straps NetBSD userland functions onto the Linux kernel
+
 *   [StarLinux](https://github.com/AwlsomeAlex/starlinux): A Linux Distribution
 (rewritten from MLL) which can be build directly on the Host Machine
 
