@@ -121,6 +121,9 @@ customized Linux system entirely from source
 *   [Crosstool-NG](http://crosstool-ng.github.io): A versatile (cross) toolchain
 generator
 
+*   [crosware](https://github.com/ryanwoodsmall/crosware): Tools, things, stuff,
+miscellaneous, detritus, junk, etc., primarily for Chrome OS / Chromium OS
+
 *   [Crux Linux](https://crux.nu): A lightweight Linux distribution for the x86-64
 architecture targeted at experienced Linux users
 
