@@ -369,6 +369,9 @@ on the monolithic Linux® kernel
 *   [Warm Linux](https://github.com/WarmLinux): A lightweight Linux distribution
 designed for container-like environments
 
+*   [WombatOS]](https://afroraydude.com/wombatos): An attempt at a GNU-less Linux
+Distro
+
 *   [Yocto Project](https://www.yoctoproject.org): An open source collaboration
 project that helps developers create custom Linux-based systems regardless of
 the hardware architecture
