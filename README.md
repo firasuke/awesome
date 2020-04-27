@@ -180,6 +180,8 @@ scratch around the suckless philosophy without sacrificing convenience
 * [Glendix](http://www.glendix.org/): An attempt at porting ideas from the Plan
 9 operating system to Linux
 
+* [gnuxc](https://github.com/dm0-/gnuxc): GNU OS Cross-Compiler
+
 * [GoboLinux](https://gobolinux.org): An alternative Linux distribution which
 redefines the entire filesystem hierarchy
 
