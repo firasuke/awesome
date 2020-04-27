@@ -357,6 +357,9 @@ Scratch
 * [trinity](https://notabug.org/rain1/trinity): Toy linux distro based on
 morpheus
 
+* [UmVirt LFS (ULFS)](http://umvirt.com/linux/):Source code based transparent &
+autonomous GNU/Linux infrastructure
+
 * [Vanilla](http://projects.malikania.fr/vanilla/): A new radically different,
 simple, modern Linux distribution based on a complete LLVM toolchain, musl and
 busybox
