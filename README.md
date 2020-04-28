@@ -5,6 +5,9 @@ whilst working on [glaucus](https://github.com/glaucuslinux/glaucus):
 * [Aboriginal Linux](http://landley.net/aboriginal/): A shell script that builds
 the smallest/simplest linux system capable of rebuilding itself from source code
 
+* [Abyss OS](https://abyss.run/): A modern take on the “just enough OS” paradigm,
+with a focus on modern components (LLVM, musl) and flexibility
+
 * [Adelie Linux](https://www.adelielinux.org): A Free, Libre operating
 environment based on the Linux kernel
 
