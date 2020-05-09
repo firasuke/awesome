@@ -151,6 +151,11 @@ independent GNU/Linux-Libre distribution based on concepts of simplicity
 
 * [EasyOS](https://easyos.org): An experimental Linux distribution
 
+* [EERIE Linux](https://chiselapp.com/user/kraileth/repository/e5-musl/home):
+An experimental distribution which is built with an alternative C Library called
+musl, and also comes with the package manager pacman and generally tries to be
+very close to Arch Linux
+
 * [ELLCC](http://ellcc.org): A project using clang and the LLVM compiler
 infrastructure
 
