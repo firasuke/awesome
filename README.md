@@ -5,8 +5,8 @@ whilst working on [glaucus](https://github.com/glaucuslinux/glaucus):
 * [Aboriginal Linux](http://landley.net/aboriginal/): A shell script that builds
 the smallest/simplest linux system capable of rebuilding itself from source code
 
-* [Abyss OS](https://abyss.run/): A modern take on the “just enough OS” paradigm,
-with a focus on modern components (LLVM, musl) and flexibility
+* [Abyss OS](https://abyss.run/): A modern take on the “just enough OS”
+paradigm, with a focus on modern components (LLVM, musl) and flexibility
 
 * [Adelie Linux](https://www.adelielinux.org): A Free, Libre operating
 environment based on the Linux kernel
@@ -117,8 +117,8 @@ entirely from source on the ARM architecture
 
 * [CloverOS](https://cloveros.ga/): Performance optimized default Gentoo install
 
-* [Community Driven BLFS (CBLFS)](https://cblfs.clfs.org/index.php/Main_Page): An
-open project that takes over after you have completed a Cross-LFS based build
+* [Community Driven BLFS (CBLFS)](https://cblfs.clfs.org/index.php/Main_Page):
+An open project that takes over after you have completed a Cross-LFS based build
 
 * [Cross-Compiled Linux From Scratch (CLFS)](https://trac.clfs.org): A project
 that provides you with step-by-step instructions for building your own
