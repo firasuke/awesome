@@ -120,8 +120,8 @@ entirely from source on the ARM architecture
 * [Community Driven BLFS (CBLFS)](https://cblfs.clfs.org/index.php/Main_Page):
 An open project that takes over after you have completed a Cross-LFS based build
 
-* [CROSS-BUILDING LINUX](http://git.freesa.org/freesa/cbl): The Little Blue Linux
-build process
+* [CROSS-BUILDING LINUX](http://git.freesa.org/freesa/cbl): The Little Blue
+Linux build process
 
 * [Cross-Compiled Linux From Scratch (CLFS)](https://trac.clfs.org): A project
 that provides you with step-by-step instructions for building your own
