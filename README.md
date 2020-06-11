@@ -151,6 +151,9 @@ independent GNU/Linux-Libre distribution based on concepts of simplicity
 
 * [EasyOS](https://easyos.org): An experimental Linux distribution
 
+* [Eclectic Linux](https://github.com/eclectic-linux/design): A new mixed
+distribution based on Exherbo Linux
+
 * [EERIE Linux](https://chiselapp.com/user/kraileth/repository/e5-musl/home):
 An experimental distribution which is built with an alternative C Library called
 musl, and also comes with the package manager pacman and generally tries to be
