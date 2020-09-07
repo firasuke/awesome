@@ -141,8 +141,8 @@ is usable as an every day, general purpose operating system and aims to do this
 in as minimalistic a way as possible and in a way that follows the Unix
 Philosophy
 
-* [dahliaOS](https://dahliaos.io/): A modern, secure, lightweight and responsive operating system,
-combining the best of GNU/Linux and Fuchsia OS.
+* [dahliaOS](https://dahliaos.io/): A modern, secure, lightweight and responsive
+operating system, combining the best of GNU/Linux and Fuchsia OS
 
 * [Debian From Scratch](
 https://github.com/scottwilliambeasley/debian-from-scratch): An instruction
@@ -338,7 +338,8 @@ containers (includes execline, s6-linux-utils & a custom init)
 * [Sabotage Linux](http://sabo.xyz): An experimental linux distribution based on
 musl libc and busybox
 
-* [Serpent OS](https://www.serpentos.com/): A Truly Modern Linux* Distribution, Heavily Under Construction
+* [Serpent OS](https://www.serpentos.com/): A Truly Modern Linux* Distribution,
+Heavily Under Construction
 
 * [solyste](https://framagit.org/Ypnose/solyste): [s]illy, [o]dd and
 [l]ightweight [y]pnose's [st]atic [e]nvironment
@@ -403,8 +404,8 @@ Distro
 project that helps developers create custom Linux-based systems regardless of
 the hardware architecture
 
-* [Yosild](https://jm.iq.pl/yosild-my-your-linux-distribution/): A single shell script that builds a full, minimal Linux distribution,
-based on BusyBox
+* [Yosild](https://jm.iq.pl/yosild-my-your-linux-distribution/): A single shell
+script that builds a full, minimal Linux distribution, based on BusyBox
 
 * [Zandra Linux](http://zandra.xyz/): A simple musl-based Linux distribution
 
