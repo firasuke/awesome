@@ -141,6 +141,9 @@ is usable as an every day, general purpose operating system and aims to do this
 in as minimalistic a way as possible and in a way that follows the Unix
 Philosophy
 
+* [dahliaOS](https://dahliaos.io/): A modern, secure, lightweight and responsive operating system,
+combining the best of GNU/Linux and Fuchsia OS.
+
 * [Debian From Scratch](
 https://github.com/scottwilliambeasley/debian-from-scratch): An instruction
 manual for teaching Linux From Scratch users how to make a fully-fledged Debian
