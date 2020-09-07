@@ -335,6 +335,8 @@ containers (includes execline, s6-linux-utils & a custom init)
 * [Sabotage Linux](http://sabo.xyz): An experimental linux distribution based on
 musl libc and busybox
 
+* [Serpent OS](https://www.serpentos.com/): A Truly Modern Linux* Distribution, Heavily Under Construction
+
 * [solyste](https://framagit.org/Ypnose/solyste): [s]illy, [o]dd and
 [l]ightweight [y]pnose's [st]atic [e]nvironment
 
