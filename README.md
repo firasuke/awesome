@@ -403,6 +403,9 @@ Distro
 project that helps developers create custom Linux-based systems regardless of
 the hardware architecture
 
+* [Yosild](https://jm.iq.pl/yosild-my-your-linux-distribution/): A single shell script that builds a full, minimal Linux distribution,
+based on BusyBox
+
 * [Zandra Linux](http://zandra.xyz/): A simple musl-based Linux distribution
 
 * [ZYDUX](https://github.com/rom1nux/zydux-forge): Toolbox to build the cross
