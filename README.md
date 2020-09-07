@@ -149,6 +149,9 @@ https://github.com/scottwilliambeasley/debian-from-scratch): An instruction
 manual for teaching Linux From Scratch users how to make a fully-fledged Debian
 system based on LFS
 
+* [distri](https://distr1.org/): A Linux distribution to research fast package
+management
+
 * [Docker Linux From Scratch (DLFS)](https://github.com/reinterpretcat/lfs):
 Docker configuration for building Linux From Scratch system
 
