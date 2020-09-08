@@ -275,6 +275,9 @@ From Scratch using Musl as Libc
 * [muslpi](https://github.com/repk/muslpi): CLFS (Cross Linux From Scratch)
 build system for raspberry pi using the musl libc
 
+* [myLinux](https://github.com/troglobit/myLinux): A small UNIX like OS for
+embedded systems
+
 * [nenuzhnix](https://github.com/tpimh/nenuzhnix): The most useless linux distro
 
 * [NetBSD](http://netbsd.org): A free, fast, secure, and highly portable
