@@ -239,6 +239,9 @@ system, entirely from source code
 https://github.com/FSMaxB/lfs-me): A simple, fakeroot based, package manager for
 LFS heavily inspired by Archlinux' package management
 
+* [make-rootfs](https://github.com/medvid/make-rootfs): Set of make recipes to
+bootstrap static musl / llvm based filesystem image
+
 * [Mere Linux](https://github.com/jhuntwork/merelinux): A lightweight,
 server-centric Linux distribution using musl libc, pacman and s6
 
