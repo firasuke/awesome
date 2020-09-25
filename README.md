@@ -224,6 +224,9 @@ solely from RAM
 https://github.com/jhuntwork/lightcube-bootstrap-musl): Scripts to bootstrap a
 build environment for LightCube OS using musl libc
 
+* [LiGurOS](https://liguros.gitlab.io/): A source based distribution based on a
+broad family of Gentoo-based distributions
+
 * [Lilala Linux](https://github.com/ilmich/lilala-linux): Minimal linux for
 single board computer
 
