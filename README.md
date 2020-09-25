@@ -261,7 +261,10 @@ for your Raspberry PI
 * [Monolinux](https://github.com/eerimoq/monolinux): An embedded Linux distro
 with a single statically linked executable
 
-* [Morpheus Linux](https://morpheus.2f30.org): suckless linux distro
+* [Morpheus Linux](https://morpheus.2f30.org): A suckless linux distro
+
+* [MUE Linux](https://github.com/muevoid/mue-linux): An attempt at a minimalistic
+linux system with strong ideals
 
 * [musl-cross](https://github.com/GregorR/musl-cross): A small suite of scripts
 and patches for building musl libc cross compilers
