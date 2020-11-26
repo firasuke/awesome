@@ -104,6 +104,9 @@ building a basic Linux distribution
 * [Businesscard Linux](https://github.com/thirtythreeforty/businesscard-linux):
 A Buildroot distribution small enough to run on a business card
 
+* [Carbs Linux](https://carbslinux.org/): An in-development Linux® distribution
+with a suckless mindset
+
 * [Cavium](https://github.com/Cavium-Open-Source-Distributions): Cavium
 Open-Source Distributions
 
@@ -284,6 +287,10 @@ From Scratch using Musl as Libc
 * [muslpi](https://github.com/repk/muslpi): CLFS (Cross Linux From Scratch)
 build system for raspberry pi using the musl libc
 
+* [mutiny](https://mutiny.red/): BSD-inspired Linux system and research project
+aiming to be a testbed for interesting system design, forward thinking design
+choices, minimalism, and fun computing
+
 * [myLinux](https://github.com/troglobit/myLinux): A small UNIX like OS for
 embedded systems
 
@@ -327,6 +334,9 @@ interested in OS creation
 * [Panda Linux](https://github.com/PandaLinux/base-64): An open-source and free
 operating system based on Debian/Ubuntu and built entirely by compiling
 source-code, using custom optimizations
+
+* [Physix](https://physixproject.org/): An experimental, automated
+Build-From-Source Linux distribution; originally inspired by Linux From Scratch
 
 * [PiLFS](https://intestinate.com/pilfs): Linux From Scratch on the Raspberry Pi
 
