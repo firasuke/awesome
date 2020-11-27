@@ -425,6 +425,12 @@ designed for container-like environments
 * [WombatOS](https://afroraydude.com/wombatos): An attempt at a GNU-less Linux
 Distro
 
+* [Wyverkiss](https://github.com/wyvertux/wyverkiss): An alternative rootfs for
+KISS Linux that doesn't use GNU
+
+* [Wyvertux](https://github.com/wyvertux/wyvertux): A(n almost) GNU-free Linux
+distribution
+
 * [Yocto Project](https://www.yoctoproject.org): An open source collaboration
 project that helps developers create custom Linux-based systems regardless of
 the hardware architecture
