@@ -157,7 +157,7 @@ management
 
 * [Diverse Linux](https://gitlab.exherbo.org/diverse/diverse-design): A spin of
 Exherbo Linux that provides a set of opinionated defaults, lightweight and/or
-performant alternatives, binary packages and pre-installed utilities.
+performant alternatives, binary packages and pre-installed utilities
 
 * [Docker Linux From Scratch (DLFS)](https://github.com/reinterpretcat/lfs):
 Docker configuration for building Linux From Scratch system
