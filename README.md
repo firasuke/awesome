@@ -291,12 +291,18 @@ From Scratch using Musl as Libc
 * [muslpi](https://github.com/repk/muslpi): CLFS (Cross Linux From Scratch)
 build system for raspberry pi using the musl libc
 
+* [mussel](https://github.com/firasuke/mussel): The shortest and fastest script
+available today to build working cross compilers that target musl libc
+
 * [mutiny](https://mutiny.red/): BSD-inspired Linux system and research project
 aiming to be a testbed for interesting system design, forward thinking design
 choices, minimalism, and fun computing
 
 * [myLinux](https://github.com/troglobit/myLinux): A small UNIX like OS for
 embedded systems
+
+* [natick](https://github.com/awlsomealex/natick): A research Linux Distribution
+based on the latest Linux Kernel, the BusyBox userland, and the musl C library
 
 * [nenuzhnix](https://github.com/tpimh/nenuzhnix): The most useless linux distro
 
