@@ -212,6 +212,9 @@ scratch around the suckless philosophy without sacrificing convenience
 * [GoboLinux](https://gobolinux.org): An alternative Linux distribution which
 redefines the entire filesystem hierarchy
 
+* [iglunix](https://github.com/iglunix/iglunix): A Linux (and other kernels)
+distro with no GNU components
+
 * [KISS](https://k1ss.org): An independent Linux distribution with a focus on
 simplicity and the concept of "less is more"
 
