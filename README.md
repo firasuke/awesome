@@ -2,6 +2,9 @@
 A curated list of awesome projects that I both learnt and drew inspiration from
 whilst working on [glaucus](https://github.com/glaucuslinux/glaucus):
 
+* [Aalbus](https://github.com/Aalbus-linux/Aalbus): A Linux distribution using
+musl libc, the LLVM tool chain and a mostly (Net)BSD-derived userland
+
 * [Aboriginal Linux](http://landley.net/aboriginal/): A shell script that builds
 the smallest/simplest linux system capable of rebuilding itself from source code
 
