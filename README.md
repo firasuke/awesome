@@ -123,6 +123,9 @@ entirely from source on the ARM architecture
 
 * [CloverOS](https://cloveros.ga/): Performance optimized default Gentoo install
 
+* [CMLFS](https://github.com/dslm4515/CMLFS): Clang-Built Musl Linux From
+Scratch
+
 * [Community Driven BLFS (CBLFS)](https://cblfs.clfs.org/index.php/Main_Page):
 An open project that takes over after you have completed a Cross-LFS based build
 
