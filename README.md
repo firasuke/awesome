@@ -206,6 +206,9 @@ configuration for building with -O3, Graphite, and LTO optimizations
 
 * [gentoo-s6-services](https://github.com/rain-1/gentoo-s6-services)
 
+* [Glasnost Linux](https://www.glasnost.org/): A Linux® distribution using the
+Clang/LLVM toolchain and musl libc
+
 * [glaucus](https://github.com/glaucuslinux/glaucus): An independent,
 open-source, general-purpose, rolling-release Linux distribution built from
 scratch around the suckless philosophy without sacrificing convenience
