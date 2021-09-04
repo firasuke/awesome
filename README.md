@@ -349,6 +349,9 @@ and server, sponsored by the OpenMandriva Association
 * [OpenWrt](https://openwrt.org): A Linux operating system targeting embedded
 devices
 
+* [Optimux](https://github.com/dslm4515/Optimux): Optimized Musl Linux From
+Scratch
+
 * [OSDev](https://wiki.osdev.org): This website provides information about the
 creation of operating systems and serves as a community for those people
 interested in OS creation
