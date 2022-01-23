@@ -267,6 +267,10 @@ bootstrap static musl / llvm based filesystem image
 * [Mere Linux](https://github.com/jhuntwork/merelinux): A lightweight,
 server-centric Linux distribution using musl libc, pacman and s6
 
+* [MesaLock Linux](https://github.com/mesalock-linux/mesalock-distro): A
+memory-safe Linux distribution where the whole user space applications are
+rewritten in memory-safe programming languages like Rust and Go
+
 * [Metta OS](https://github.com/metta-systems/metta): A multimedia, mobile,
 social OS
 
