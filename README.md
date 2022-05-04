@@ -113,6 +113,9 @@ with a suckless mindset
 * [Cavium](https://github.com/Cavium-Open-Source-Distributions): Cavium
 Open-Source Distributions
 
+* [Chimera Linux](https://chimera-linux.org/): A Linux distribution based on
+FreeBSD userland and LLVM
+
 * [Clear Linux OS](https://clearlinux.org): An open source, rolling release
 Linux distribution optimized for performance and security, from the Cloud to the
 Edge, designed for customization, and manageability
