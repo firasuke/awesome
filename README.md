@@ -284,6 +284,9 @@ collection of automated shell scripts
 * [mkroot](https://github.com/landley/mkroot): Simple Linux build, bootable
 under qemu for multiple architectures
 
+* [MocaccinoOS](https://www.mocaccino.org/): A minimal Musl-based Linux From
+Scratch meta-distribution for the 21st century
+
 * [Moebius](http://moebiuslinux.sourceforge.net/): Minimal Linux distribution
 for your Raspberry PI
 
