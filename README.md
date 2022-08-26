@@ -381,6 +381,10 @@ a minimal initrd and filesystem
 * [pts-tcc](https://github.com/pts/pts-tcc): Tiny, self-contained C compiler
 using TCC + uClibc
 
+* [qLinux](https://qlinux.qware.org/doku.php): A distribution study, that uses
+[mussel](https://github.com/firasuke/mussel) to build a cross-compiled musl
+based Linux distribution
+
 * [rc](https://github.com/smaeul/rc): s6/s6-rc service management database
 
 * [rc-user](https://github.com/smaeul/rc-user): User s6-rc hierarchy meant for
