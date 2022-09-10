@@ -213,8 +213,9 @@ configuration for building with -O3, Graphite, and LTO optimizations
 Clang/LLVM toolchain and musl libc
 
 * [glaucus](https://github.com/glaucuslinux/glaucus): An independent,
-open-source, general-purpose, rolling-release Linux distribution built from
-scratch around the suckless philosophy without sacrificing convenience
+open-source, rolling-release, lightweight Linux® distribution based on musl libc
+and toybox, designed from scratch for optimum performance without sacrificing
+convenience
 
 * [Glendix](http://www.glendix.org/): An attempt at porting ideas from the Plan
 9 operating system to Linux
