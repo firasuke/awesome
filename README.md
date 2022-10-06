@@ -228,8 +228,8 @@ redefines the entire filesystem hierarchy
 * [iglunix](https://github.com/iglunix/iglunix): A Linux (and other kernels)
 distro with no GNU components
 
-* [KISS](https://k1ss.org): An independent Linux distribution with a focus on
-simplicity and the concept of "less is more"
+* [KISS](https://kisslinux.org/): An independent Linux distribution with a focus
+on simplicity and the concept of "less is more"
 
 * [KSLinux](https://github.com/Takeya-Yuki/KSLinux): A Linux Distribution Based
 on GNU/Linux
@@ -424,6 +424,9 @@ based on the original pre-2010 plans of the suckless.org project, however since
 
 * [StelaLinux](https://github.com/AwlsomeAlex/stelalinux): A lightweight,
 simple, and fast glibc/busybox/linux Distribution
+
+* [superBoxon](https://superboxon.com/): A GNU/Linux distribution based on the
+Slackware 64 current with a simple and human friendly BSD like init system
 
 * [swerve](https://github.com/swegbun/swerve): A suckless-inspired Unix-like
 monolithic kernel for i386
