@@ -332,6 +332,9 @@ based on the latest Linux Kernel, the BusyBox userland, and the musl C library
 * [NetBSD](http://netbsd.org): A free, fast, secure, and highly portable
 Unix-like Open Source operating system
 
+* [NOIR](https://github.com/noirlinux): An independent Linux® distribution with
+a focus on performance and practical functionality
+
 * [noname linux](https://github.com/xhebox/noname-linux): musl based, x86_64
 only, lightweight, personal distro 
 
