@@ -198,8 +198,8 @@ development
 * [Funtoo Linux](https://www.funtoo.org/Welcome): A community-developed Linux
 meta-distribution based upon Gentoo Linux
 
-* [Gary OS](https://github.com/garybgenett/gary-os): GaryOS is an entire
-GNU/Linux system in a single bootable file
+* [Gary OS](https://github.com/garybgenett/gary-os): An entire GNU/Linux system
+in a single bootable file
 
 * [Gentoo Linux](https://gentoo.org): A highly flexible, source-based Linux
 distribution
@@ -412,8 +412,11 @@ Heavily Under Construction
 * [solyste](https://framagit.org/Ypnose/solyste): [s]illy, [o]dd and
 [l]ightweight [y]pnose's [st]atic [e]nvironment
 
-* [Spark](https://fleshless.org/pages/spark.html): Spark is an Arch Linux
-meta-distro with some core components swapped out
+* [Spark](https://fleshless.org/pages/spark.html): An Arch Linux meta-distro
+with some core components swapped out
+
+* [Spider Linux](https://github.com/spider-linux/spiderlinux): A
+work-in-progress, modern, independent, free and open-source Linux distribution
 
 * [SSD/Linux](https://www.plathome.co.jp/support/labo/ssdlinux/): The SSD Linux
 operating system, which straps NetBSD userland functions onto the Linux kernel
@@ -421,9 +424,9 @@ operating system, which straps NetBSD userland functions onto the Linux kernel
 * [StarLinux](https://github.com/AwlsomeAlex/starlinux): A Linux Distribution
 (rewritten from MLL) which can be build directly on the Host Machine
 
-* [static linux (stali)](https://sta.li): stali is a static linux distribution
-based on the original pre-2010 plans of the suckless.org project, however since
-2018 it became independent from suckless.org and is maintained by Anselm solely
+* [static linux (stali)](https://sta.li): A static linux distribution based on
+the original pre-2010 plans of the suckless.org project, however since 2018 it
+became independent from suckless.org and is maintained by Anselm solely
 
 * [StelaLinux](https://github.com/AwlsomeAlex/stelalinux): A lightweight,
 simple, and fast glibc/busybox/linux Distribution
