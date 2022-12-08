@@ -471,8 +471,9 @@ on the monolithic Linux® kernel
 * [Warm Linux](https://github.com/WarmLinux): A lightweight Linux distribution
 designed for container-like environments
 
-* [WombatOS](https://afroraydude.com/wombatos): An attempt at a GNU-less Linux
-Distro
+* [Wombat Linux](https://wombatlinux.org/): A lightweight Linux distribution
+that relies on musl-libc over glibc and replaces the usual GNU Coreutils with
+Suckless Base
 
 * [Wyverkiss](https://github.com/wyvertux/wyverkiss): An alternative rootfs for
 KISS Linux that doesn't use GNU
