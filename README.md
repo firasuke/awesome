@@ -23,6 +23,10 @@ Unix userland
 free, Arch Linux based operating system customized to help you get the most out
 of your machine
 
+* [Alpaquita Linux](https://bell-sw.com/alpaquita-linux): A full-featured, fast
+and secure Linux operating system optimized for Java, with performance features
+including the BellSoft optimized musl version
+
 * [Alpine Linux](https://alpinelinux.org): A security-oriented, lightweight
 Linux distribution based on musl libc and busybox
 
