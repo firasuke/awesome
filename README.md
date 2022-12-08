@@ -238,6 +238,10 @@ on simplicity and the concept of "less is more"
 * [KSLinux](https://github.com/Takeya-Yuki/KSLinux): A Linux Distribution Based
 on GNU/Linux
 
+* [LangitKetujuh](https://langitketujuh.id/): A GNU/Linux distribution with
+glibc and musl libc based on VoidLinux, using runit init, KDE desktop
+environment, stable rolling release and efficient resource usage
+
 * [LFS-s6](https://github.com/djlucas/LFS-s6): s6 scripts for LFS and BLFS
 
 * [lh-bootstrap](https://skarnet.org/software/lh-bootstrap): A set of scripts
