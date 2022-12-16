@@ -229,6 +229,10 @@ convenience
 * [GoboLinux](https://gobolinux.org): An alternative Linux distribution which
 redefines the entire filesystem hierarchy
 
+* [Heads](https://github.com/osresearch/heads): A minimal Linux that runs as a
+coreboot or LinuxBoot ROM payload to provide a secure, flexible boot environment
+for laptops and servers
+
 * [iglunix](https://github.com/iglunix/iglunix): A Linux (and other kernels)
 distro with no GNU components
 
