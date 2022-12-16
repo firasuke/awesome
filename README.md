@@ -401,6 +401,10 @@ using TCC + uClibc
 [mussel](https://github.com/firasuke/mussel) to build a cross-compiled musl
 based Linux distribution
 
+* [Raptix](https://github.com/dslm4515/Raptix): An open-source operating system
+that uses [mussel](https://github.com/firasuke/mussel) to build a system running
+a Linux kernel with a custom filesystem hierarchy
+
 * [rc](https://github.com/smaeul/rc): s6/s6-rc service management database
 
 * [rc-user](https://github.com/smaeul/rc-user): User s6-rc hierarchy meant for
