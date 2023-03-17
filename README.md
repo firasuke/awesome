@@ -239,6 +239,10 @@ distro with no GNU components
 * [KISS](https://kisslinux.org/): An independent Linux distribution with a focus
 on simplicity and the concept of "less is more"
 
+* [Kreato Linux](https://linux.kreato.dev/): An independent Linux(R)
+distribution focused on modularity, simplicity and code readability, inspired
+from projects such as KISS Linux and Gentoo
+
 * [KSLinux](https://github.com/Takeya-Yuki/KSLinux): A Linux Distribution Based
 on GNU/Linux
 
