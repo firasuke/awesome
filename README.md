@@ -229,6 +229,9 @@ convenience
 * [GoboLinux](https://gobolinux.org): An alternative Linux distribution which
 redefines the entire filesystem hierarchy
 
+* [Hanh Linux](https://hanh-linux.github.io/): An independent, source-based
+Linux distribution that is fast, lightweight, simple and flexible
+
 * [Heads](https://github.com/osresearch/heads): A minimal Linux that runs as a
 coreboot or LinuxBoot ROM payload to provide a secure, flexible boot environment
 for laptops and servers
