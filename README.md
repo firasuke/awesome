@@ -287,6 +287,9 @@ LFS heavily inspired by Archlinux' package management
 * [make-rootfs](https://github.com/medvid/make-rootfs): Set of make recipes to
 bootstrap static musl / llvm based filesystem image
 
+* [managarm](https://github.com/managarm/managarm): A pragmatic
+microkernel-based OS with fully asynchronous I/O
+
 * [Mere Linux](https://github.com/jhuntwork/merelinux): A lightweight,
 server-centric Linux distribution using musl libc, pacman and s6
 
