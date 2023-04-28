@@ -300,9 +300,9 @@ rewritten in memory-safe programming languages like Rust and Go
 * [Metta OS](https://github.com/metta-systems/metta): A multimedia, mobile,
 social OS
 
-* [Minimal Linux Live (MLL)](http://minimal.idzona.com): A tiny educational
-Linux distribution, which is designed to be built from scratch by using a
-collection of automated shell scripts
+* [Minimal Linux Live (MLL)](https://ivandavidov.github.io/minimal): A tiny
+educational Linux distribution, which is designed to be built from scratch by
+using a collection of automated shell scripts
 
 * [mkroot](https://github.com/landley/mkroot): Simple Linux build, bootable
 under qemu for multiple architectures
