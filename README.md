@@ -420,7 +420,7 @@ a Linux kernel with a custom filesystem hierarchy
 * [rc-user](https://github.com/smaeul/rc-user): User s6-rc hierarchy meant for
 use with [rc](https://github.com/smaeul/rc)
 
-* [rlsd2](http://rlsd2.dimakrasner.com/): A minimalistic GNU/Linux-libre distro
+* [rlsd2](https://github.com/dimkr/rlsd2): A minimalistic GNU/Linux-libre distro
 
 * [rv8.io](https://github.com/rv8-io): RISC-V simulator for x86-64
 
