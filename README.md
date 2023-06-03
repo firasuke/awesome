@@ -216,10 +216,8 @@ configuration for building with -O3, Graphite, and LTO optimizations
 * [Glasnost Linux](https://www.glasnost.org/): A Linux® distribution using the
 Clang/LLVM toolchain and musl libc
 
-* [glaucus](https://www.glaucuslinux.org/): An independent,
-open-source, rolling-release, lightweight Linux® distribution based on musl libc
-and toybox, designed from scratch for optimum performance without sacrificing
-convenience
+* [glaucus](https://www.glaucuslinux.org/): A simple and lightweight Linux®
+distribution based on musl libc and toybox
 
 * [Glendix](http://www.glendix.org/): An attempt at porting ideas from the Plan
 9 operating system to Linux
