@@ -199,6 +199,10 @@ preserve and present information about the development and use of Linux in
 embedded systems as well as open source projects and tools for general embedded
 development
 
+* [eweOS](https://os.ewe.moe/): A musl-based, lightweight, general-purpose
+Linux distribution, which adopts musl libc and busybox to the latest versions
+of software with a rolling-release model
+
 * [Funtoo Linux](https://www.funtoo.org/Welcome): A community-developed Linux
 meta-distribution based upon Gentoo Linux
 
