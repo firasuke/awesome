@@ -394,6 +394,9 @@ Scratch
 creation of operating systems and serves as a community for those people
 interested in OS creation
 
+* [Owl](https://www.openwall.com/Owl/): A small security-enhanced Linux
+distribution for servers, appliances, and virtual appliances
+
 * [Panda Linux](https://github.com/PandaLinux/base-64): An open-source and free
 operating system based on Debian/Ubuntu and built entirely by compiling
 source-code, using custom optimizations
