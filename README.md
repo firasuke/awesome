@@ -519,7 +519,8 @@ the hardware architecture
 * [Yosild](https://jm.iq.pl/yosild-my-your-linux-distribution/): A single shell
 script that builds a full, minimal Linux distribution, based on BusyBox
 
-* [Zandra Linux](http://zandra.xyz/): A simple musl-based Linux distribution
+* [Zandra](http://zandra.org/): An independent musl-based Linux
+distribution based on the principles of simplicity and efficiency
 
 * [ZYDUX](https://github.com/rom1nux/zydux-forge): Toolbox to build the cross
 compiler and minimal GNU Linux from scratch named ZYDUX
