@@ -1,6 +1,6 @@
 # awesome
 A curated list of awesome projects that I both learnt and drew inspiration from
-whilst working on [glaucus](https://www.glaucuslinux.org/):
+whilst working on [glaucus](https://glaucuslinux.org/):
 
 * [Aalbus](https://github.com/Aalbus-linux/Aalbus): A Linux distribution using
 musl libc, the LLVM tool chain and a mostly (Net)BSD-derived userland
@@ -220,7 +220,7 @@ configuration for building with -O3, Graphite, and LTO optimizations
 * [Glasnost Linux](https://www.glasnost.org/): A Linux® distribution using the
 Clang/LLVM toolchain and musl libc
 
-* [glaucus](https://www.glaucuslinux.org/): A simple and lightweight Linux®
+* [glaucus](https://glaucuslinux.org/): A simple and lightweight Linux®
 distribution based on musl libc and toybox
 
 * [Glendix](http://www.glendix.org/): An attempt at porting ideas from the Plan
