@@ -11,7 +11,7 @@ the smallest/simplest linux system capable of rebuilding itself from source code
 * [Abyss OS](https://abyss.run/): A modern take on the “just enough OS”
 paradigm, with a focus on modern components (LLVM, musl) and flexibility
 
-* [Adelie Linux](https://www.adelielinux.org): A Free, Libre operating
+* [Adelie Linux](https://adelielinux.org): A Free, Libre operating
 environment based on the Linux kernel
 
 * [agunix](
@@ -48,7 +48,7 @@ written in posix shell
 * [apathy-mlfs](https://github.com/mssx86/apathy-mlfs): A libre linux from
 scratch book utilizing musl libc, libressl, sysvinit and partially busybox
 
-* [Arch Linux](https://www.archlinux.org): A simple, lightweight distribution
+* [Arch Linux](https://archlinux.org): A simple, lightweight distribution
 
 * [ARM Cross Linux From Scratch (arm-clfs)](
 https://github.com/predominant/arm-clfs): This repo, notes and instructions are
@@ -90,7 +90,7 @@ build bleeding-edge-toolchain for ARM microcontrollers
 https://islief.com/wiki/index.php/Bleeding_Linux_From_Scratch)
 
 * [B/LFS-s6](
-https://www.linuxquestions.org/questions/linux-from-scratch-13/%5Bannoucement%5D-b-lfs-s6-project-4175510228/)
+https://linuxquestions.org/questions/linux-from-scratch-13/%5Bannoucement%5D-b-lfs-s6-project-4175510228/)
 
 * [Bluedragon](https://wiki.gentoo.org/wiki/Project:Hardened_musl/Bluedragon): A
 security-enhanced, fully featured XFCE4 desktop, amd64 Gentoo system, built with
@@ -105,7 +105,7 @@ about building Linux based operating systems
 * [Buildroot](https://buildroot.org): A simple, efficient and easy-to-use tool
 to generate embedded Linux systems through cross-compilation
 
-* [Build Your Own Linux](http://www.buildyourownlinux.com): Walks users through
+* [Build Your Own Linux](http://buildyourownlinux.com): Walks users through
 building a basic Linux distribution
 
 * [Businesscard Linux](https://github.com/thirtythreeforty/businesscard-linux):
@@ -136,7 +136,7 @@ Scratch
 * [Community Driven BLFS (CBLFS)](https://cblfs.clfs.org/index.php/Main_Page):
 An open project that takes over after you have completed a Cross-LFS based build
 
-* [CROSS-BUILDING LINUX](http://git.freesa.org/freesa/cbl): The Little Blue
+* [CROSS-BUILDING LINUX](https://freesa.org/cbl.html): The Little Blue
 Linux build process
 
 * [Cross-Compiled Linux From Scratch (CLFS)](https://trac.clfs.org): A project
@@ -175,7 +175,7 @@ performant alternatives, binary packages and pre-installed utilities
 * [Docker Linux From Scratch (DLFS)](https://github.com/reinterpretcat/lfs):
 Docker configuration for building Linux From Scratch system
 
-* [Dragora GNU/Linux-Libre](https://www.dragora.org/en/index.html): An
+* [Dragora GNU/Linux-Libre](https://dragora.org/en/index.html): An
 independent GNU/Linux-Libre distribution based on concepts of simplicity
 
 * [EasyOS](https://easyos.org): An experimental Linux distribution
@@ -203,7 +203,7 @@ development
 Linux distribution, which adopts musl libc and busybox to the latest versions
 of software with a rolling-release model
 
-* [Funtoo Linux](https://www.funtoo.org/Welcome): A community-developed Linux
+* [Funtoo Linux](https://funtoo.org/Welcome): A community-developed Linux
 meta-distribution based upon Gentoo Linux
 
 * [Gary OS](https://github.com/garybgenett/gary-os): An entire GNU/Linux system
@@ -217,13 +217,13 @@ configuration for building with -O3, Graphite, and LTO optimizations
 
 * [gentoo-s6-services](https://github.com/rain-1/gentoo-s6-services)
 
-* [Glasnost Linux](https://www.glasnost.org/): A Linux® distribution using the
+* [Glasnost Linux](https://glasnost.org/): A Linux® distribution using the
 Clang/LLVM toolchain and musl libc
 
 * [glaucus](https://glaucuslinux.org/): A simple and lightweight Linux®
 distribution based on musl libc and toybox
 
-* [Glendix](http://www.glendix.org/): An attempt at porting ideas from the Plan
+* [Glendix](http://glendix.org/): An attempt at porting ideas from the Plan
 9 operating system to Linux
 
 * [gnuxc](https://github.com/dm0-/gnuxc): GNU OS Cross-Compiler
@@ -274,7 +274,7 @@ broad family of Gentoo-based distributions
 * [Lilala Linux](https://github.com/ilmich/lilala-linux): Minimal linux for
 single board computer
 
-* [Linaro](https://www.linaro.org): Together with Arm, Linaro co-maintains the
+* [Linaro](https://linaro.org): Together with Arm, Linaro co-maintains the
 Arm software ecosystem, providing the tools, security and Linux kernel quality
 needed for a solid base to differentiate on
 
@@ -309,7 +309,7 @@ using a collection of automated shell scripts
 * [mkroot](https://github.com/landley/mkroot): Simple Linux build, bootable
 under qemu for multiple architectures
 
-* [MocaccinoOS](https://www.mocaccino.org/): A minimal Musl-based Linux From
+* [MocaccinoOS](https://mocaccino.org/): A minimal Musl-based Linux From
 Scratch meta-distribution for the 21st century
 
 * [Moebius](http://moebiuslinux.sourceforge.net/): Minimal Linux distribution
@@ -373,15 +373,15 @@ systemd
 
 * [obarun-s6serv](https://github.com/Obarun/obarun-s6serv): s6 services
 
-* [OpenBSD](https://www.openbsd.org): A FREE, multi-platform 4.4BSD-based
+* [OpenBSD](https://openbsd.org): A FREE, multi-platform 4.4BSD-based
 UNIX-like operating system
 
-* [OpenEmbedded](http://www.openembedded.org/wiki/Main_Page): The build
+* [OpenEmbedded](http://openembedded.org/wiki/Main_Page): The build
 framework for embedded Linux that offers a best-in-class cross-compile
 environment and allows developers to create a complete Linux Distribution for
 embedded systems
 
-* [OpenMandriva](https://www.openmandriva.org): A full-featured Linux desktop
+* [OpenMandriva](https://openmandriva.org): A full-featured Linux desktop
 and server, sponsored by the OpenMandriva Association
 
 * [OpenWrt](https://openwrt.org): A Linux operating system targeting embedded
@@ -394,7 +394,7 @@ Scratch
 creation of operating systems and serves as a community for those people
 interested in OS creation
 
-* [Owl](https://www.openwall.com/Owl/): A small security-enhanced Linux
+* [Owl](https://openwall.com/Owl/): A small security-enhanced Linux
 distribution for servers, appliances, and virtual appliances
 
 * [Panda Linux](https://github.com/PandaLinux/base-64): An open-source and free
@@ -437,7 +437,7 @@ containers (includes execline, s6-linux-utils & a custom init)
 * [Sabotage Linux](http://sabo.xyz): An experimental linux distribution based on
 musl libc and busybox
 
-* [Serpent OS](https://www.serpentos.com/): A Truly Modern Linux* Distribution,
+* [Serpent OS](https://serpentos.com/): A Truly Modern Linux* Distribution,
 Heavily Under Construction
 
 * [solyste](https://framagit.org/Ypnose/solyste): [s]illy, [o]dd and
@@ -449,7 +449,7 @@ with some core components swapped out
 * [Spider Linux](https://github.com/spider-linux/spiderlinux): A
 work-in-progress, modern, independent, free and open-source Linux distribution
 
-* [SSD/Linux](https://www.plathome.co.jp/support/labo/ssdlinux/): The SSD Linux
+* [SSD/Linux](https://plathome.co.jp/support/labo/ssdlinux/): The SSD Linux
 operating system, which straps NetBSD userland functions onto the Linux kernel
 
 * [StarLinux](https://github.com/AwlsomeAlex/starlinux): A Linux Distribution
@@ -477,7 +477,7 @@ Distribution with Musl, BusyBox, and Java
 * [tldrlfs](https://github.com/Sweets/tldrlfs): Too Long; Didn't Read Linux From
 Scratch
 
-* [tomsrtbt](http://www.toms.net/rb/): The most GNU/Linux on 1 floppy disk
+* [tomsrtbt](http://toms.net/rb/): The most GNU/Linux on 1 floppy disk
 
 * [trinity](https://notabug.org/rain1/trinity): Toy linux distro based on
 morpheus
@@ -515,7 +515,7 @@ distribution
 * [Yamlld](https://github.com/EnterTheVoid-x86/yamlld): A busybox based musl libc
 Linux distro based on Yosild with many improvments to it
 
-* [Yocto Project](https://www.yoctoproject.org): An open source collaboration
+* [Yocto Project](https://yoctoproject.org): An open source collaboration
 project that helps developers create custom Linux-based systems regardless of
 the hardware architecture
 
