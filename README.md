@@ -136,7 +136,7 @@ Scratch
 * [Community Driven BLFS (CBLFS)](https://cblfs.clfs.org/index.php/Main_Page):
 An open project that takes over after you have completed a Cross-LFS based build
 
-* [CROSS-BUILDING LINUX](http://git.freesa.org/freesa/cbl): The Little Blue
+* [CROSS-BUILDING LINUX](https://freesa.org/cbl.html): The Little Blue
 Linux build process
 
 * [Cross-Compiled Linux From Scratch (CLFS)](https://trac.clfs.org): A project
@@ -238,7 +238,7 @@ Linux distribution that is fast, lightweight, simple and flexible
 coreboot or LinuxBoot ROM payload to provide a secure, flexible boot environment
 for laptops and servers
 
-* [iglunix](https://github.com/iglunix/iglunix): A Linux (and other kernels)
+* [iglunix](https://iglunix.org/): A Linux (and other kernels)
 distro with no GNU components
 
 * [KISS](https://kisslinux.org/): An independent Linux distribution with a focus
