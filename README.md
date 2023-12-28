@@ -232,6 +232,10 @@ distribution based on musl libc and toybox
 * [Glendix](http://www.glendix.org/): An attempt at porting ideas from the Plan
 9 operating system to Linux
 
+* [gnuinos](https://gnuinos.org/): a libre spin of Devuan GNU/Linux (a fork of
+Debian without systemd), allowing users to get control over their computer and
+ensuring Init Freedom
+
 * [gnuxc](https://github.com/dm0-/gnuxc): GNU OS Cross-Compiler
 
 * [GoboLinux](https://gobolinux.org): An alternative Linux distribution which
