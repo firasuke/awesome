@@ -48,6 +48,9 @@ written in posix shell
 * [apathy-mlfs](https://github.com/mssx86/apathy-mlfs): A libre linux from
 scratch book utilizing musl libc, libressl, sysvinit and partially busybox
 
+* [Arachsys Linux](https://arachsys.github.io/#linux-distribution): An
+opinionated 'from scratch' Linux distribution based on musl libc
+
 * [Arch Linux](https://www.archlinux.org): A simple, lightweight distribution
 
 * [ARM Cross Linux From Scratch (arm-clfs)](
