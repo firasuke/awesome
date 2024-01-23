@@ -450,6 +450,8 @@ musl libc and busybox
 * [Serpent OS](https://www.serpentos.com/): A Truly Modern Linux* Distribution,
 Heavily Under Construction
 
+* [Sigma Linux](https://github.com/rdbo/sigma-linux): An Σlite operating system
+
 * [solyste](https://framagit.org/Ypnose/solyste): [s]illy, [o]dd and
 [l]ightweight [y]pnose's [st]atic [e]nvironment
 
