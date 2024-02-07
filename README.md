@@ -102,6 +102,9 @@ musl as its C standard library
 * [bonsai](https://github.com/bonsai-linux/bonsai): A tiny Linux distribution
 focused on simplicity and security
 
+* [bootstrap-linux](https://github.com/pikhq/bootstrap-linux): A complete,
+self-bootstrapping musl-based Linux system
+
 * [build-linux](https://github.com/MichielDerhaeg/build-linux): A short tutorial
 about building Linux based operating systems
 
