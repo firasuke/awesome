@@ -51,7 +51,7 @@ scratch book utilizing musl libc, libressl, sysvinit and partially busybox
 * [Arachsys Linux](https://arachsys.github.io/#linux-distribution): An
 opinionated 'from scratch' Linux distribution based on musl libc
 
-* [Arch Linux](https://www.archlinux.org): A simple, lightweight distribution
+* [Arch Linux](https://archlinux.org): A simple, lightweight distribution
 
 * [ARM Cross Linux From Scratch (arm-clfs)](
 https://github.com/predominant/arm-clfs): This repo, notes and instructions are
@@ -184,8 +184,8 @@ performant alternatives, binary packages and pre-installed utilities
 * [Docker Linux From Scratch (DLFS)](https://github.com/reinterpretcat/lfs):
 Docker configuration for building Linux From Scratch system
 
-* [Dragora GNU/Linux-Libre](https://www.dragora.org/en/index.html): An
-independent GNU/Linux-Libre distribution based on concepts of simplicity
+* [Dragora GNU/Linux-Libre](https://dragora.org/en/index.html): An independent
+GNU/Linux-Libre distribution based on concepts of simplicity
 
 * [EasyOS](https://easyos.org): An experimental Linux distribution
 
@@ -407,7 +407,7 @@ Scratch
 creation of operating systems and serves as a community for those people
 interested in OS creation
 
-* [Owl](https://www.openwall.com/Owl/): A small security-enhanced Linux
+* [Owl](https://openwall.com/Owl/): A small security-enhanced Linux
 distribution for servers, appliances, and virtual appliances
 
 * [Panda Linux](https://github.com/PandaLinux/base-64): An open-source and free
@@ -450,7 +450,7 @@ containers (includes execline, s6-linux-utils & a custom init)
 * [Sabotage Linux](http://sabo.xyz): An experimental linux distribution based on
 musl libc and busybox
 
-* [Serpent OS](https://www.serpentos.com/): A Truly Modern Linux* Distribution,
+* [Serpent OS](https://serpentos.com/): A Truly Modern Linux* Distribution,
 Heavily Under Construction
 
 * [Sigma Linux](https://github.com/rdbo/sigma-linux): An Σlite operating system
