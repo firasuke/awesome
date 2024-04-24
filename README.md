@@ -403,6 +403,9 @@ devices
 * [Optimux](https://github.com/dslm4515/Optimux): Optimized Musl Linux From
 Scratch
 
+* [OS/1337](https://os1337.com/): A minimalist yet useable, CLI-Oriented
+Toybox/Linux + musl Distribution
+
 * [OSDev](https://wiki.osdev.org): This website provides information about the
 creation of operating systems and serves as a community for those people
 interested in OS creation
