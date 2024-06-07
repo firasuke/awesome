@@ -1,6 +1,6 @@
 # awesome
 A curated list of awesome projects that I both learnt and drew inspiration from
-whilst working on [glaucus](https://glaucuslinux.org/):
+whilst working on [glaucus](https://glaucuslinux.org/)
 
 - [Aalbus](https://github.com/Aalbus-linux/Aalbus): A Linux distribution using
 musl libc, the LLVM tool chain and a mostly (Net)BSD-derived userland
