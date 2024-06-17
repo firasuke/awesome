@@ -119,6 +119,8 @@ in as minimalistic a way as possible and in a way that follows the Unix
 Philosophy
 - [dahliaOS](https://dahliaos.io/): A modern, secure, lightweight and responsive
 operating system, combining the best of GNU/Linux and Fuchsia OS
+- [Damn Small Linux](https://www.damnsmalllinux.org/): A compact Linux
+distribution tailored for low-spec x86 computers
 - [Debian From Scratch](
 https://github.com/scottwilliambeasley/debian-from-scratch): An instruction
 manual for teaching Linux From Scratch users how to make a fully-fledged Debian
