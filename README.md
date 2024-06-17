@@ -178,6 +178,8 @@ coreboot or LinuxBoot ROM payload to provide a secure, flexible boot environment
 for laptops and servers
 - [iglunix](https://github.com/iglunix/iglunix): A Linux (and other kernels)
 distro with no GNU components
+- [Joborun Linux](https://joborun.neocities.org/joborun): Arch as it was meant
+to be utilizing Jwm OpenBox Obarun RUNit and/or s6/66
 - [KISS](https://kisslinux.org/): An independent Linux distribution with a focus
 on simplicity and the concept of "less is more"
 - [Kreato Linux](https://linux.kreato.dev/): An independent Linux(R)
