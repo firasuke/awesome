@@ -17,6 +17,9 @@ Unix userland
 - [Alfheim Linux](https://alfheimlinux.wixsite.com/alfheimlinux): A systemd
 free, Arch Linux based operating system customized to help you get the most out
 of your machine
+- [Alice Linux](https://codeberg.org/emmett1/alicelinux): A minimal distro that
+uses musl libc, busybox as main core utilities, a package manager written in
+POSIX shell script and Wayland as the only gui server
 - [Alpaquita Linux](https://bell-sw.com/alpaquita-linux): A full-featured, fast
 and secure Linux operating system optimized for Java, with performance features
 including the BellSoft optimized musl version
