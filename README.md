@@ -157,6 +157,8 @@ Linux distribution, which adopts musl libc and busybox to the latest versions
 of software with a rolling-release model
 - [Funtoo Linux](https://www.funtoo.org/Welcome): A community-developed Linux
 meta-distribution based upon Gentoo Linux
+- [Fusion OS](https://0xc0ffee.netlify.app/): A hobby operating system for
+x86-64 implemented in Nim
 - [Gary OS](https://github.com/garybgenett/gary-os): An entire GNU/Linux system
 in a single bootable file
 - [Gentoo Linux](https://gentoo.org): A highly flexible, source-based Linux
