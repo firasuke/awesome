@@ -333,6 +333,7 @@ with some core components swapped out
 work-in-progress, modern, independent, free and open-source Linux distribution
 - [SSD/Linux](https://www.plathome.co.jp/support/labo/ssdlinux/): The SSD Linux
 operating system, which straps NetBSD userland functions onto the Linux kernel
+- [stal/IX](https://stal-ix.github.io/): A statically linked, source based, bootstrapped rolling Linux, based on IX package manager, clang and musl
 - [StarLinux](https://github.com/AwlsomeAlex/starlinux): A Linux Distribution
 (rewritten from MLL) which can be build directly on the Host Machine
 - [static linux (stali)](https://sta.li): A static linux distribution based on
