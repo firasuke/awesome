@@ -385,6 +385,8 @@ the hardware architecture
 script that builds a full, minimal Linux distribution, based on BusyBox
 - [Zandra](http://zandra.org/): An independent musl-based Linux
 distribution based on the principles of simplicity and efficiency
+- [ZilchOS](https://github.com/ZilchOS): A decidedly tiny viable Linux
+distribution based on Nix, musl, clang and busybox
 - [ZYDUX](https://github.com/rom1nux/zydux-forge): Toolbox to build the cross
 compiler and minimal GNU Linux from scratch named ZYDUX
 
