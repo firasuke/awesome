@@ -185,6 +185,8 @@ coreboot or LinuxBoot ROM payload to provide a secure, flexible boot environment
 for laptops and servers
 - [iglunix](https://github.com/iglunix/iglunix): A Linux (and other kernels)
 distro with no GNU components
+- [Jan Baudisch linux](https://github.com/janbaudisch/linux): Jan Baudisch's
+take on a minimal Linux config, featuring musl and LLVM
 - [Joborun Linux](https://joborun.neocities.org/joborun): Arch as it was meant
 to be utilizing Jwm OpenBox Obarun RUNit and/or s6/66
 - [KISS](https://kisslinux.org/): An independent Linux distribution with a focus
