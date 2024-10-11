@@ -396,5 +396,4 @@ compiler and minimal GNU Linux from scratch named ZYDUX
 ## Mirrors
 - [Codeberg](https://codeberg.org/firasuke/awesome)
 - [GitHub](https://github.com/firasuke/awesome)
-- [GitLab](https://gitlab.com/firasuke/awesome)
 - [SourceHut](https://git.sr.ht/~firasuke/awesome)
