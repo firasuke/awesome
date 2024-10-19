@@ -105,7 +105,7 @@ Scratch
 An open project that takes over after you have completed a Cross-LFS based build
 - [Copacabana Linux](http://copacabana.pindorama.dob.jp): An independent Linux®
 distribution based on musl and Heirloom NG
-- [CROSS-BUILDING LINUX](http://git.freesa.org/freesa/cbl): The Little Blue
+- [Cross-Building Linux](https://repo.freesa.org/cbl.html): The Little Blue
 Linux build process
 - [Cross-Compiled Linux From Scratch (CLFS)](https://trac.clfs.org): A project
 that provides you with step-by-step instructions for building your own
