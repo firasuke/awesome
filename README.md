@@ -105,8 +105,6 @@ Scratch
 An open project that takes over after you have completed a Cross-LFS based build
 - [Copacabana Linux](http://copacabana.pindorama.dob.jp): An independent Linux®
 distribution based on musl and Heirloom NG
-- [Cross-Building Linux](https://repo.freesa.org/cbl.html): The Little Blue
-Linux build process
 - [Cross-Compiled Linux From Scratch (CLFS)](https://trac.clfs.org): A project
 that provides you with step-by-step instructions for building your own
 customized Linux system entirely from source
@@ -221,6 +219,8 @@ system, entirely from source code
 - [Linux From Scratch Made (more) Easy (LFS-ME)](
 https://github.com/FSMaxB/lfs-me): A simple, fakeroot based, package manager for
 LFS heavily inspired by Archlinux' package management
+- [Little Blue Linux](https://repo.freesa.org/cbl.html): the Little Blue Linux
+build process
 - [make-rootfs](https://github.com/medvid/make-rootfs): Set of make recipes to
 bootstrap static musl / llvm based filesystem image
 - [managarm](https://github.com/managarm/managarm): A pragmatic
