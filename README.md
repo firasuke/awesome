@@ -181,6 +181,10 @@ Linux distribution that is fast, lightweight, simple and flexible
 - [Heads](https://github.com/osresearch/heads): A minimal Linux that runs as a
 coreboot or LinuxBoot ROM payload to provide a secure, flexible boot environment
 for laptops and servers
+- [Hyperbola](https://www.hyperbola.info/): An independent, free and libre
+system built from scratch using the package-management from Arch GNU/Linux
+with a final goal of providing a full new BSD descendant operating-system named
+HyperbolaBSD
 - [iglunix](https://github.com/iglunix/iglunix): A Linux (and other kernels)
 distro with no GNU components
 - [Jan Baudisch linux](https://github.com/janbaudisch/linux): Jan Baudisch's
