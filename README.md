@@ -390,6 +390,8 @@ distro for the RPi zero, cross-compiled from scratch
 - [Yocto Project](https://www.yoctoproject.org): An open source collaboration
 project that helps developers create custom Linux-based systems regardless of
 the hardware architecture
+- [Yoe](https://yoedistro.org/): An Embedded Linux Distribution built on Yocto
+and OpenEmbedded with a focus on simplicity
 - [Yosild](https://jm.iq.pl/yosild-my-your-linux-distribution/): A single shell
 script that builds a full, minimal Linux distribution, based on BusyBox
 - [Zandra](http://zandra.org/): An independent musl-based Linux
