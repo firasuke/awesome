@@ -157,6 +157,7 @@ of software with a rolling-release model
 meta-distribution based upon Gentoo Linux
 - [Fusion OS](https://0xc0ffee.netlify.app/): A hobby operating system for
 x86-64 implemented in Nim
+- [Galeb](https://strahinja.srht.site/galeb/): A simple musl-based static distro
 - [Gary OS](https://github.com/garybgenett/gary-os): An entire GNU/Linux system
 in a single bootable file
 - [Gentoo Linux](https://gentoo.org): A highly flexible, source-based Linux
