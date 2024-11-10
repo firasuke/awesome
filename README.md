@@ -287,6 +287,8 @@ systemd
 - [obarun-s6serv](https://github.com/Obarun/obarun-s6serv): s6 services
 - [OpenBSD](https://www.openbsd.org): A FREE, multi-platform 4.4BSD-based
 UNIX-like operating system
+- [Opendistro](https://opendistro.org/): A project for researching and building
+software ecosystems, based on POSIX operating systems
 - [OpenEmbedded](http://www.openembedded.org/wiki/Main_Page): The build
 framework for embedded Linux that offers a best-in-class cross-compile
 environment and allows developers to create a complete Linux Distribution for
