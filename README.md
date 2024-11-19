@@ -267,10 +267,6 @@ build Linux kernel, a minimal userspace (e.g. nenuzhnix) and ultimately itself
 without using any GNU software
 - [Obarun Linux](https://web.obarun.org): Arch Linux based system without
 systemd
-- [obarun-s6rcserv](https://web.archive.org/web/20180612221514/https://github.com/Obarun/obarun-s6rcserv):
-s6-rc services
-- [obarun-s6serv](https://web.archive.org/web/20180830105735/https://github.com/Obarun/obarun-s6serv):
-s6 services
 - [OpenBSD](https://www.openbsd.org): A FREE, multi-platform 4.4BSD-based
 UNIX-like operating system
 - [Opendistro](https://opendistro.org/): A project for researching and building
@@ -344,8 +340,6 @@ friendly BSD like init system
 monolithic kernel for i386
 - [T2](https://t2sde.org): A flexible Open Source System Development Environment
 or Distribution Build Kit (others might even name it Meta Distribution)
-- [TeoraLinux](https://web.archive.org/web/20201118231543/https://github.com/AwlsomeAlex/TeoraLinux):
-An experimental Linux Distribution with Musl, BusyBox, and Java
 - [Tin Can Linux](https://tincan-linux.github.io/): An independent hobby
 distribution made with the goal of being compact, understandable, hackable, and easy
 to maintain with scraps I Found On The Internet
@@ -416,8 +410,14 @@ on GNU/Linux
 Set of make recipes to bootstrap static musl / llvm based filesystem image
 - [MUE Linux](https://github.com/muevoid/mue-linux): An attempt at a
 minimalistic linux system with strong ideals
+- [obarun-s6rcserv](https://web.archive.org/web/20180612221514/https://github.com/Obarun/obarun-s6rcserv):
+s6-rc services
+- [obarun-s6serv](https://web.archive.org/web/20180830105735/https://github.com/Obarun/obarun-s6serv):
+s6 services
 - [StarLinux](https://github.com/AwlsomeAlex/starlinux): A Linux Distribution
 (rewritten from MLL) which can be build directly on the Host Machine
+- [TeoraLinux](https://web.archive.org/web/20201118231543/https://github.com/AwlsomeAlex/TeoraLinux):
+An experimental Linux Distribution with Musl, BusyBox, and Java
 - [tomsrtbt](https://web.archive.org/web/20231228034935/http://www.toms.net/rb/):
 The most GNU/Linux on one floppy disk
 - [Warm Linux](https://github.com/WarmLinux): A lightweight Linux distribution
