@@ -382,8 +382,7 @@ distribution based on Nix, musl, clang and busybox
 - [ZYDUX](https://github.com/rom1nux/zydux-forge): Toolbox to build the cross
 compiler and minimal GNU Linux from scratch named ZYDUX
 
-## Discontinued Projects
-
+## Discontinued
 - [Abyss OS](https://github.com/abyss-os): A modern take on the “just enough OS”
 paradigm, with a focus on modern components (LLVM, musl) and flexibility
 - [Ataraxia Linux](https://gitlab.com/ataraxialinux/ataraxia): An independent,
