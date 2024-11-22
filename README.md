@@ -75,7 +75,8 @@ about building Linux based operating systems
 to generate embedded Linux systems through cross-compilation
 - [Businesscard Linux](https://github.com/thirtythreeforty/businesscard-linux):
 A Buildroot distribution small enough to run on a business card
-- [Build Your Own Linux](https://web.archive.org/web/20220903200435/http://www.buildyourownlinux.com/):
+- [Build Your Own Linux](
+https://web.archive.org/web/20220903200435/http://www.buildyourownlinux.com/):
 Walks users through building a basic Linux distribution
 - [Carbs Linux](https://carbslinux.org/): An in-development Linux® distribution
 with a suckless mindset
@@ -142,7 +143,8 @@ of software with a rolling-release model
 x86-64 implemented in Nim
 - [Galeb](https://strahinja.srht.site/galeb/): A simple musl-based static distro
 - [Gaming Linux From Scratch (GLFS)](https://linuxfromscratch.org/glfs/): A book
-that covers how to install packages like Steam and Wine after the Linux From Scratch book. 
+that covers how to install packages like Steam and Wine after the Linux From
+Scratch book
 - [Gary OS](https://garybgenett.net/projects/gary-os/): An entire GNU/Linux
 system in a single bootable file
 - [Gentoo Linux](https://gentoo.org): A highly flexible, source-based Linux
@@ -235,7 +237,8 @@ with a single statically linked executable
 - [Morpheus Linux](https://git.2f30.org/morpheus/file/README.html): A statically
 linked, musl-based Linux distro
 - [Multilib Linux From Scratch (MLFS)](https://linuxfromscratch.org/mlfs/): A
-variant of the LFS book which builds a system that is able to execute 32-bit binaries. 
+variant of the LFS book which builds a system that is able to execute 32-bit
+binaries
 - [musl-cross](https://github.com/GregorR/musl-cross): A small suite of scripts
 and patches for building musl libc cross compilers
 - [musl-cross-make](https://github.com/richfelker/musl-cross-make): Simple
@@ -249,8 +252,9 @@ build system for raspberry pi using the musl libc
 - [mussel](https://github.com/firasuke/mussel): The shortest and fastest script
 available today to build working cross compilers that target musl libc
 - [mutiny](https://web.archive.org/web/20220516184821/https://www.mutiny.red/):
-BSD-inspired Linux system and research project aiming to be a testbed for interesting
-system design, forward thinking design choices, minimalism, and fun computing
+BSD-inspired Linux system and research project aiming to be a testbed for
+interesting system design, forward thinking design choices, minimalism, and
+fun computing
 - [myLinux](https://github.com/troglobit/myLinux): An embedded operating system
 based on Buildroot and Finit
 - [natick](https://github.com/awlsomealex/natick): A research Linux Distribution
@@ -309,7 +313,8 @@ a Linux kernel with a custom filesystem hierarchy
 use with [rc](https://github.com/smaeul/rc)
 - [rlsd2](https://github.com/dimkr/rlsd2): A minimalistic GNU/Linux-libre distro
 - [rv8.io](https://michaeljclark.github.io/): RISC-V simulator for x86-64
-- [s6-boot](https://web.archive.org/web/20190307011807/https://github.com/Obarun/s6-boot):
+- [s6-boot](
+https://web.archive.org/web/20190307011807/https://github.com/Obarun/s6-boot):
 Boot files for s6
 - [s6-overlay](https://github.com/just-containers/s6-overlay): s6 overlay for
 containers (includes execline, s6-linux-utils & a custom init)
@@ -333,6 +338,10 @@ the original pre-2010 plans of the suckless.org project, however since 2018 it
 became independent from suckless.org and is maintained by Anselm solely
 - [StelaLinux](https://github.com/AwlsomeAlex/stelalinux): A lightweight,
 simple, and fast glibc/busybox/linux Distribution
+- [Suckless From Scratch](
+https://nyght.neocities.org/Projects/SFS/suckless-from-scratch): A true
+Suckless, linux based system from scratch, inspired by the ideas and concept
+behind the 'Linux From Scratch'
 - [superBoxon](https://web.archive.org/web/20240428122550/https://superboxon.com/):
 A GNU/Linux distribution based on the Slackware 64 current with a simple and human
 friendly BSD like init system
@@ -341,8 +350,8 @@ monolithic kernel for i386
 - [T2](https://t2sde.org): A flexible Open Source System Development Environment
 or Distribution Build Kit (others might even name it Meta Distribution)
 - [Tin Can Linux](https://tincan-linux.github.io/): An independent hobby
-distribution made with the goal of being compact, understandable, hackable, and easy
-to maintain with scraps I Found On The Internet
+distribution made with the goal of being compact, understandable, hackable, and
+easy to maintain with scraps I Found On The Internet
 - [tldrlfs](https://github.com/Sweets/tldrlfs): Too Long; Didn't Read Linux From
 Scratch
 - [trinity](https://notabug.org/rain1/trinity): Toy linux distro based on
@@ -359,15 +368,15 @@ grows make it usable for daily use
 distribution developed by Project Vine and many collaborators
 - [Void Linux](https://voidlinux.org): A general purpose operating system, based
 on the monolithic Linux® kernel
-- [Wombat Linux](https://github.com/wombatlinux): A lightweight Linux distribution
-that relies on musl-libc over glibc and replaces the usual GNU Coreutils with
-Suckless Base
+- [Wombat Linux](https://github.com/wombatlinux): A lightweight Linux
+distribution that relies on musl-libc over glibc and replaces the usual GNU
+Coreutils with Suckless Base
 - [Wyvertux](https://github.com/wyvertux/wyvertux): A(n almost) GNU-free Linux
 distribution
 - [Yamlld](https://github.com/EnterTheVoid-x86/yamlld): A busybox based musl
 libc Linux distro based on Yosild with many improvments to it
-- [Yeti OS](https://avs-origami.github.io/projects/yeti/): A custom bit-sized linux
-distro for the RPi zero, cross-compiled from scratch
+- [Yeti OS](https://avs-origami.github.io/projects/yeti/): A custom bit-sized
+linux distro for the RPi zero, cross-compiled from scratch
 - [Yocto Project](https://www.yoctoproject.org): An open source collaboration
 project that helps developers create custom Linux-based systems regardless of
 the hardware architecture
@@ -405,17 +414,21 @@ meta-distribution based upon Gentoo Linux
 configuration for building with -O3, Graphite, and LTO optimizations
 - [KSLinux](https://github.com/Takeya-Yuki/KSLinux): A Linux Distribution Based
 on GNU/Linux
-- [make-rootfs](https://web.archive.org/web/20201127233319/https://github.com/medvid/make-rootfs):
+- [make-rootfs](
+https://web.archive.org/web/20201127233319/https://github.com/medvid/make-rootfs):
 Set of make recipes to bootstrap static musl / llvm based filesystem image
 - [MUE Linux](https://github.com/muevoid/mue-linux): An attempt at a
 minimalistic linux system with strong ideals
-- [obarun-s6rcserv](https://web.archive.org/web/20180612221514/https://github.com/Obarun/obarun-s6rcserv):
+- [obarun-s6rcserv](
+https://web.archive.org/web/20180612221514/https://github.com/Obarun/obarun-s6rcserv):
 s6-rc services
-- [obarun-s6serv](https://web.archive.org/web/20180830105735/https://github.com/Obarun/obarun-s6serv):
+- [obarun-s6serv](
+https://web.archive.org/web/20180830105735/https://github.com/Obarun/obarun-s6serv):
 s6 services
 - [StarLinux](https://github.com/AwlsomeAlex/starlinux): A Linux Distribution
 (rewritten from MLL) which can be build directly on the Host Machine
-- [TeoraLinux](https://web.archive.org/web/20201118231543/https://github.com/AwlsomeAlex/TeoraLinux):
+- [TeoraLinux](
+https://web.archive.org/web/20201118231543/https://github.com/AwlsomeAlex/TeoraLinux):
 An experimental Linux Distribution with Musl, BusyBox, and Java
 - [tomsrtbt](https://web.archive.org/web/20231228034935/http://www.toms.net/rb/):
 The most GNU/Linux on one floppy disk
