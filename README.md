@@ -139,6 +139,8 @@ development
 - [eweOS](https://os.ewe.moe/): A musl-based, lightweight, general-purpose
 Linux distribution, which adopts musl libc and busybox to the latest versions
 of software with a rolling-release model
+- [Fatdog64](https://distro.ibiblio.org/fatdog/web/): A small yet versatile
+64-bit multi-user Linux distribution
 - [Fusion OS](https://0xc0ffee.netlify.app/osdev/): A hobby operating system for
 x86-64 implemented in Nim
 - [Galeb](https://strahinja.srht.site/galeb/): A simple musl-based static distro
