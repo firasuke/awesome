@@ -169,7 +169,8 @@ Linux distribution that is fast, lightweight, simple and flexible
 - [Heads](https://github.com/osresearch/heads): A minimal Linux that runs as a
 coreboot or LinuxBoot ROM payload to provide a secure, flexible boot environment
 for laptops and servers
-- [HeliumOS](https://www.heliumos.org/): A user-friendly, atomic desktop operating system built on an Enterprise Linux base and bootable containers.
+- [HeliumOS](https://www.heliumos.org/): An atomic desktop operating system
+built on top of AlmaLinux inheriting its stability, security, and compatibility
 - [Hyperbola](https://www.hyperbola.info/): An independent, free and libre
 system built from scratch using the package-management from Arch GNU/Linux
 with a final goal of providing a full new BSD descendant operating-system named
