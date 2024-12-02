@@ -421,6 +421,10 @@ on GNU/Linux
 - [make-rootfs](
 https://web.archive.org/web/20201127233319/https://github.com/medvid/make-rootfs):
 Set of make recipes to bootstrap static musl / llvm based filesystem image
+- [Mastodon Linux](https://www.pell.portland.or.us/~mastodon/): A Linux
+distribution that features a primarily BSD Unix userland, a completely a.out
+set of systems programs (to avoid glibc backwards incompatability), and a lot of
+experimental things
 - [MUE Linux](https://github.com/muevoid/mue-linux): An attempt at a
 minimalistic linux system with strong ideals
 - [obarun-s6rcserv](
