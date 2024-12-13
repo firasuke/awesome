@@ -354,8 +354,8 @@ monolithic kernel for i386
 - [T2](https://t2sde.org): A flexible Open Source System Development Environment
 or Distribution Build Kit (others might even name it Meta Distribution)
 - [Tin Can Linux](https://tincan-linux.github.io/): An independent hobby
-distribution made with the goal of being compact, understandable, hackable, and
-easy to maintain with scraps I Found On The Internet
+distribution, scrapped together with hidden gems from the Linux community, with
+the goal of being compact, understandable, hackable, and easy to maintain
 - [tldrlfs](https://github.com/Sweets/tldrlfs): Too Long; Didn't Read Linux From
 Scratch
 - [trinity](https://notabug.org/rain1/trinity): Toy linux distro based on
