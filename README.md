@@ -225,6 +225,9 @@ memory-safe Linux distribution where the whole user space applications are
 rewritten in memory-safe programming languages like Rust and Go
 - [Metta OS](https://github.com/metta-systems/metta): A multimedia, mobile,
 social OS
+- [Milis Linux](https://milislinux.gitlab.io/en/): A Linux kernel based
+operating system project that was developed by making use of LFS and has its own
+unique package building and management system
 - [minibase](https://github.com/arsv/minibase): A small static base system for
 Linux with a goal similar to that of busybox in small custom distributions
 - [Minimal Linux Live (MLL)](https://ivandavidov.github.io/minimal): A tiny
