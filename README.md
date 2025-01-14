@@ -419,6 +419,8 @@ distribution based on Exherbo Linux
 meta-distribution based upon Gentoo Linux
 - [GentooLTO](https://github.com/InBetweenNames/gentooLTO): A Gentoo Portage
 configuration for building with -O3, Graphite, and LTO optimizations
+- [Heddle](https://github.com/davedoesdev/heddle): A Linux distribution for
+Docker and KVM, built from scratch using Aboriginal Linux
 - [KSLinux](https://github.com/Takeya-Yuki/KSLinux): A Linux Distribution Based
 on GNU/Linux
 - [make-rootfs](
