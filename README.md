@@ -4,8 +4,6 @@ whilst working on [glaucus](https://glaucuslinux.org/)
 
 - [Aalbus](https://github.com/Aalbus-linux/Aalbus): A Linux distribution using
 musl libc, the LLVM tool chain and a mostly (Net)BSD-derived userland
-- [Aboriginal Linux](http://landley.net/aboriginal/): A shell script that builds
-the smallest/simplest linux system capable of rebuilding itself from source code
 - [Adelie Linux](https://www.adelielinux.org): A Free, Libre operating
 environment based on the Linux kernel
 - [agunix](
@@ -399,6 +397,8 @@ distribution based on Nix, musl, clang and busybox
 compiler and minimal GNU Linux from scratch named ZYDUX
 
 ## Discontinued
+- [Aboriginal Linux](http://landley.net/aboriginal/): A shell script that builds
+the smallest/simplest linux system capable of rebuilding itself from source code
 - [Abyss OS](https://github.com/abyss-os): A modern take on the “just enough OS”
 paradigm, with a focus on modern components (LLVM, musl) and flexibility
 - [Ataraxia Linux](https://gitlab.com/ataraxialinux/ataraxia): An independent,
