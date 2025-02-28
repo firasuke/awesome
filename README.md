@@ -3,26 +3,27 @@ A curated list of awesome projects that I both learnt and drew inspiration from
 whilst working on [glaucus](https://glaucuslinux.org/)
 
 ## Active
-- [Adelie Linux](https://www.adelielinux.org): A Free, Libre operating
-environment based on the Linux kernel
+- [Adelie Linux](https://www.adelielinux.org/): An independent Libre operating
+system based on the Linux kernel and musl runtime library
 - [Alice Linux](https://codeberg.org/emmett1/alicelinux): A minimal distro that
 uses musl libc, busybox as main core utilities, a package manager written in
 POSIX shell script and Wayland as the only gui server
-- [Alpaquita Linux](https://bell-sw.com/alpaquita-linux): A full-featured, fast
-and secure Linux operating system optimized for Java, with performance features
-including the BellSoft optimized musl version
-- [Alpine Linux](https://alpinelinux.org): A security-oriented, lightweight
+- [Alpaquita Linux](https://bell-sw.com/alpaquita-linux/): A Linux OS designed
+for containers and cloud environments, that offers a secure, minimal base image
+that meets the stringent requirements of a secure software supply chain
+- [Alpine Linux](https://alpinelinux.org/): A security-oriented, lightweight
 Linux distribution based on musl libc and busybox
-- [Alpine-S6](https://github.com/woahbase/alpine-s6): Alpine Linux Base + S6
-Init System
-- [Alter Linux](https://alter.fascode.net/): ArchLinux based distro
+- [Alpine-S6](https://github.com/woahbase/alpine-s6): MultiArch Alpine Linux +
+S6 Init System
+- [Alter Linux](https://alter.fascode.net/): ArchLinux-derived OS made in Japan
+aimed at being usable by anyone
 - [Arachsys Linux](https://arachsys.github.io/#linux-distribution): An
 opinionated 'from scratch' Linux distribution based on musl libc
-- [Arch Linux](https://archlinux.org): A simple, lightweight distribution
-- [Artix Linux](https://artixlinux.org): A rolling-release distribution, based
-on Arch Linux that uses OpenRC, runit or s6 as init because PID1 must be simple,
-secure and stable
-- [Automated Linux From Scratch (ALFS)](http://linuxfromscratch.org/alfs/): A
+- [Arch Linux](https://archlinux.org/): A simple, lightweight distribution
+- [Artix Linux](https://artixlinux.org/): A rolling-release distribution, based
+on Arch Linux that uses real init systems, because PID1 must be simple, secure
+and stable
+- [Automated Linux From Scratch (ALFS)](https://linuxfromscratch.org/alfs/): A
 project that creates the generic framework for an extendable system builder and
 package installer
 - [Bedrock Linux](https://bedrocklinux.org): A meta Linux distribution which
