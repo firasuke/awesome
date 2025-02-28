@@ -191,9 +191,6 @@ distribtion
 operating systems and serves as a community for those interested in OS creation
 - [pts-tcc](https://github.com/pts/pts-tcc): A tiny, self-contained C compiler
 using TCC + uClibc
-- [qLinux](https://qlinux.qware.org/doku.php): A distribution study, that uses
-[mussel](https://github.com/firasuke/mussel) to build a cross-compiled musl
-based Linux distribution
 - [s6-overlay](https://github.com/just-containers/s6-overlay): An s6 overlay for
 containers (includes execline, s6-linux-utils & a custom init)
 - [Sabotage](https://sabotage-linux.github.io/): An experimental linux
@@ -239,65 +236,63 @@ the hardware architecture
 and OpenEmbedded with a focus on simplicity
 
 ## Inactive
-- [Aalbus](https://github.com/Aalbus-linux/Aalbus): A Linux distribution using
-musl libc, the LLVM tool chain and a mostly (Net)BSD-derived userland
+- [Aalbus](https://github.com/Aalbus-linux/Aalbus): An experimental Linux
+distribution using musl libc, the LLVM tool chain and a mostly (Net)BSD-derived
+userland
 - [Aboriginal Linux](http://landley.net/aboriginal/): A shell script that builds
 the smallest/simplest linux system capable of rebuilding itself from source code
 - [Abyss OS](https://github.com/abyss-os): A modern take on the “just enough OS”
 paradigm, with a focus on modern components (LLVM, musl) and flexibility
-- [agunix](
-https://drewdevault.com/2017/05/05/Building-a-real-Linux-distro.html): Silver
-Unix is a POSIX userspace focused on cutting the fat out of the typical modern
-Unix userland
+- [agunix (Silver Unix)](
+https://drewdevault.com/2017/05/05/Building-a-real-Linux-distro.html): A POSIX
+userspace focused on cutting the fat out of the typical modern Unix userland
 - [Alfheim Linux](https://alfheimlinux.wixsite.com/alfheimlinux): A systemd
 free, Arch Linux based operating system customized to help you get the most out
 of your machine
 - [android-toolchain-build](
 https://github.com/redstar3894/android-toolchain-build): The new Android GNU
 toolchain
-- [apathy](https://github.com/gottaeat/apathy): A 64 bit libre linux
-distribution built from scratch using apathy-mlfs for its base; utilizing musl
-libc, libressl, partially busybox and sysvinit with a home-brewed init structure
-written in posix shell
+- [apathy](https://github.com/gottaeat/apathy): An independent homegrown
+operating system featuring Linux in its core, supplemented with musl libc and a
+standalone LLVM suite
 - [apathy-mlfs](https://github.com/gottaeat/apathy-mlfs): A libre linux from
 scratch book utilizing musl libc, libressl, sysvinit and partially busybox
-- [ARM Cross Linux From Scratch (arm-clfs)](
-https://github.com/predominant/arm-clfs): This repo, notes and instructions are
-designed to build linux from scratch in a cross compiled manner, in support of
-creating a stage1 tarball for Habitat Studio, for use with arm processors
-- [Ataraxia Linux](https://gitlab.com/ataraxialinux/ataraxia): An independent,
-multi-platform, general purpose operating system, based on the Linux kernel,
-musl libc and busybox
+- [ARM Cross Linux From Scratch (ARM-CLFS)](
+https://github.com/predominant/arm-clfs): Notes and instructions to build linux
+from scratch in a cross compiled manner
+- [Ataraxia Linux](https://gitlab.com/ataraxialinux/ataraxia): An independent
+Linux-based OS focusing on simplicity, security and privacy
 - [Bare Linux](https://github.com/uggedal/bare): Barely a Linux
-- [Baserock Linux](https://wiki.baserock.org/): A great way to build custom
-appliance systems with Linux
+- [Baserock](https://wiki.baserock.org/): A great way to build custom appliance
+systems with Linux
 - [Bleeding Linux From Scratch](
 https://islief.com/wiki/index.php/Bleeding_Linux_From_Scratch)
 - [B/LFS-s6](
 https://www.linuxquestions.org/questions/linux-from-scratch-13/%5Bannoucement%5D-b-lfs-s6-project-4175510228/)
 - [bootstrap-linux](https://github.com/pikhq/bootstrap-linux): A complete,
 self-bootstrapping musl-based Linux system
-- [build-linux](https://github.com/MichielDerhaeg/build-linux): A short tutorial
-about building Linux based operating systems
-- [Build Your Own Linux](
+- [Build Your Own Linux (From Scratch)](
 https://web.archive.org/web/20220903200435/http://www.buildyourownlinux.com/):
 Walks users through building a basic Linux distribution
-- [Businesscard Linux](https://github.com/thirtythreeforty/businesscard-linux):
+- [Build yourself a Linux](https://github.com/MichielDerhaeg/build-linux): A
+short tutorial about building Linux based operating systems
+- [Business Card Linux](https://github.com/thirtythreeforty/businesscard-linux):
 A Buildroot distribution small enough to run on a business card
-- [clfs-arm](https://github.com/LeeKyuHyuk/clfs-arm): A project that provides
-you with step-by-step instructions for building your own customized Linux system
-entirely from source on the ARM architecture
-- [CloverOS](https://gitgud.io/cloveros/cloveros): Performance optimized default
-Gentoo install
+- [CloverOS](https://gitgud.io/cloveros/cloveros): A minimal (middleware-free)
+and default out-of-the-box Gentoo image (stage4) and a performance-optimized
+packages repo (Binhost)
 - [Community Driven BLFS (CBLFS)](https://cblfs.clfs.org/index.php/Main_Page):
 An open project that takes over after you have completed a Cross-LFS based build
 - [Cross-Compiled Linux From Scratch (CLFS)](https://trac.clfs.org): A project
 that provides you with step-by-step instructions for building your own
 customized Linux system entirely from source
-- [Cucumber Linux](https://cucumberlinux.com/): An independent distribution
-that is usable as an every day, general purpose operating system and aims to
-do this in as minimalistic a way as possible and in a way that follows the Unix
-Philosophy
+- [Cross Linux From Scratch on the ARM architecture
+(CLFS-ARM)](https://github.com/LeeKyuHyuk/clfs-arm): A project that provides
+you with step-by-step instructions for building your own customized Linux system
+entirely from source
+- [Cucumber Linux](https://cucumberlinux.com/): An independent distribution that
+is usable as an every day, general purpose operating system in a minimalistic
+way that follows the Unix Philosophy
 - [Debian From Scratch](
 https://github.com/scottwilliambeasley/debian-from-scratch): An instruction
 manual for teaching Linux From Scratch users how to make a fully-fledged Debian
@@ -307,30 +302,31 @@ Exherbo Linux that provides a set of opinionated defaults, lightweight and/or
 performant alternatives, binary packages and pre-installed utilities
 - [Eclectic Linux](https://github.com/eclectic-linux/design): A new mixed
 distribution based on Exherbo Linux
-- [EERIE Linux](https://chiselapp.com/user/kraileth/repository/e5-musl/home):
-An experimental distribution which is built with an alternative C Library called
-musl, and also comes with the package manager pacman and generally tries to be
-very close to Arch Linux
+- [EERIE Linux](https://chiselapp.com/user/kraileth/repository/e5-musl/home): An
+experimental distribution built with an alternative C Library called musl, and
+also comes with the package manager pacman and generally tries to be very close
+to Arch Linux
 - [ELLCC](https://web.archive.org/web/20240331205540/http://ellcc.org/): A project
 using clang and the LLVM compiler infrastructure
-- [Funtoo Linux](https://www.funtoo.org/Welcome): A community-developed Linux
-meta-distribution based upon Gentoo Linux
+- [Funtoo Linux](https://funtoo.org/): A community-developed Linux
+meta-distribution and evolution of Gentoo Linux
 - [GentooLTO](https://github.com/InBetweenNames/gentooLTO): A Gentoo Portage
 configuration for building with -O3, Graphite, and LTO optimizations
 - [gentoo-s6-services](https://github.com/rain-1/gentoo-s6-services)
-- [Glasnost Linux](https://www.glasnost.org/): A Linux® distribution using the
+- [Glasnost Linux](https://glasnost.org/): A Linux® distribution using the
 Clang/LLVM toolchain and musl libc
-- [Glendix](http://www.glendix.org/): An attempt at porting ideas from the Plan
+- [Glendix](http://glendix.org/): An attempt at porting ideas from the Plan
 9 operating system to Linux
-- [gnuxc](https://github.com/dm0-/gnuxc): GNU OS Cross-Compiler
+- [gnuxc](https://github.com/dm0-/gnuxc): A GNU operating system cross-compiler,
+that can create a free, portable, Hurd-based, desktop OS from scratch
 - [Hanh Linux](https://hanh-linux.github.io/): An independent, source-based
 Linux distribution that is fast, lightweight, simple and flexible
 - [Heddle](https://github.com/davedoesdev/heddle): A Linux distribution for
 Docker and KVM, built from scratch using Aboriginal Linux
 - [Jan Baudisch linux](https://github.com/janbaudisch/linux): Jan Baudisch's
 take on a minimal Linux config, featuring musl and LLVM
-- [KISS](https://kisslinux.github.io/): An independent Linux distribution with a
-focus on simplicity and the concept of "less is more"
+- [KISS](https://kisslinux.github.io/): A Linux(R) meta-distribution for the
+x86_64 architecture with a focus on simplicity, sustainability and user freedom
 - [KSLinux](https://github.com/Takeya-Yuki/KSLinux): A Linux Distribution Based
 on GNU/Linux
 - [LFS-s6](https://github.com/djlucas/LFS-s6): s6 scripts for LFS and BLFS
@@ -344,43 +340,47 @@ build environment for LightCube OS using musl libc
 single board computer
 - [Linux From Scratch Made (more) Easy (LFS-ME)](
 https://github.com/FSMaxB/lfs-me): A simple, fakeroot based, package manager for
-LFS heavily inspired by Archlinux' package management
-- [Little Blue Linux](https://repo.freesa.org/cbl.html): the Little Blue Linux
-build process
+LFS heavily inspired by Arch Linux
+- [Linux From Scratch on the Raspberry Pi
+(PiLFS)](https://intestinate.com/pilfs): Build your own complete GNU/Linux
+distribution for the Pi
+- [Little Blue Linux (LBL)](https://repo.freesa.org/cbl.html): A basic but
+usable GNU/Linux operating system distribution that includes all the programs
+needed to rebuild itself from source code
 - [make-rootfs](
-https://web.archive.org/web/20201127233319/https://github.com/medvid/make-rootfs):
-Set of make recipes to bootstrap static musl / llvm based filesystem image
+https://web.archive.org/web/20201127233319/https://github.com/medvid/make-rootfs
+): A set of make recipes to bootstrap static musl / llvm based filesystem image
 - [Mastodon Linux](https://www.pell.portland.or.us/~mastodon/): A Linux
 distribution that features a primarily BSD Unix userland, a completely a.out
 set of systems programs (to avoid glibc backwards incompatability), and a lot of
 experimental things
-- [Mere Linux](https://github.com/jhuntwork/merelinux): A lightweight,
-server-centric Linux distribution using musl libc, pacman and s6
+- [Mere Linux](https://merelinux.org/): A lightweight Linux distribution built
+around musl libc, pacman and s6
 - [MesaLock Linux](https://github.com/mesalock-linux/mesalock-distro): A
 memory-safe Linux distribution where the whole user space applications are
 rewritten in memory-safe programming languages like Rust and Go
-- [Moebius](http://moebiuslinux.sourceforge.net/): Minimal Linux distribution
-for your Raspberry PI
-- [Monolinux](https://github.com/eerimoq/monolinux): An embedded Linux distro
-with a single statically linked executable
-- [Morpheus Linux](https://git.2f30.org/morpheus/file/README.html): A statically
-linked, musl-based Linux distro
+- [Moebius](http://moebiuslinux.sourceforge.net/): A minimal Linux distribution
+for the Raspberry PI
+- [Monolinux](https://github.com/eerimoq/monolinux): Create embedded Linux
+systems with a single statically linked executable
+- [morpheus](https://git.2f30.org/morpheus/file/README.html): A highly
+experimental, statically linked, musl-based Linux distro
 - [MUE Linux](https://github.com/muevoid/mue-linux): An attempt at a
 minimalistic linux system with strong ideals
 - [Musl-LFS-s6-Bootscripts](https://github.com/dslm4515/MLFS-S6-Bootscripts):
-Bootscripts to boot a MLFS/LFS system with s6 and s6-rc
-- [muslpi](https://github.com/repk/muslpi): CLFS (Cross Linux From Scratch)
+Bootscripts for Musl-LFS (MLFS) using S6 & S6-rc
+- [Muslpi](https://github.com/repk/muslpi): CLFS (Cross Linux From Scratch)
 build system for raspberry pi using the musl libc
-- [mutiny](https://web.archive.org/web/20220516184821/https://www.mutiny.red/):
-BSD-inspired Linux system and research project aiming to be a testbed for
+- [Mutiny](https://web.archive.org/web/20220516184821/https://www.mutiny.red/):
+A BSD-inspired Linux system and research project aiming to be a testbed for
 interesting system design, forward thinking design choices, minimalism, and
 fun computing
-- [natick](https://github.com/awlsomealex/natick): A research Linux Distribution
+- [natickOS](https://github.com/awlsomealex/natick): A research Linux Distribution
 based on the latest Linux Kernel, the BusyBox userland, and the musl C library
 - [nenuzhnix](https://github.com/tpimh/nenuzhnix): The most useless linux distro
-- [Non-GNU toolchain](https://github.com/tpimh/ngtc): Build a toolchain that can
-build Linux kernel, a minimal userspace (e.g. nenuzhnix) and ultimately itself
-without using any GNU software
+- [Non-GNU ToolChain (NGTC)](https://github.com/tpimh/ngtc): A toolchain that
+can build the Linux kernel, a minimal userspace (e.g. nenuzhnix) and ultimately
+itself without using any GNU software
 - [obarun-s6rcserv](
 https://web.archive.org/web/20180612221514/https://github.com/Obarun/obarun-s6rcserv):
 s6-rc services
@@ -389,54 +389,62 @@ https://web.archive.org/web/20180830105735/https://github.com/Obarun/obarun-s6se
 s6 services
 - [Opendistro](https://opendistro.org/): A project for researching and building
 software ecosystems, based on POSIX operating systems
-- [Optimux](https://github.com/dslm4515/Optimux): Optimized Musl Linux From
-Scratch
-- [Owl](https://openwall.com/Owl/): A small security-enhanced Linux
-distribution for servers, appliances, and virtual appliances
+- [Optimized Musl Linux From Scratch
+(Optimux)](https://github.com/dslm4515/Optimux): A deriviative of MLFS (Musl
+Linux From Scratch) with a focus on optimization and speed
+- [Openwall GNU/*/Linux (Owl)](https://openwall.com/Owl/): A small
+security-enhanced Linux distribution for servers, appliances, and virtual
+appliances
 - [Panda Linux](https://github.com/PandaLinux/base-64): An open-source and free
 operating system based on Debian/Ubuntu and built entirely by compiling
 source-code, using custom optimizations
 - [Physix](https://physixproject.org/): An experimental, automated
 Build-From-Source Linux distribution; originally inspired by Linux From Scratch
-- [PiLFS](https://intestinate.com/pilfs): Linux From Scratch on the Raspberry Pi
-- [Prelinux](https://github.com/mikejsavage/prelinux): A set of scripts to build
+- [prelinux](https://github.com/mikejsavage/prelinux): A set of scripts to build
 a minimal initrd and filesystem
+- [qLinux](https://qlinux.qware.org/doku.php): A distribution study, that uses
+[mussel](https://github.com/firasuke/mussel) to build a cross-compiled musl
+based Linux distribution
 - [Raptix](https://github.com/dslm4515/Raptix): An open-source operating system
 that uses [mussel](https://github.com/firasuke/mussel) to build a system running
 a Linux kernel with a custom filesystem hierarchy
-- [rc](https://github.com/smaeul/rc): s6/s6-rc service management database
-- [rc-user](https://github.com/smaeul/rc-user): User s6-rc hierarchy meant for
+- [rc](https://github.com/smaeul/rc): An s6/s6-rc service management database
+- [rc-user](https://github.com/smaeul/rc-user): A user s6-rc hierarchy meant for
 use with [rc](https://github.com/smaeul/rc)
-- [rlsd2](https://github.com/dimkr/rlsd2): A minimalistic GNU/Linux-libre distro
-- [rv8.io](https://michaeljclark.github.io/): RISC-V simulator for x86-64
+- [rlsd2](https://github.com/dimkr/rlsd2): A small, "live" operating system with
+GNU/Linux-libre, for the x86 and x86_64 architectures
+- [rv8.io](https://michaeljclark.github.io/): A RISC-V simulation suite
+comprising a high performance x86-64 binary translator, a user mode simulator, a
+full system emulator, an ELF binary analysis tool and ISA metadata
 - [s6-boot](
 https://web.archive.org/web/20190307011807/https://github.com/Obarun/s6-boot):
 Boot files for s6
 - [Spark](https://fleshless.org/pages/spark.html): An Arch Linux meta-distro
-with some core components swapped out
+with systemd swapped out for other solutions
 - [Spider Linux](https://github.com/spider-linux/spiderlinux): A
 work-in-progress, modern, independent, free and open-source Linux distribution
 - [SSD/Linux](https://www.plathome.co.jp/support/labo/ssdlinux/index_e.html):
-The SSD Linux operating system, which straps NetBSD userland functions onto the
+The SSD Linux operating system, that straps NetBSD userland functions onto the
 Linux kernel
 - [StarLinux](https://github.com/AwlsomeAlex/starlinux): A Linux Distribution
 (rewritten from MLL) which can be build directly on the Host Machine
-- [static linux (stali)](https://sta.li): A static linux distribution based on
+- [static linux (stali)](https://sta.li/): A static linux distribution based on
 the original pre-2010 plans of the suckless.org project, however since 2018 it
 became independent from suckless.org and is maintained by Anselm solely
-- [StelaLinux](https://github.com/AwlsomeAlex/stelalinux): A lightweight,
-simple, and fast glibc/busybox/linux Distribution
+- [StelaLinux](https://github.com/AwlsomeAlex/stelalinux): A research Linux
+Distribution built with the Linux Kernel, musl C Library, the BusyBox Userland,
+and a custom init script
 - [superBoxon](https://web.archive.org/web/20240428122550/https://superboxon.com/):
 A GNU/Linux distribution based on the Slackware 64 current with a simple and human
 friendly BSD like init system
 - [swerve](https://github.com/swegbun/swerve): A suckless-inspired Unix-like
-monolithic kernel for i386
+monolithic kernel originally designed for i386 machines
 - [TeoraLinux](
 https://web.archive.org/web/20201118231543/https://github.com/AwlsomeAlex/TeoraLinux):
 An experimental Linux Distribution with Musl, BusyBox, and Java
 - [tomsrtbt](https://web.archive.org/web/20231228034935/http://www.toms.net/rb/):
 The most GNU/Linux on one floppy disk
-- [trinity](https://notabug.org/rain1/trinity): Toy linux distro based on
+- [trinity](https://notabug.org/rain1/trinity): A toy linux distro based on
 morpheus
 - [Vanilla](http://projects.malikania.fr/vanilla/): A new radically different,
 simple, modern Linux distribution based on a complete LLVM toolchain, musl and
@@ -445,9 +453,8 @@ busybox
 distribution developed by Project Vine and many collaborators
 - [Warm Linux](https://github.com/WarmLinux): A lightweight Linux distribution
 designed for container-like environments
-- [Wombat Linux](https://github.com/wombatlinux): A lightweight Linux
-distribution that relies on musl-libc over glibc and replaces the usual GNU
-Coreutils with Suckless Base
+- [Wombat Linux](https://github.com/wombatlinux): A lightweight linux
+distribution built on top of Musl
 - [Wyverkiss](https://github.com/wyvertux/wyverkiss): An alternative rootfs for
 KISS Linux that doesn't use GNU
 - [Wyvertux](https://github.com/wyvertux/wyvertux): A(n almost) GNU-free Linux
