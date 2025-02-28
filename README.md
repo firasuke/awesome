@@ -175,6 +175,7 @@ Unix-like Open Source operating system
 a focus on performance and practical functionality
 - [noname linux](https://github.com/xhebox/noname-linux): A musl based, x86_64
 only, lightweight, personal distro
+- [oasis](https://github.com/oasislinux/oasis): A small linux system
 - [Obarun](https://web.obarun.org/): Arch Linux based system without
 systemd
 - [OpenBSD](https://openbsd.org/): A FREE, multi-platform 4.4BSD-based UNIX-like
