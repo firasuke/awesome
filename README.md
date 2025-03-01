@@ -125,6 +125,8 @@ maintain your own system
 - [Kreato Linux](https://linux.kreato.dev/): An independent Linux(R)
 distribution focused on modularity, simplicity and code readability, inspired
 from projects such as KISS, Gentoo and Arch Linux
+- [Kwort](https://kwort.org/): A minimalist and fast Linux distribution based
+on CRUX
 - [LangitKetujuh](https://langitketujuh.id/): A GNU/Linux distribution with
 glibc and musl libc based on VoidLinux, using runit init and KDE desktop
 environment
