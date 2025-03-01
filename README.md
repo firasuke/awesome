@@ -5,6 +5,8 @@ whilst working on [glaucus](https://glaucuslinux.org/)
 ## Active
 - [Adélie Linux](https://adelielinux.org/): An independent Libre operating
 system based on the Linux kernel and musl runtime library
+- [AerynOS](https://aerynos.com/): A modern, innovative, and forward-thinking
+Linux distribution
 - [Alice Linux](https://codeberg.org/emmett1/alicelinux): A minimal distro that
 uses musl libc, busybox as main core utilities, a package manager written in
 POSIX shell script and Wayland as the only gui server
