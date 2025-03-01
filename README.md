@@ -353,6 +353,8 @@ distribution for the Pi
 - [Little Blue Linux (LBL)](https://repo.freesa.org/cbl.html): A basic but
 usable GNU/Linux operating system distribution that includes all the programs
 needed to rebuild itself from source code
+- [Mage GNU/Linux](https://github.com/mage-linux): An experimental GNU/Linux
+distribution aiming at being simple and easy
 - [make-rootfs](
 https://web.archive.org/web/20201127233319/https://github.com/medvid/make-rootfs
 ): A set of make recipes to bootstrap static musl / llvm based filesystem image
