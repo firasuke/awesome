@@ -28,10 +28,9 @@ and stable
 - [Automated Linux From Scratch (ALFS)](https://linuxfromscratch.org/alfs/): A
 project that creates the generic framework for an extendable system builder and
 package installer
-- [Bedrock Linux](https://bedrocklinux.org/): A meta Linux distribution which
+- [Bedrock Linux](https://bedrocklinux.org/): A meta Linux distribution that
 allows users to mix-and-match components from other, typically incompatible
-distributions and integrates these components into one largely cohesive
-system
+distributions and integrates these components into one largely cohesive system
 - [Beyond Linux From Scratch (BLFS)](https://linuxfromscratch.org/blfs/): A
 project that continues where the LFS book finishes
 - [Beyond Musl Linux From Scratch (BMLFS)](https://github.com/dslm4515/BMLFS):
@@ -84,7 +83,7 @@ general-purpose operating system
 about the development and use of Linux in embedded systems as well as open
 source projects and tools for general embedded development
 - [eweOS](https://os.ewe.moe/): A musl-based, lightweight, general-purpose
-Linux distribution, which adopts musl libc and busybox to the latest versions of
+Linux distribution, that adopts musl libc and busybox to the latest versions of
 software with a rolling-release model
 - [Fatdog64](https://distro.ibiblio.org/fatdog/web/): A small yet versatile
 64-bit multi-user Linux distribution
@@ -106,7 +105,7 @@ distribution based on musl libc and toybox
 - [gnuinos](https://gnuinos.org/): A libre spin of Devuan GNU/Linux (a fork of
 Debian without systemd), allowing users to get control over their computer and
 ensuring Init Freedom
-- [GoboLinux](https://gobolinux.org/): An alternative Linux distribution which
+- [GoboLinux](https://gobolinux.org/): An alternative Linux distribution that
 redefines the entire filesystem hierarchy
 - [Heads](https://osresearch.net/): A minimal Linux that runs as a coreboot
 or LinuxBoot ROM payload to provide a secure, flexible boot environment for
@@ -121,8 +120,8 @@ goal to provide a full new BSD descendant operating-system named HyperbolaBSD
 - [Joborun Linux](https://joborun.neocities.org/joborun): Arch as it was meant
 to be, simple, fast, secure, cutting edge - with runit and without systemd
 - [KISS Linux Community](https://kisscommunity.org/): A meta-distribution
-created by Dylan Araps, featuring the kiss package manager which makes it easy
-to maintain your own system
+created by Dylan Araps, featuring the kiss package manager that makes it easy to
+maintain your own system
 - [Kreato Linux](https://linux.kreato.dev/): An independent Linux(R)
 distribution focused on modularity, simplicity and code readability, inspired
 from projects such as KISS, Gentoo and Arch Linux
@@ -430,7 +429,7 @@ work-in-progress, modern, independent, free and open-source Linux distribution
 The SSD Linux operating system, that straps NetBSD userland functions onto the
 Linux kernel
 - [StarLinux](https://github.com/AwlsomeAlex/starlinux): A Linux Distribution
-(rewritten from MLL) which can be build directly on the Host Machine
+(rewritten from MLL) that can be build directly on the Host Machine
 - [static linux (stali)](https://sta.li/): A static linux distribution based on
 the original pre-2010 plans of the suckless.org project, however since 2018 it
 became independent from suckless.org and is maintained by Anselm solely
