@@ -99,6 +99,8 @@ on x86_64 systems
 system in a single bootable file
 - [Gentoo Linux](https://gentoo.org/): A highly flexible, source-based Linux
 distribution
+- [Glacies](https://eltaninos.org/download/distros/glacies/): An operating
+system composed of the Eltanin userland and the Linux® kernel
 - [glaucus](https://glaucuslinux.org/): A simple and lightweight Linux®
 distribution based on musl libc and toybox
 - [gnuinos](https://gnuinos.org/): A libre spin of Devuan GNU/Linux (a fork of
