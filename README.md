@@ -407,12 +407,10 @@ source-code, using custom optimizations
 Build-From-Source Linux distribution; originally inspired by Linux From Scratch
 - [prelinux](https://github.com/mikejsavage/prelinux): A set of scripts to build
 a minimal initrd and filesystem
-- [qLinux](https://qlinux.qware.org/doku.php): A distribution study, that uses
-[mussel](https://github.com/firasuke/mussel) to build a cross-compiled musl
-based Linux distribution
+- [qLinux](https://qlinux.qware.org/doku.php/0verview): A visionary distribution
+study
 - [Raptix](https://github.com/dslm4515/Raptix): An open-source operating system
-that uses [mussel](https://github.com/firasuke/mussel) to build a system running
-a Linux kernel with a custom filesystem hierarchy
+(OS) running a Linux kernel with a custom filesystem hierarchy
 - [rc](https://github.com/smaeul/rc): An s6/s6-rc service management database
 - [rc-user](https://github.com/smaeul/rc-user): A user s6-rc hierarchy meant for
 use with [rc](https://github.com/smaeul/rc)
