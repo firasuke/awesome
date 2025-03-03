@@ -201,8 +201,6 @@ using TCC + uClibc
 containers (includes execline, s6-linux-utils & a custom init)
 - [Sabotage](https://sabotage-linux.github.io/): An experimental linux
 distribution based on musl libc and busybox
-- [Serpent OS](https://serpentos.com/): A modern Linux distribution using atomic
-updates, cutting-edge tooling and rock-solid reliability
 - [Sigma Linux](https://github.com/rdbo/sigma-linux): An Σlite operating system
 - [sixos](https://codeberg.org/amjoseph/sixos): A NixOS without systemd
 - [solyste](https://ywstd.fr/solyste/): [s]illy, [o]dd and [l]ightweight
@@ -425,6 +423,8 @@ full system emulator, an ELF binary analysis tool and ISA metadata
 - [s6-boot](
 https://web.archive.org/web/20190307011807/https://github.com/Obarun/s6-boot):
 Boot files for s6
+- [Serpent OS](https://serpentos.com/): A modern Linux distribution using atomic
+updates, cutting-edge tooling and rock-solid reliability
 - [Spark](https://fleshless.org/pages/spark.html): An Arch Linux meta-distro
 with systemd swapped out for other solutions
 - [Spider Linux](https://github.com/spider-linux/spiderlinux): A
