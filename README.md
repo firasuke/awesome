@@ -55,6 +55,8 @@ Linux distribution optimized for performance and security, from the Cloud to the
 Edge, designed for customization, and manageability
 - [CMLFS](https://github.com/dslm4515/CMLFS): Clang-built Musl Linux From
 Scratch
+- [CoolRune](https://github.com/Michael-Sebero/CoolRune): A high-performance,
+security-focused meta-distribution of Artix Linux
 - [Copacabana Linux](https://copacabana.pindorama.net.br/): An independent
 Linux® distribution focused on sanity, modularity and liberty based on musl as
 the C standard library and Heirloom NG as UNIX®-compatible basic command line
