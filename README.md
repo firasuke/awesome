@@ -102,8 +102,8 @@ system in a single bootable file
 distribution
 - [Glacies](https://eltaninos.org/download/distros/glacies/): An operating
 system composed of the Eltanin userland and the Linux® kernel
-- [glaucus](https://glaucuslinux.org/): A simple and lightweight Linux®
-distribution based on musl libc and toybox
+- [glaucus](https://glaucuslinux.org/): A simple, lightweight and opinionated
+Linux® distribution based on musl libc and toybox
 - [gnuinos](https://gnuinos.org/): A libre spin of Devuan GNU/Linux (a fork of
 Debian without systemd), allowing users to get control over their computer and
 ensuring Init Freedom
