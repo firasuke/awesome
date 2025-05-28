@@ -1,6 +1,4 @@
 # awesome
-A curated list of awesome projects that I both learnt and drew inspiration from
-whilst working on [glaucus](https://glaucuslinux.org/)
 
 ## Active
 - [Adélie Linux](https://adelielinux.org/): An independent Libre operating
