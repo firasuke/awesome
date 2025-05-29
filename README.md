@@ -476,6 +476,9 @@ based on Nix, musl, clang and busybox
 - [ZYDUX](https://github.com/rom1nux/zydux-forge): A toolbox to build the cross
 compiler and minimal GNU Linux from scratch named ZYDUX
 
+## Community
+- [Reddit](https://reddit.com/r/distrodev)
+
 ## Mirrors
 - [Codeberg](https://codeberg.org/firasuke/awesome)
 - [GitHub](https://github.com/firasuke/awesome)
