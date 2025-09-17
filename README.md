@@ -5,6 +5,8 @@
 system based on the Linux kernel and musl runtime library
 - [AerynOS](https://aerynos.com/): A modern, innovative, and forward-thinking
 Linux distribution
+- [Algiz Linux](https://github.com/Michael-Sebero/Algiz-Linux): A high-performance,
+security-focused meta-distribution of Artix Linux
 - [Alice Linux](https://codeberg.org/emmett1/alicelinux): A minimal distro that
 uses musl libc, busybox as main core utilities, a package manager written in
 POSIX shell script and Wayland as the only gui server
@@ -48,8 +50,6 @@ pragmatic and practical as possible
 distribution born from unhappiness with the status quo
 - [CMLFS](https://github.com/dslm4515/CMLFS): Clang-built Musl Linux From
 Scratch
-- [CoolRune](https://github.com/Michael-Sebero/CoolRune): A high-performance,
-security-focused meta-distribution of Artix Linux
 - [Copacabana Linux](https://copacabana.pindorama.net.br/): An independent
 Linux® distribution focused on sanity, modularity and liberty based on musl as
 the C standard library and Heirloom NG as UNIX®-compatible basic command line
@@ -271,6 +271,8 @@ and default out-of-the-box Gentoo image (stage4) and a performance-optimized
 packages repo (Binhost)
 - [Community Driven BLFS (CBLFS)](https://cblfs.clfs.org/index.php/Main_Page):
 An open project that takes over after you have completed a Cross-LFS based build
+- [CoolRune](https://github.com/Michael-Sebero/CoolRune): A high-performance,
+security-focused meta-distribution of Artix Linux
 - [Cross-Compiled Linux From Scratch (CLFS)](https://trac.clfs.org): A project
 that provides you with step-by-step instructions for building your own
 customized Linux system entirely from source
