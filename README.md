@@ -179,6 +179,8 @@ devices
 distribtion
 - [OSDev](https://osdev.org/): Provides information about the creation of
 operating systems and serves as a community for those interested in OS creation
+- [Pickle Linux](https://github.com/Stilic/pickle-linux): An immutable
+Musl/Toybox/Dinit/Linux distribution
 - [s6-overlay](https://github.com/just-containers/s6-overlay): An s6 overlay for
 containers (includes execline, s6-linux-utils & a custom init)
 - [Sabotage](https://sabotage-linux.github.io/): An experimental linux
