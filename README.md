@@ -3,6 +3,8 @@
 ## Active
 - [Adélie Linux](https://adelielinux.org/): An independent Libre operating
 system based on the Linux kernel and musl runtime library
+- [Aero](https://github.com/Andy-Python-Programmer/aero): A new modern,
+experimental, unix-like operating system inspired by the Linux kernel
 - [AerynOS](https://aerynos.com/): A modern, innovative, and forward-thinking
 Linux distribution
 - [Algiz Linux](https://github.com/Michael-Sebero/Algiz-Linux): A high-performance,
