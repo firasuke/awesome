@@ -235,6 +235,7 @@ behind the 'Linux From Scratch' project
 - [T2](https://t2sde.org/): A low-code, ultra portable package manager that
 allows the fully automated, reproducable, cross compilation of custom Operating
 Systems using up-to-date packages
+- [Tilck](https://github.com/vvaltchev/tilck): A tiny Linux-compatible kernel
 - [Tin Can Linux](https://tincan-linux.github.io/): An independent hobby
 distribution, scrapped together with hidden gems from the Linux community, with
 the goal of being compact, understandable, hackable, and easy to maintain
