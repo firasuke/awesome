@@ -153,6 +153,8 @@ needed for a solid base to differentiate on
 - [Linux From Scratch (LFS)](https://linuxfromscratch.org/): A project that
 provides step-by-step instructions for building a custom Linux system, entirely
 from source code
+- [Maestro](https://github.com/maestro-os/maestro): A lightweight,
+Linux-compatible kernel, written in Rust
 - [managarm](https://github.com/managarm/managarm): A pragmatic
 microkernel-based OS with fully asynchronous I/O
 - [Metta OS](https://github.com/metta-systems/metta): A multimedia, mobile,
