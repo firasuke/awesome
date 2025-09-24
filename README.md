@@ -219,6 +219,9 @@ only, lightweight, personal distro
 - [oasis](https://github.com/oasislinux/oasis): A small linux system
 - [Obarun](https://web.obarun.org/): Arch Linux based system without
 systemd
+- [octox](https://github.com/o8vm/octox): A Unix-like operating system inspired
+by xv6-riscv. octox loosely follows the structure and style of xv6, but is
+implemented in pure Rust
 - [OmniOS Community Edition](https://omnios.org/): An illumos based server OS
 with ZFS, Bhyve, DTrace, Crossbow, SMF and Linux zone support
 - [OpenBSD](https://openbsd.org/): A FREE, multi-platform 4.4BSD-based UNIX-like
