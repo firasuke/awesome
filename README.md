@@ -71,8 +71,10 @@ miscellaneous, detritus, junk, etc., primarily for Chrome OS / Chromium OS
 architecture targeted at experienced Linux users
 - [dahliaOS](https://dahliaos.io/): A modern, secure, lightweight and responsive
 operating system, combining the best of GNU/Linux and Fuchsia OS
-- [Damn Small Linux](https://damnsmalllinux.org/): A compact Linux distribution
-tailored for low-spec x86 computers
+- [DamnSmallBSD](https://damnsmallbsd.org/): A BSD distribution intended for
+hardware with lower resources
+- [Damn Small Linux (DSL)](https://damnsmalllinux.org/): A compact Linux
+distribution tailored for low-spec x86 computers
 - [distri](https://distr1.org/): A Linux distribution to research fast package
 management
 - [DragonFlyBSD](https://dragonflybsd.org/): An operating system based on the
