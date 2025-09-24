@@ -151,6 +151,8 @@ distribution focused on modularity, simplicity and code readability, inspired
 from projects such as KISS, Gentoo and Arch Linux
 - [Kwort](https://kwort.org/): A minimalist and fast Linux distribution based
 on CRUX
+- [L4Re](https://l4re.org/): An open source, micro-kernel based operating system
+and hypervisor
 - [LangitKetujuh](https://langitketujuh.id/): A GNU/Linux distribution with
 glibc and musl libc based on VoidLinux, using runit init and KDE desktop
 environment
