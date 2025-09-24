@@ -240,6 +240,8 @@ distribtion
 operating systems and serves as a community for those interested in OS creation
 - [Pickle Linux](https://github.com/Stilic/pickle-linux): An immutable
 Musl/Toybox/Dinit/Linux distribution
+- [ravynOS](https://ravynos.com/): A FreeBSD-based OS project that aims to
+provide source and binary compatibility with macOS on x86-64
 - [s6-overlay](https://github.com/just-containers/s6-overlay): An s6 overlay for
 containers (includes execline, s6-linux-utils & a custom init)
 - [Sabotage](https://sabotage-linux.github.io/): An experimental linux
