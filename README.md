@@ -243,6 +243,9 @@ Musl/Toybox/Dinit/Linux distribution
 - [ravynOS](https://ravynos.com/): A FreeBSD-based OS project that aims to
 provide source and binary compatibility with macOS on x86-64
 - [ReactOS](https://reactos.org/): A free Windows-compatible operating system
+- [Redox](https://redox-os.org/): A Unix-like microkernel-based operating
+system written in Rust that offers source compatibility and is intended to be a
+complete alternative to Linux and BSD
 - [s6-overlay](https://github.com/just-containers/s6-overlay): An s6 overlay for
 containers (includes execline, s6-linux-utils & a custom init)
 - [Sabotage](https://sabotage-linux.github.io/): An experimental linux
