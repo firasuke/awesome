@@ -263,6 +263,8 @@ ground up with a focus on modularity, simplicity, and modern design principles
 tool, primarily aimed at building modern, lightweight, fast micro VMs
 - [solyste](https://ywstd.fr/solyste/): [s]illy, [o]dd and [l]ightweight
 [y]pnose's [st]atic [e]nvironment
+- [Sortix](https://sortix.org/): A small self-hosting Unix-like operating system
+aiming to be a clean and modern POSIX implementation
 - [stal/IX](https://stal-ix.github.io/): A statically linked, source based,
 bootstrapped rolling Linux, based on IX package manager, clang and musl
 - [Suckless From Scratch (SFS)](
