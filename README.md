@@ -127,6 +127,8 @@ Debian without systemd), allowing users to get control over their computer and
 ensuring Init Freedom
 - [GoboLinux](https://gobolinux.org/): An alternative Linux distribution that
 redefines the entire filesystem hierarchy
+- [Haiku](https://haiku-os.org/): An open-source operating system that targets
+personal computing inspired by BeOS
 - [HardenedBSD](https://hardenedbsd.org/): A security-enhanced fork of FreeBSD
 - [Heads](https://osresearch.net/): A minimal Linux that runs as a coreboot
 or LinuxBoot ROM payload to provide a secure, flexible boot environment for
