@@ -50,6 +50,9 @@ to generate embedded Linux systems through cross-compilation
 - [Carbs Linux](https://carbslinux.org/): An independent source-based Linux®
 distribution that aims to be simple, flexible and extensible while staying as
 pragmatic and practical as possible
+- [cavOS](https://github.com/malwarepad/cavOS): An x86-64 POSIX-compliant
+operating system in C, that uses the Linux system call layer, Limine bootloader,
+musl libc and the apk package manager from Alpine
 - [Chimera Linux](https://chimera-linux.org/): A modern general-purpose Linux
 distribution born from unhappiness with the status quo
 - [CMLFS](https://github.com/dslm4515/CMLFS): Clang-built Musl Linux From
@@ -101,7 +104,7 @@ x86-64 implemented in Nim
 - [Gaming Linux From Scratch (GLFS)](https://linuxfromscratch.org/glfs/): A
 book that introduces and guides the reader through additions to the system like
 Steam, Wine, and their dependencies after the LFS book or the LFS Multilib book
-on x86_64 systems
+on x86-64 systems
 - [Gary OS](https://garybgenett.net/projects/gary-os/): An entire GNU/Linux
 system in a single bootable file
 - [Gentoo Linux](https://gentoo.org/): A highly flexible, source-based Linux
@@ -199,7 +202,7 @@ Unix-like Open Source operating system
 a focus on performance and practical functionality
 - [NomadBSD](https://nomadbsd.org/): A persistent live system for USB flash
 drives, based on FreeBSD with automatic hardware detection and setup
-- [noname linux](https://github.com/xhebox/noname-linux): A musl based, x86_64
+- [noname linux](https://github.com/xhebox/noname-linux): A musl based, x86-64
 only, lightweight, personal distro
 - [oasis](https://github.com/oasislinux/oasis): A small linux system
 - [Obarun](https://web.obarun.org/): Arch Linux based system without
@@ -369,7 +372,7 @@ Docker and KVM, built from scratch using Aboriginal Linux
 - [Jan Baudisch linux](https://github.com/janbaudisch/linux): Jan Baudisch's
 take on a minimal Linux config, featuring musl and LLVM
 - [KISS](https://kisslinux.github.io/): A Linux(R) meta-distribution for the
-x86_64 architecture with a focus on simplicity, sustainability and user freedom
+x86-64 architecture with a focus on simplicity, sustainability and user freedom
 - [KSLinux](https://github.com/Takeya-Yuki/KSLinux): A Linux Distribution Based
 on GNU/Linux
 - [LFS-s6](https://github.com/djlucas/LFS-s6): s6 scripts for LFS and BLFS
@@ -462,7 +465,7 @@ study
 - [rc-user](https://github.com/smaeul/rc-user): A user s6-rc hierarchy meant for
 use with [rc](https://github.com/smaeul/rc)
 - [rlsd2](https://github.com/dimkr/rlsd2): A small, "live" operating system with
-GNU/Linux-libre, for the x86 and x86_64 architectures
+GNU/Linux-libre, for the x86 and x86-64 architectures
 - [rv8.io](https://michaeljclark.github.io/): A RISC-V simulation suite
 comprising a high performance x86-64 binary translator, a user mode simulator, a
 full system emulator, an ELF binary analysis tool and ISA metadata
