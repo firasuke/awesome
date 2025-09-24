@@ -66,6 +66,9 @@ operating system, combining the best of GNU/Linux and Fuchsia OS
 tailored for low-spec x86 computers
 - [distri](https://distr1.org/): A Linux distribution to research fast package
 management
+- [DragonFlyBSD](https://dragonflybsd.org/): An operating system based on the
+same UNIX ideals and APIs and shares ancestor code with other BSD operating
+systems
 - [EasyOS](https://easyos.org/): An experimental Linux distribution
 - [Eltanin OS](https://github.com/eltanin-os): A free, simple, and complete
 general-purpose operating system
@@ -77,6 +80,10 @@ Linux distribution, that adopts musl libc and busybox to the latest versions of
 software with a rolling-release model
 - [Fatdog64](https://distro.ibiblio.org/fatdog/web/): A small yet versatile
 64-bit multi-user Linux distribution
+- [FreeBSD](https://freebsd.org/): An operating system that focuses on
+features, speed, and stability
+- [FuguIta](https://fuguita.org/): An OpenBSD-based live system that supports
+and shares the philosophy of the OpenBSD operating system
 - [Fusion OS](https://0xc0ffee.netlify.app/osdev/): A hobby operating system for
 x86-64 implemented in Nim
 - [Gaming Linux From Scratch (GLFS)](https://linuxfromscratch.org/glfs/): A
@@ -87,6 +94,8 @@ on x86_64 systems
 system in a single bootable file
 - [Gentoo Linux](https://gentoo.org/): A highly flexible, source-based Linux
 distribution
+- [GhostBSD](https://ghostbsd.org/): A simple, elegant desktop BSD operating
+system
 - [Glacies](https://eltaninos.org/download/distros/glacies/): An operating
 system composed of the Eltanin userland and the Linux® kernel
 - [glaucus](https://glaucuslinux.org/): An opinionated Linux® distribution based
@@ -96,6 +105,7 @@ Debian without systemd), allowing users to get control over their computer and
 ensuring Init Freedom
 - [GoboLinux](https://gobolinux.org/): An alternative Linux distribution that
 redefines the entire filesystem hierarchy
+- [HardenedBSD](https://hardenedbsd.org/): A security-enhanced fork of FreeBSD
 - [Heads](https://osresearch.net/): A minimal Linux that runs as a coreboot
 or LinuxBoot ROM payload to provide a secure, flexible boot environment for
 laptops, workstations and servers
@@ -137,9 +147,17 @@ from source code
 microkernel-based OS with fully asynchronous I/O
 - [Metta OS](https://github.com/metta-systems/metta): A multimedia, mobile,
 social OS
+- [mfsBSD](https://mfsbsd.vx.sk/): A set of scripts that generates a bootable
+working minimal installation of FreeBSD
+- [mfsLinux](https://mfsbsd.vx.sk/): A minimalist in-memory diskless Linux
+distribution based on OpenWrt
+- [MidnightBSD](https://midnightbsd.org/): A BSD-derived operating system
+developed with desktop users in mind
 - [Milis Linux](https://mls.akdeniz.edu.tr/en/): A Linux kernel based operating
 system project that was developed by making use of LFS and has its own unique
 package building and management system
+- [MirBSD](http://www.mirbsd.org/): A niche operating system based on
+4.4BSD-Lite
 - [mkroot](https://github.com/landley/toybox/tree/master/mkroot): A simple Linux
 build based on toybox, bootable under qemu for multiple architectures
 - [MocaccinoOS](https://mocaccino.org/): A minimal Musl-based Linux From
@@ -158,10 +176,15 @@ From Scratch using Musl as Libc and S6+S6-rc as init system
 available today to build working cross compilers that target musl libc
 - [myLinux](https://github.com/troglobit/myLinux): An embedded operating system
 based on Buildroot and Finit
+- [NanoBSD](https://docs.freebsd.org/en/articles/nanobsd/): A tool that creates
+a FreeBSD system image for embedded applications, USB keys, memory cards or
+other mass storage media
 - [NetBSD](https://netbsd.org/): A free, fast, secure, and highly portable
 Unix-like Open Source operating system
 - [NOIR](https://github.com/noirlinux): An independent Linux® distribution with
 a focus on performance and practical functionality
+- [NomadBSD](https://nomadbsd.org/): A persistent live system for USB flash
+drives, based on FreeBSD with automatic hardware detection and setup
 - [noname linux](https://github.com/xhebox/noname-linux): A musl based, x86_64
 only, lightweight, personal distro
 - [oasis](https://github.com/oasislinux/oasis): A small linux system
@@ -187,6 +210,8 @@ containers (includes execline, s6-linux-utils & a custom init)
 distribution based on musl libc and busybox
 - [Sigma Linux](https://github.com/rdbo/sigma-linux): An Σlite operating system
 - [sixos](https://codeberg.org/amjoseph/sixos): A NixOS without systemd
+- [smolBSD](https://smolbsd.org/): A tiny BSD UNIX (NetBSD) system creation
+tool, primarily aimed at building modern, lightweight, fast micro VMs
 - [solyste](https://ywstd.fr/solyste/): [s]illy, [o]dd and [l]ightweight
 [y]pnose's [st]atic [e]nvironment
 - [stal/IX](https://stal-ix.github.io/): A statically linked, source based,
