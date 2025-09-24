@@ -120,6 +120,8 @@ system
 system composed of the Eltanin userland and the Linux® kernel
 - [glaucus](https://glaucuslinux.org/): An opinionated Linux® distribution based
 on musl libc and toybox
+- [Gloire](https://codeberg.org/Ironclad/Gloire): An OS built with the Ironclad
+kernel using GNU tools for the userland
 - [gnuinos](https://gnuinos.org/): A libre spin of Devuan GNU/Linux (a fork of
 Debian without systemd), allowing users to get control over their computer and
 ensuring Init Freedom
