@@ -300,6 +300,9 @@ and Debian
 distro for advanced Linux users
 - [Void Linux](https://voidlinux.org/): A general purpose operating system,
 based on the monolithic Linux® kernel
+- [xv6-riscv](https://github.com/mit-pdos/xv6-riscv): A re-implementation of
+Dennis Ritchie's and Ken Thompson's Unix Version 6 (v6) for a modern RISC-V
+multiprocessor using ANSI C
 - [Yocto Project](https://yoctoproject.org/): An open source collaboration
 project that helps developers create custom Linux-based systems regardless of
 the hardware architecture
@@ -552,6 +555,9 @@ distribution built on top of Musl
 KISS Linux that doesn't use GNU
 - [Wyvertux](https://github.com/wyvertux/wyvertux): A(n almost) GNU-free Linux
 distribution
+- [xv6-public](https://github.com/mit-pdos/xv6-public): A re-implementation of
+Dennis Ritchie's and Ken Thompson's Unix Version 6 (v6) for a modern x86-based
+multiprocessor using ANSI C
 - [Yet Another Musl LibC Linux Distro
 (YAMLLD)](https://github.com/EnterTheVoid-x86/yamlld): A busybox based musl libc
 Linux distro based on Yosild with many improvments to it
