@@ -22,6 +22,8 @@ S6 Init System
 - [Arachsys Linux](https://arachsys.github.io/#linux-distribution): An
 opinionated 'from scratch' Linux distribution based on musl libc
 - [Arch Linux](https://archlinux.org/): A simple, lightweight distribution
+- [AROS](https://aros.sourceforge.io/): A lightweight, efficient, and flexible
+desktop operating system compatible with AmigaOS at the API level
 - [Artix Linux](https://artixlinux.org/): A rolling-release distribution, based
 on Arch Linux that uses real init systems, because PID1 must be simple, secure
 and stable
