@@ -246,6 +246,8 @@ commands and less time than LFS
 - [Twilight OS](https://twilight-os.vercel.app/): A new mordern, experimental
 Linux-like operating system and monolithic kernel design with linux binary
 compatibility
+- [Ultra](https://github.com/UltraOS/Ultra): A from-scratch kernel that aims to
+be (nearly) fully ABI compatible with the Linux kernel userland
 - [UmVirt LFS (ULFS)](https://umvirt.com/linux/): A free, source code based,
 transparent & autonomous GNU/Linux distribution
 - [Vanilla Dpup](https://vanilla-dpup.github.io/): A lightweight, frugal,
