@@ -253,6 +253,8 @@ distribution based on musl libc and busybox
 - [Sculpt OS](https://genode.org/download/sculpt): An open-source
 general-purpose OS that combines Genode's microkernel architecture,
 capability-based security, sandboxed device drivers, and virtual machines
+- [SerenityOS](https://serenityos.org/): A graphical Unix-like operating system
+for 64-bit x86, arm, and RISC-V desktop computers
 - [Sigma Linux](https://github.com/rdbo/sigma-linux): An Σlite operating system
 - [sixos](https://codeberg.org/amjoseph/sixos): A NixOS without systemd
 - [smolBSD](https://smolbsd.org/): A tiny BSD UNIX (NetBSD) system creation
