@@ -99,6 +99,7 @@ Linux-i386 compatible
 frames
 - [FreeBSD](https://freebsd.org/): An operating system that focuses on
 features, speed, and stability
+- [FreeVMS](https://pvv.org/~roart/freevms.html): A free and open clone of VMS
 - [FuguIta](https://fuguita.org/): An OpenBSD-based live system that supports
 and shares the philosophy of the OpenBSD operating system
 - [Fusion OS](https://0xc0ffee.netlify.app/osdev/): A hobby operating system for
