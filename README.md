@@ -243,6 +243,9 @@ the goal of being compact, understandable, hackable, and easy to maintain
 (TLDRLFS)](https://github.com/Sweets/tldrlfs): A short guide that will teach
 you how to build a working operating system using the Linux kernel in much fewer
 commands and less time than LFS
+- [Twilight OS](https://twilight-os.vercel.app/): A new mordern, experimental
+Linux-like operating system and monolithic kernel design with linux binary
+compatibility
 - [UmVirt LFS (ULFS)](https://umvirt.com/linux/): A free, source code based,
 transparent & autonomous GNU/Linux distribution
 - [Vanilla Dpup](https://vanilla-dpup.github.io/): A lightweight, frugal,
