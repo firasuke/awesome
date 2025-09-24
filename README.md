@@ -257,6 +257,8 @@ capability-based security, sandboxed device drivers, and virtual machines
 for 64-bit x86, arm, and RISC-V desktop computers
 - [Sigma Linux](https://github.com/rdbo/sigma-linux): An Σlite operating system
 - [sixos](https://codeberg.org/amjoseph/sixos): A NixOS without systemd
+- [skiftOS](https://skiftos.org/): A hobbyist operating system built from the
+ground up with a focus on modularity, simplicity, and modern design principles
 - [smolBSD](https://smolbsd.org/): A tiny BSD UNIX (NetBSD) system creation
 tool, primarily aimed at building modern, lightweight, fast micro VMs
 - [solyste](https://ywstd.fr/solyste/): [s]illy, [o]dd and [l]ightweight
