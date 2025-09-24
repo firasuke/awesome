@@ -84,8 +84,10 @@ Linux distribution, that adopts musl libc and busybox to the latest versions of
 software with a rolling-release model
 - [Fatdog64](https://distro.ibiblio.org/fatdog/web/): A small yet versatile
 64-bit multi-user Linux distribution
-- [Fiwix](https://fiwix.org/): An operating system kernel written from scratch,
-based on the UNIX architecture and fully focused on being Linux-i386 compatible
+- [FiwixOS](https://fiwix.org/): An operating system based on the Fiwix
+kernel, GNU toolchain, libraries and additional software that uses Newlib as
+its standard C library and Ext2 as its primary file system focused on being
+Linux-i386 compatible
 - [FrameOS](https://frameos.net/): An operating system for single function smart
 frames
 - [FreeBSD](https://freebsd.org/): An operating system that focuses on
