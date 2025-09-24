@@ -164,8 +164,8 @@ upon code and packages from a broad family of Gentoo-based distributions
 - [Lilblue](https://wiki.gentoo.org/wiki/Project:Hardened_uClibc/Lilblue): A
 security-enhanced, fully featured XFCE4 desktop, amd64 Gentoo system, built with
 uClibc as its C standard library
-- [Linaro](https://linaro.org/): Together with Arm, Linaro co-maintains the
-Arm software ecosystem, providing the tools, security and Linux kernel quality
+- [Linaro](https://linaro.org/): Together with ARM, Linaro co-maintains the
+ARM software ecosystem, providing the tools, security and Linux kernel quality
 needed for a solid base to differentiate on
 - [Linux From Scratch (LFS)](https://linuxfromscratch.org/): A project that
 provides step-by-step instructions for building a custom Linux system, entirely
@@ -254,7 +254,7 @@ distribution based on musl libc and busybox
 general-purpose OS that combines Genode's microkernel architecture,
 capability-based security, sandboxed device drivers, and virtual machines
 - [SerenityOS](https://serenityos.org/): A graphical Unix-like operating system
-for 64-bit x86, arm, and RISC-V desktop computers
+for 64-bit x86, ARM, and RISC-V desktop computers
 - [Sigma Linux](https://github.com/rdbo/sigma-linux): An Σlite operating system
 - [sixos](https://codeberg.org/amjoseph/sixos): A NixOS without systemd
 - [skiftOS](https://skiftos.org/): A hobbyist operating system built from the
@@ -278,6 +278,8 @@ Systems using up-to-date packages
 - [Tin Can Linux](https://tincan-linux.github.io/): An independent hobby
 distribution, scrapped together with hidden gems from the Linux community, with
 the goal of being compact, understandable, hackable, and easy to maintain
+- [ToaruOS](https://toaruos.org/): A completely-from-scratch hobby operating
+system for x86-64 PCs with experimental support for ARMv8
 - [Too Long; Didn't Read Linux From Scratch
 (TLDRLFS)](https://github.com/Sweets/tldrlfs): A short guide that will teach
 you how to build a working operating system using the Linux kernel in much fewer
