@@ -23,6 +23,8 @@ opinionated 'from scratch' Linux distribution based on musl libc
 - [Artix Linux](https://artixlinux.org/): A rolling-release distribution, based
 on Arch Linux that uses real init systems, because PID1 must be simple, secure
 and stable
+- [Asterinas](https://asterinas.github.io/): A secure, fast, and general-purpose
+OS kernel written in Rust and compatible with Linux
 - [Automated Linux From Scratch (ALFS)](https://linuxfromscratch.org/alfs/): A
 project that creates the generic framework for an extendable system builder and
 package installer
