@@ -133,6 +133,7 @@ personal computing inspired by BeOS
 - [Heads](https://osresearch.net/): A minimal Linux that runs as a coreboot
 or LinuxBoot ROM payload to provide a secure, flexible boot environment for
 laptops, workstations and servers
+- [Helios](https://github.com/oxidecomputer/helios): A distribution of illumos powering the Oxide Rack
 - [HeliumOS](https://heliumos.org/): An atomic desktop operating system for
 your devices
 - [Hyperbola](https://hyperbola.info/): An independent, fully free and libre,
@@ -216,10 +217,14 @@ only, lightweight, personal distro
 - [oasis](https://github.com/oasislinux/oasis): A small linux system
 - [Obarun](https://web.obarun.org/): Arch Linux based system without
 systemd
+- [OmniOS Community Edition](https://omnios.org/): An illumos based server OS
+with ZFS, Bhyve, DTrace, Crossbow, SMF and Linux zone support
 - [OpenBSD](https://openbsd.org/): A FREE, multi-platform 4.4BSD-based UNIX-like
 operating system
 - [OpenEmbedded](http://openembedded.org/): The build framework for embedded
 Linux
+- [OpenIndiana](https://openindiana.org/): A community supported illumos-based
+operating system
 - [OpenMandriva Lx](https://openmandriva.org/): A unique and independent
 distribution and direct descendant of Mandriva Linux
 - [OpenWrt](https://openwrt.org/): A Linux operating system targeting embedded
@@ -257,6 +262,8 @@ the goal of being compact, understandable, hackable, and easy to maintain
 (TLDRLFS)](https://github.com/Sweets/tldrlfs): A short guide that will teach
 you how to build a working operating system using the Linux kernel in much fewer
 commands and less time than LFS
+- [Tribblix](http://tribblix.org/): An open source operating system based on
+illumos that blends retro style with modern components
 - [Twilight OS](https://twilight-os.vercel.app/): A new mordern, experimental
 Linux-like operating system and monolithic kernel design with linux binary
 compatibility
