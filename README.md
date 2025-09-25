@@ -246,6 +246,8 @@ distribtion
 operating systems and serves as a community for those interested in OS creation
 - [Pickle Linux](https://github.com/Stilic/pickle-linux): An immutable
 Musl/Toybox/Dinit/Linux distribution
+- [Pizlix (Memory Safe Linux From Scratch)](https://fil-c.org/pizlix): Linux
+From Scratch 12.2 with some added components compiled with Fil-C
 - [PortaLinux](https://cinnamonwolfy.neocities.org/portalinux/): A collection
 of utilities, libraries and build scripts created with the purpose of making
 embedded Linux distributions with GUI and TUI capabilities that take up at most
