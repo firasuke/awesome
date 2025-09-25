@@ -146,6 +146,8 @@ your devices
 stable, secure, simple and lightweight system built from scratch using the
 package-management from Arch GNU/Linux and patchsets from Debian with a final
 goal to provide a full new BSD descendant operating-system named HyperbolaBSD
+- [Hyra](https://osmora.org/hyra.html): An experimental operating system
+inspired by BSD and Plan 9
 - [Iglunix](https://iglunix.xyz/): A Linux distribution with no GNU software
 - [Joborun Linux](https://joborun.neocities.org/joborun): Arch as it was meant
 to be, simple, fast, secure, cutting edge - with runit and without systemd
