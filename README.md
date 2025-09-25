@@ -91,6 +91,9 @@ source projects and tools for general embedded development
 - [eweOS](https://os.ewe.moe/): A musl-based, lightweight, general-purpose
 Linux distribution, that adopts musl libc and busybox to the latest versions of
 software with a rolling-release model
+- [ExectOS](https://exectos.eu.org/): An open-source, general purpose operating
+system that aims to be modular, maintainable and compatible with existing
+software
 - [Fatdog64](https://distro.ibiblio.org/fatdog/web/): A small yet versatile
 64-bit multi-user Linux distribution
 - [FiwixOS](https://fiwix.org/): An operating system based on the Fiwix
