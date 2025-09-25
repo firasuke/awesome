@@ -116,6 +116,9 @@ system in a single bootable file
 distribution
 - [GhostBSD](https://ghostbsd.org/): A simple, elegant desktop BSD operating
 system
+- [Ginger OS](https://github.com/Emment-Yamikani/gingerOs-x86_64): A hobby
+operating systems that aims to be fully POSIX compliant with partial Linux
+compatibility
 - [Glacies](https://eltaninos.org/download/distros/glacies/): An operating
 system composed of the Eltanin userland and the Linux® kernel
 - [glaucus](https://glaucuslinux.org/): An opinionated Linux® distribution based
