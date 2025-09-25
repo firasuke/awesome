@@ -117,6 +117,8 @@ on x86-64 systems
 system in a single bootable file
 - [Gentoo Linux](https://gentoo.org/): A highly flexible, source-based Linux
 distribution
+- [Ghost](https://ghostkernel.org/): A hobbyist operating system for the Intel
+x86 platform written in C/C++ and assembly
 - [GhostBSD](https://ghostbsd.org/): A simple, elegant desktop BSD operating
 system
 - [Ginger OS](https://github.com/Emment-Yamikani/gingerOs-x86_64): A hobby
