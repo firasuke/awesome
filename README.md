@@ -139,6 +139,8 @@ personal computing inspired by BeOS
 - [Heads](https://osresearch.net/): A minimal Linux that runs as a coreboot
 or LinuxBoot ROM payload to provide a secure, flexible boot environment for
 laptops, workstations and servers
+- [HelenOS](https://helenos.org/): A portable microkernel-based multiserver
+operating system designed and implemented from scratch
 - [Helios](https://github.com/oxidecomputer/helios): A distribution of illumos powering the Oxide Rack
 - [HeliumOS](https://heliumos.org/): An atomic desktop operating system for
 your devices
