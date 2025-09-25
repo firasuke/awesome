@@ -314,6 +314,8 @@ and Debian
 distro for advanced Linux users
 - [Void Linux](https://voidlinux.org/): A general purpose operating system,
 based on the monolithic Linux® kernel
+- [XenevaOS](https://github.com/manaskamal/XenevaOS): An operating system
+designed for both x86 and ARM architecture with plans for RISC-V
 - [xv6-riscv](https://github.com/mit-pdos/xv6-riscv): A re-implementation of
 Dennis Ritchie's and Ken Thompson's Unix Version 6 (v6) for a modern RISC-V
 multiprocessor using ANSI C
