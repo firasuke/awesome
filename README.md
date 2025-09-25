@@ -240,6 +240,10 @@ distribtion
 operating systems and serves as a community for those interested in OS creation
 - [Pickle Linux](https://github.com/Stilic/pickle-linux): An immutable
 Musl/Toybox/Dinit/Linux distribution
+- [PortaLinux](https://cinnamonwolfy.neocities.org/portalinux/): A collection
+of utilities, libraries and build scripts created with the purpose of making
+embedded Linux distributions with GUI and TUI capabilities that take up at most
+10MiB of storage and 64MiB of RAM
 - [ravynOS](https://ravynos.com/): A FreeBSD-based OS project that aims to
 provide source and binary compatibility with macOS on x86-64
 - [ReactOS](https://reactos.org/): A free Windows-compatible operating system
