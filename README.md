@@ -146,6 +146,9 @@ operating system designed and implemented from scratch
 - [Helios](https://github.com/oxidecomputer/helios): A distribution of illumos powering the Oxide Rack
 - [HeliumOS](https://heliumos.org/): An atomic desktop operating system for
 your devices
+- [Hobby OS](https://github.com/aar10n/osdev): A modern 64-bit UEFI-based
+UNIX-like operating system that aims to match the Linux syscall ABI, use musl
+libc for the standard library and the busybox toolset
 - [Hyperbola](https://hyperbola.info/): An independent, fully free and libre,
 stable, secure, simple and lightweight system built from scratch using the
 package-management from Arch GNU/Linux and patchsets from Debian with a final
