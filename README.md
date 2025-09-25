@@ -192,6 +192,8 @@ social OS
 working minimal installation of FreeBSD
 - [mfsLinux](https://mfsbsd.vx.sk/): A minimalist in-memory diskless Linux
 distribution based on OpenWrt
+- [midipix](https://midipix.org/): A development environment that lets you
+create programs for Windows using the standard C and POSIX APIs
 - [MidnightBSD](https://midnightbsd.org/): A BSD-derived operating system
 developed with desktop users in mind
 - [Milis Linux](https://mls.akdeniz.edu.tr/en/): A Linux kernel based operating
