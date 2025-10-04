@@ -21,6 +21,8 @@ Linux distribution based on musl libc and busybox
 S6 Init System
 - [Arachsys Linux](https://arachsys.github.io/#linux-distribution): An
 opinionated 'from scratch' Linux distribution based on musl libc
+- [ArceOS](https://github.com/arceos-org/arceos): An experimental modular
+operating system written in Rust and aims to be compatible with Linux apps
 - [Arch Linux](https://archlinux.org/): A simple, lightweight distribution
 - [AROS](https://aros.sourceforge.io/): A lightweight, efficient, and flexible
 desktop operating system compatible with AmigaOS at the API level
