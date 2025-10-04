@@ -290,6 +290,9 @@ tool, primarily aimed at building modern, lightweight, fast micro VMs
 aiming to be a clean and modern POSIX implementation
 - [stal/IX](https://stal-ix.github.io/): A statically linked, source based,
 bootstrapped rolling Linux, based on IX package manager, clang and musl
+- [Starina](https://github.com/starina-os/starina): A general-purpose,
+microkernel-based, modern operating system that provides a lightweight VM based
+Linux compatibility library with an ergonomic API
 - [Suckless From Scratch (SFS)](
 https://nyght.neocities.org/Projects/SFS/suckless-from-scratch): A true
 suckless, linux based system from scratch, inspired by the ideas and concept
