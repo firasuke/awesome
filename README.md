@@ -603,6 +603,7 @@ based on Nix, musl, clang and busybox
 compiler and minimal GNU Linux from scratch named ZYDUX
 
 ## Community
+- [Discord](https://discord.gg/nDKNmNc)
 - [Reddit](https://reddit.com/r/distrodev)
 
 ## Mirrors
