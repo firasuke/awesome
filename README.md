@@ -77,6 +77,8 @@ operating system, combining the best of GNU/Linux and Fuchsia OS
 hardware with lower resources
 - [Damn Small Linux (DSL)](https://damnsmalllinux.org/): A compact Linux
 distribution tailored for low-spec x86 computers
+- [dérive](https://derive.codeberg.page/): A simple x86-64 linux distribution
+based on musl libc and sbase/ubase
 - [distri](https://distr1.org/): A Linux distribution to research fast package
 management
 - [DragonFlyBSD](https://dragonflybsd.org/): An operating system based on the
