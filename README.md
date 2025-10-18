@@ -1,10 +1,52 @@
 # awesome
 
 ## Active
+### BSD
+- [DamnSmallBSD](https://damnsmallbsd.org/): A BSD distribution intended for
+hardware with lower resources
+- [DragonFlyBSD](https://dragonflybsd.org/): An operating system based on the
+same UNIX ideals and APIs and shares ancestor code with other BSD operating
+systems
+- [FreeBSD](https://freebsd.org/): An operating system that focuses on
+features, speed, and stability
+- [FuguIta](https://fuguita.org/): An OpenBSD-based live system that supports
+and shares the philosophy of the OpenBSD operating system
+- [GhostBSD](https://ghostbsd.org/): A simple, elegant desktop BSD operating
+system
+- [HardenedBSD](https://hardenedbsd.org/): A security-enhanced fork of FreeBSD
+- [mfsBSD](https://mfsbsd.vx.sk/): A set of scripts that generates a bootable
+working minimal installation of FreeBSD
+- [MidnightBSD](https://midnightbsd.org/): A BSD-derived operating system
+developed with desktop users in mind
+- [MirBSD](http://www.mirbsd.org/): A niche operating system based on
+4.4BSD-Lite
+- [NanoBSD](https://docs.freebsd.org/en/articles/nanobsd/): A tool that creates
+a FreeBSD system image for embedded applications, USB keys, memory cards or
+other mass storage media
+- [NetBSD](https://netbsd.org/): A free, fast, secure, and highly portable
+Unix-like Open Source operating system
+- [NomadBSD](https://nomadbsd.org/): A persistent live system for USB flash
+drives, based on FreeBSD with automatic hardware detection and setup
+- [OpenBSD](https://openbsd.org/): A FREE, multi-platform 4.4BSD-based UNIX-like
+operating system
+- [ravynOS](https://ravynos.com/): A FreeBSD-based OS project that aims to
+provide source and binary compatibility with macOS on x86-64
+- [smolBSD](https://smolbsd.org/): A tiny BSD UNIX (NetBSD) system creation
+tool, primarily aimed at building modern, lightweight, fast micro VMs
+
+### Illumos
+- [Helios](https://github.com/oxidecomputer/helios): A distribution of illumos
+powering the Oxide Rack
+- [OmniOS Community Edition](https://omnios.org/): An illumos based server OS
+with ZFS, Bhyve, DTrace, Crossbow, SMF and Linux zone support
+- [OpenIndiana](https://openindiana.org/): A community supported illumos-based
+operating system
+- [Tribblix](http://tribblix.org/): An open source operating system based on
+illumos that blends retro style with modern components
+
+### Linux
 - [Adélie Linux](https://adelielinux.org/): An independent Libre operating
 system based on the Linux kernel and musl runtime library
-- [Aero](https://github.com/Andy-Python-Programmer/aero): A new modern,
-experimental, unix-like operating system inspired by the Linux kernel
 - [AerynOS](https://aerynos.com/): A modern, innovative, and forward-thinking
 Linux distribution
 - [Algiz Linux](https://github.com/Michael-Sebero/Algiz-Linux): A high-performance,
@@ -21,16 +63,10 @@ Linux distribution based on musl libc and busybox
 S6 Init System
 - [Arachsys Linux](https://arachsys.github.io/#linux-distribution): An
 opinionated 'from scratch' Linux distribution based on musl libc
-- [ArceOS](https://github.com/arceos-org/arceos): An experimental modular
-operating system written in Rust and aims to be compatible with Linux apps
 - [Arch Linux](https://archlinux.org/): A simple, lightweight distribution
-- [AROS](https://aros.sourceforge.io/): A lightweight, efficient, and flexible
-desktop operating system compatible with AmigaOS at the API level
 - [Artix Linux](https://artixlinux.org/): A rolling-release distribution, based
 on Arch Linux that uses real init systems, because PID1 must be simple, secure
 and stable
-- [Asterinas](https://asterinas.github.io/): A secure, fast, and general-purpose
-OS kernel written in Rust and compatible with Linux
 - [Automated Linux From Scratch (ALFS)](https://linuxfromscratch.org/alfs/): A
 project that creates the generic framework for an extendable system builder and
 package installer
@@ -54,9 +90,6 @@ to generate embedded Linux systems through cross-compilation
 - [Carbs Linux](https://carbslinux.org/): An independent source-based Linux®
 distribution that aims to be simple, flexible and extensible while staying as
 pragmatic and practical as possible
-- [cavOS](https://github.com/malwarepad/cavOS): An x86-64 POSIX-compliant
-operating system in C, that uses the Linux system call layer, Limine bootloader,
-musl libc and the apk package manager from Alpine
 - [Chimera Linux](https://chimera-linux.org/): A modern general-purpose Linux
 distribution born from unhappiness with the status quo
 - [CMLFS](https://github.com/dslm4515/CMLFS): Clang-built Musl Linux From
@@ -71,21 +104,12 @@ generator
 miscellaneous, detritus, junk, etc., primarily for Chrome OS / Chromium OS
 - [CRUX](https://crux.nu/): A lightweight Linux distribution for the x86-64
 architecture targeted at experienced Linux users
-- [dahliaOS](https://dahliaos.io/): A modern, secure, lightweight and responsive
-operating system, combining the best of GNU/Linux and Fuchsia OS
-- [DamnSmallBSD](https://damnsmallbsd.org/): A BSD distribution intended for
-hardware with lower resources
 - [Damn Small Linux (DSL)](https://damnsmalllinux.org/): A compact Linux
 distribution tailored for low-spec x86 computers
 - [dérive](https://derive.codeberg.page/): A simple x86-64 linux distribution
 based on musl libc and sbase/ubase
 - [distri](https://distr1.org/): A Linux distribution to research fast package
 management
-- [DragonFlyBSD](https://dragonflybsd.org/): An operating system based on the
-same UNIX ideals and APIs and shares ancestor code with other BSD operating
-systems
-- [DragonOS](https://dragonos.org/): An operating system developed from scratch
-using Rust, with Linux compatibility
 - [EasyOS](https://easyos.org/): An experimental Linux distribution
 - [Eltanin OS](https://github.com/eltanin-os): A free, simple, and complete
 general-purpose operating system
@@ -95,24 +119,8 @@ source projects and tools for general embedded development
 - [eweOS](https://os.ewe.moe/): A musl-based, lightweight, general-purpose
 Linux distribution, that adopts musl libc and busybox to the latest versions of
 software with a rolling-release model
-- [ExectOS](https://exectos.eu.org/): An open-source, general purpose operating
-system that aims to be modular, maintainable and compatible with existing
-software
 - [Fatdog64](https://distro.ibiblio.org/fatdog/web/): A small yet versatile
 64-bit multi-user Linux distribution
-- [FiwixOS](https://fiwix.org/): An operating system based on the Fiwix
-kernel, GNU toolchain, libraries and additional software that uses Newlib as
-its standard C library and Ext2 as its primary file system focused on being
-Linux-i386 compatible
-- [FrameOS](https://frameos.net/): An operating system for single function smart
-frames
-- [FreeBSD](https://freebsd.org/): An operating system that focuses on
-features, speed, and stability
-- [FreeVMS](https://pvv.org/~roart/freevms.html): A free and open clone of VMS
-- [FuguIta](https://fuguita.org/): An OpenBSD-based live system that supports
-and shares the philosophy of the OpenBSD operating system
-- [Fusion OS](https://0xc0ffee.netlify.app/osdev/): A hobby operating system for
-x86-64 implemented in Nim
 - [Gaming Linux From Scratch (GLFS)](https://linuxfromscratch.org/glfs/): A
 book that introduces and guides the reader through additions to the system like
 Steam, Wine, and their dependencies after the LFS book or the LFS Multilib book
@@ -121,44 +129,24 @@ on x86-64 systems
 system in a single bootable file
 - [Gentoo Linux](https://gentoo.org/): A highly flexible, source-based Linux
 distribution
-- [Ghost](https://ghostkernel.org/): A hobbyist operating system for the Intel
-x86 platform written in C/C++ and assembly
-- [GhostBSD](https://ghostbsd.org/): A simple, elegant desktop BSD operating
-system
-- [Ginger OS](https://github.com/Emment-Yamikani/gingerOs-x86_64): A hobby
-operating systems that aims to be fully POSIX compliant with partial Linux
-compatibility
 - [Glacies](https://eltaninos.org/download/distros/glacies/): An operating
 system composed of the Eltanin userland and the Linux® kernel
 - [glaucus](https://glaucuslinux.org/): An opinionated Linux® distribution based
 on musl libc and toybox
-- [Gloire](https://codeberg.org/Ironclad/Gloire): An OS built with the Ironclad
-kernel using GNU tools for the userland
 - [gnuinos](https://gnuinos.org/): A libre spin of Devuan GNU/Linux (a fork of
 Debian without systemd), allowing users to get control over their computer and
 ensuring Init Freedom
 - [GoboLinux](https://gobolinux.org/): An alternative Linux distribution that
 redefines the entire filesystem hierarchy
-- [Haiku](https://haiku-os.org/): An open-source operating system that targets
-personal computing inspired by BeOS
-- [HardenedBSD](https://hardenedbsd.org/): A security-enhanced fork of FreeBSD
 - [Heads](https://osresearch.net/): A minimal Linux that runs as a coreboot
 or LinuxBoot ROM payload to provide a secure, flexible boot environment for
 laptops, workstations and servers
-- [HelenOS](https://helenos.org/): A portable microkernel-based multiserver
-operating system designed and implemented from scratch
-- [Helios](https://github.com/oxidecomputer/helios): A distribution of illumos powering the Oxide Rack
 - [HeliumOS](https://heliumos.org/): An atomic desktop operating system for
 your devices
-- [Hobby OS](https://github.com/aar10n/osdev): A modern 64-bit UEFI-based
-UNIX-like operating system that aims to match the Linux syscall ABI, use musl
-libc for the standard library and the busybox toolset
 - [Hyperbola](https://hyperbola.info/): An independent, fully free and libre,
 stable, secure, simple and lightweight system built from scratch using the
 package-management from Arch GNU/Linux and patchsets from Debian with a final
 goal to provide a full new BSD descendant operating-system named HyperbolaBSD
-- [Hyra](https://osmora.org/hyra.html): An experimental operating system
-inspired by BSD and Plan 9
 - [Iglunix](https://iglunix.xyz/): A Linux distribution with no GNU software
 - [Joborun Linux](https://joborun.neocities.org/joborun): Arch as it was meant
 to be, simple, fast, secure, cutting edge - with runit and without systemd
@@ -170,8 +158,6 @@ distribution focused on modularity, simplicity and code readability, inspired
 from projects such as KISS, Gentoo and Arch Linux
 - [Kwort](https://kwort.org/): A minimalist and fast Linux distribution based
 on CRUX
-- [L4Re](https://l4re.org/): An open source, micro-kernel based operating system
-and hypervisor
 - [LangitKetujuh](https://langitketujuh.id/): A GNU/Linux distribution with
 glibc and musl libc based on VoidLinux, using runit init and KDE desktop
 environment
@@ -189,25 +175,11 @@ needed for a solid base to differentiate on
 - [Linux From Scratch (LFS)](https://linuxfromscratch.org/): A project that
 provides step-by-step instructions for building a custom Linux system, entirely
 from source code
-- [Maestro](https://github.com/maestro-os/maestro): A lightweight,
-Linux-compatible kernel, written in Rust
-- [managarm](https://github.com/managarm/managarm): A pragmatic
-microkernel-based OS with fully asynchronous I/O
-- [Metta OS](https://github.com/metta-systems/metta): A multimedia, mobile,
-social OS
-- [mfsBSD](https://mfsbsd.vx.sk/): A set of scripts that generates a bootable
-working minimal installation of FreeBSD
 - [mfsLinux](https://mfsbsd.vx.sk/): A minimalist in-memory diskless Linux
 distribution based on OpenWrt
-- [midipix](https://midipix.org/): A development environment that lets you
-create programs for Windows using the standard C and POSIX APIs
-- [MidnightBSD](https://midnightbsd.org/): A BSD-derived operating system
-developed with desktop users in mind
 - [Milis Linux](https://mls.akdeniz.edu.tr/en/): A Linux kernel based operating
 system project that was developed by making use of LFS and has its own unique
 package building and management system
-- [MirBSD](http://www.mirbsd.org/): A niche operating system based on
-4.4BSD-Lite
 - [mkroot](https://github.com/landley/toybox/tree/master/mkroot): A simple Linux
 build based on toybox, bootable under qemu for multiple architectures
 - [MocaccinoOS](https://mocaccino.org/): A minimal Musl-based Linux From
@@ -226,39 +198,21 @@ From Scratch using Musl as Libc and S6+S6-rc as init system
 available today to build working cross compilers that target musl libc
 - [myLinux](https://github.com/troglobit/myLinux): An embedded operating system
 based on Buildroot and Finit
-- [NanoBSD](https://docs.freebsd.org/en/articles/nanobsd/): A tool that creates
-a FreeBSD system image for embedded applications, USB keys, memory cards or
-other mass storage media
-- [NetBSD](https://netbsd.org/): A free, fast, secure, and highly portable
-Unix-like Open Source operating system
 - [NOIR](https://github.com/noirlinux): An independent Linux® distribution with
 a focus on performance and practical functionality
-- [NomadBSD](https://nomadbsd.org/): A persistent live system for USB flash
-drives, based on FreeBSD with automatic hardware detection and setup
 - [noname linux](https://github.com/xhebox/noname-linux): A musl based, x86-64
 only, lightweight, personal distro
 - [oasis](https://github.com/oasislinux/oasis): A small linux system
 - [Obarun](https://web.obarun.org/): Arch Linux based system without
 systemd
-- [octox](https://github.com/o8vm/octox): A Unix-like operating system inspired
-by xv6-riscv. octox loosely follows the structure and style of xv6, but is
-implemented in pure Rust
-- [OmniOS Community Edition](https://omnios.org/): An illumos based server OS
-with ZFS, Bhyve, DTrace, Crossbow, SMF and Linux zone support
-- [OpenBSD](https://openbsd.org/): A FREE, multi-platform 4.4BSD-based UNIX-like
-operating system
 - [OpenEmbedded](http://openembedded.org/): The build framework for embedded
 Linux
-- [OpenIndiana](https://openindiana.org/): A community supported illumos-based
-operating system
 - [OpenMandriva Lx](https://openmandriva.org/): A unique and independent
 distribution and direct descendant of Mandriva Linux
 - [OpenWrt](https://openwrt.org/): A Linux operating system targeting embedded
 devices
 - [OS/1337](https://os1337.com/): A CLI-oriented minimal toybox/Linux + musl
 distribtion
-- [OSDev](https://osdev.org/): Provides information about the creation of
-operating systems and serves as a community for those interested in OS creation
 - [Pickle Linux](https://github.com/Stilic/pickle-linux): An immutable
 Musl/Toybox/Dinit/Linux distribution
 - [Pizlix (Memory Safe Linux From Scratch)](https://fil-c.org/pizlix): Linux
@@ -267,36 +221,16 @@ From Scratch 12.2 with some added components compiled with Fil-C
 of utilities, libraries and build scripts created with the purpose of making
 embedded Linux distributions with GUI and TUI capabilities that take up at most
 10MiB of storage and 64MiB of RAM
-- [ravynOS](https://ravynos.com/): A FreeBSD-based OS project that aims to
-provide source and binary compatibility with macOS on x86-64
-- [ReactOS](https://reactos.org/): A free Windows-compatible operating system
-- [Redox OS](https://redox-os.org/): A Unix-like microkernel-based operating
-system written in Rust that offers source compatibility and is intended to be a
-complete alternative to Linux and BSD
 - [s6-overlay](https://github.com/just-containers/s6-overlay): An s6 overlay for
 containers (includes execline, s6-linux-utils & a custom init)
 - [Sabotage](https://sabotage-linux.github.io/): An experimental linux
 distribution based on musl libc and busybox
-- [Sculpt OS](https://genode.org/download/sculpt): An open-source
-general-purpose OS that combines Genode's microkernel architecture,
-capability-based security, sandboxed device drivers, and virtual machines
-- [SerenityOS](https://serenityos.org/): A graphical Unix-like operating system
-for 64-bit x86, ARM, and RISC-V desktop computers
 - [Sigma Linux](https://github.com/rdbo/sigma-linux): An Σlite operating system
 - [sixos](https://codeberg.org/amjoseph/sixos): A NixOS without systemd
-- [skiftOS](https://skiftos.org/): A hobbyist operating system built from the
-ground up with a focus on modularity, simplicity, and modern design principles
-- [smolBSD](https://smolbsd.org/): A tiny BSD UNIX (NetBSD) system creation
-tool, primarily aimed at building modern, lightweight, fast micro VMs
 - [solyste](https://ywstd.fr/solyste/): [s]illy, [o]dd and [l]ightweight
 [y]pnose's [st]atic [e]nvironment
-- [Sortix](https://sortix.org/): A small self-hosting Unix-like operating system
-aiming to be a clean and modern POSIX implementation
 - [stal/IX](https://stal-ix.github.io/): A statically linked, source based,
 bootstrapped rolling Linux, based on IX package manager, clang and musl
-- [Starina](https://github.com/starina-os/starina): A general-purpose,
-microkernel-based, modern operating system that provides a lightweight VM based
-Linux compatibility library with an ergonomic API
 - [Suckless From Scratch (SFS)](
 https://nyght.neocities.org/Projects/SFS/suckless-from-scratch): A true
 suckless, linux based system from scratch, inspired by the ideas and concept
@@ -304,23 +238,13 @@ behind the 'Linux From Scratch' project
 - [T2](https://t2sde.org/): A low-code, ultra portable package manager that
 allows the fully automated, reproducable, cross compilation of custom Operating
 Systems using up-to-date packages
-- [Tilck](https://github.com/vvaltchev/tilck): A tiny Linux-compatible kernel
 - [Tin Can Linux](https://tincan-linux.github.io/): An independent hobby
 distribution, scrapped together with hidden gems from the Linux community, with
 the goal of being compact, understandable, hackable, and easy to maintain
-- [ToaruOS](https://toaruos.org/): A completely-from-scratch hobby operating
-system for x86-64 PCs with experimental support for ARMv8
 - [Too Long; Didn't Read Linux From Scratch
 (TLDRLFS)](https://github.com/Sweets/tldrlfs): A short guide that will teach
 you how to build a working operating system using the Linux kernel in much fewer
 commands and less time than LFS
-- [Tribblix](http://tribblix.org/): An open source operating system based on
-illumos that blends retro style with modern components
-- [Twilight OS](https://twilight-os.vercel.app/): A new mordern, experimental
-Linux-like operating system and monolithic kernel design with linux binary
-compatibility
-- [Ultra](https://github.com/UltraOS/Ultra): A from-scratch kernel that aims to
-be (nearly) fully ABI compatible with the Linux kernel userland
 - [UmVirt LFS (ULFS)](https://umvirt.com/linux/): A free, source code based,
 transparent & autonomous GNU/Linux distribution
 - [Vanilla Dpup](https://vanilla-dpup.github.io/): A lightweight, frugal,
@@ -330,16 +254,98 @@ and Debian
 distro for advanced Linux users
 - [Void Linux](https://voidlinux.org/): A general purpose operating system,
 based on the monolithic Linux® kernel
-- [XenevaOS](https://github.com/manaskamal/XenevaOS): An operating system
-designed for both x86 and ARM architecture with plans for RISC-V
-- [xv6-riscv](https://github.com/mit-pdos/xv6-riscv): A re-implementation of
-Dennis Ritchie's and Ken Thompson's Unix Version 6 (v6) for a modern RISC-V
-multiprocessor using ANSI C
 - [Yocto Project](https://yoctoproject.org/): An open source collaboration
 project that helps developers create custom Linux-based systems regardless of
 the hardware architecture
 - [Yoe](https://yoedistro.org/): An Embedded Linux Distribution built on Yocto
 and OpenEmbedded with a focus on simplicity
+
+### Custom
+- [Aero](https://github.com/Andy-Python-Programmer/aero): A new modern,
+experimental, unix-like operating system inspired by the Linux kernel
+- [ArceOS](https://github.com/arceos-org/arceos): An experimental modular
+operating system written in Rust and aims to be compatible with Linux apps
+- [AROS](https://aros.sourceforge.io/): A lightweight, efficient, and flexible
+desktop operating system compatible with AmigaOS at the API level
+- [Asterinas](https://asterinas.github.io/): A secure, fast, and general-purpose
+OS kernel written in Rust and compatible with Linux
+- [cavOS](https://github.com/malwarepad/cavOS): An x86-64 POSIX-compliant
+operating system in C, that uses the Linux system call layer, Limine bootloader,
+musl libc and the apk package manager from Alpine
+- [dahliaOS](https://dahliaos.io/): A modern, secure, lightweight and responsive
+operating system, combining the best of GNU/Linux and Fuchsia OS
+- [DragonOS](https://dragonos.org/): An operating system developed from scratch
+using Rust, with Linux compatibility
+- [ExectOS](https://exectos.eu.org/): An open-source, general purpose operating
+system that aims to be modular, maintainable and compatible with existing
+software
+- [FiwixOS](https://fiwix.org/): An operating system based on the Fiwix
+kernel, GNU toolchain, libraries and additional software that uses Newlib as
+its standard C library and Ext2 as its primary file system focused on being
+Linux-i386 compatible
+- [FrameOS](https://frameos.net/): An operating system for single function smart
+frames
+- [FreeVMS](https://pvv.org/~roart/freevms.html): A free and open clone of VMS
+- [Fusion OS](https://0xc0ffee.netlify.app/osdev/): A hobby operating system for
+x86-64 implemented in Nim
+- [Ghost](https://ghostkernel.org/): A hobbyist operating system for the Intel
+x86 platform written in C/C++ and assembly
+- [Ginger OS](https://github.com/Emment-Yamikani/gingerOs-x86_64): A hobby
+operating systems that aims to be fully POSIX compliant with partial Linux
+compatibility
+- [Gloire](https://codeberg.org/Ironclad/Gloire): An OS built with the Ironclad
+kernel using GNU tools for the userland
+- [Haiku](https://haiku-os.org/): An open-source operating system that targets
+personal computing inspired by BeOS
+- [HelenOS](https://helenos.org/): A portable microkernel-based multiserver
+operating system designed and implemented from scratch
+- [Hobby OS](https://github.com/aar10n/osdev): A modern 64-bit UEFI-based
+UNIX-like operating system that aims to match the Linux syscall ABI, use musl
+libc for the standard library and the busybox toolset
+- [Hyra](https://osmora.org/hyra.html): An experimental operating system
+inspired by BSD and Plan 9
+- [L4Re](https://l4re.org/): An open source, micro-kernel based operating system
+and hypervisor
+- [Maestro](https://github.com/maestro-os/maestro): A lightweight,
+Linux-compatible kernel, written in Rust
+- [managarm](https://github.com/managarm/managarm): A pragmatic
+microkernel-based OS with fully asynchronous I/O
+- [Metta OS](https://github.com/metta-systems/metta): A multimedia, mobile,
+social OS
+- [midipix](https://midipix.org/): A development environment that lets you
+create programs for Windows using the standard C and POSIX APIs
+- [octox](https://github.com/o8vm/octox): A Unix-like operating system inspired
+by xv6-riscv. octox loosely follows the structure and style of xv6, but is
+implemented in pure Rust
+- [ReactOS](https://reactos.org/): A free Windows-compatible operating system
+- [Redox OS](https://redox-os.org/): A Unix-like microkernel-based operating
+system written in Rust that offers source compatibility and is intended to be a
+complete alternative to Linux and BSD
+- [Sculpt OS](https://genode.org/download/sculpt): An open-source
+general-purpose OS that combines Genode's microkernel architecture,
+capability-based security, sandboxed device drivers, and virtual machines
+- [SerenityOS](https://serenityos.org/): A graphical Unix-like operating system
+for 64-bit x86, ARM, and RISC-V desktop computers
+- [skiftOS](https://skiftos.org/): A hobbyist operating system built from the
+ground up with a focus on modularity, simplicity, and modern design principles
+- [Sortix](https://sortix.org/): A small self-hosting Unix-like operating system
+aiming to be a clean and modern POSIX implementation
+- [Starina](https://github.com/starina-os/starina): A general-purpose,
+microkernel-based, modern operating system that provides a lightweight VM based
+Linux compatibility library with an ergonomic API
+- [Tilck](https://github.com/vvaltchev/tilck): A tiny Linux-compatible kernel
+- [ToaruOS](https://toaruos.org/): A completely-from-scratch hobby operating
+system for x86-64 PCs with experimental support for ARMv8
+- [Twilight OS](https://twilight-os.vercel.app/): A new mordern, experimental
+Linux-like operating system and monolithic kernel design with linux binary
+compatibility
+- [Ultra](https://github.com/UltraOS/Ultra): A from-scratch kernel that aims to
+be (nearly) fully ABI compatible with the Linux kernel userland
+- [XenevaOS](https://github.com/manaskamal/XenevaOS): An operating system
+designed for both x86 and ARM architecture with plans for RISC-V
+- [xv6-riscv](https://github.com/mit-pdos/xv6-riscv): A re-implementation of
+Dennis Ritchie's and Ken Thompson's Unix Version 6 (v6) for a modern RISC-V
+multiprocessor using ANSI C
 
 ## Inactive
 - [Aalbus](https://github.com/Aalbus-linux/Aalbus): An experimental Linux
