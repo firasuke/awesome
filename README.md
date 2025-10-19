@@ -388,8 +388,8 @@ https://www.linuxquestions.org/questions/linux-from-scratch-13/%5Bannoucement%5D
 - [bootstrap-linux](https://github.com/pikhq/bootstrap-linux): A complete,
 self-bootstrapping musl-based Linux system
 - [Build Your Own Linux (From Scratch)](
-https://web.archive.org/web/20220903200435/http://buildyourownlinux.com/):
-Walks users through building a basic Linux distribution
+https://web.archive.org/web/20220903200435/http://buildyourownlinux.com/): Walks
+users through building a basic Linux distribution
 - [Build yourself a Linux](https://github.com/MichielDerhaeg/build-linux): A
 short tutorial about building Linux based operating systems
 - [Business Card Linux](https://github.com/thirtythreeforty/businesscard-linux):
@@ -504,9 +504,9 @@ minimalistic linux system with strong ideals
 - [Musl-LFS-s6-Bootscripts](https://github.com/dslm4515/MLFS-S6-Bootscripts):
 Bootscripts for Musl-LFS (MLFS) using S6 & S6-rc
 - [Muslpi](https://github.com/repk/muslpi): CLFS (Cross Linux From Scratch)
-build system for raspberry pi using the musl libc
-- [Mutiny](https://web.archive.org/web/20220516184821/https://mutiny.red/):
-A BSD-inspired Linux system and research project aiming to be a testbed for
+build system for raspberry pi using the musl libc -
+[Mutiny](https://web.archive.org/web/20220516184821/https://mutiny.red/): A
+BSD-inspired Linux system and research project aiming to be a testbed for
 interesting system design, forward thinking design choices, minimalism, and
 fun computing
 - [natickOS](https://github.com/awlsomealex/natick): A research Linux Distribution
@@ -578,7 +578,7 @@ monolithic kernel originally designed for i386 machines
 - [TeoraLinux](
 https://web.archive.org/web/20201118231543/https://github.com/AwlsomeAlex/TeoraLinux):
 An experimental Linux Distribution with Musl, BusyBox, and Java
-- [tomsrtbt](https://web.archive.org/web/20231228034935/http://www.toms.net/rb/):
+- [tomsrtbt](https://web.archive.org/web/20231228034935/http://toms.net/rb/):
 The most GNU/Linux on one floppy disk
 - [trinity](https://notabug.org/rain1/trinity): A toy linux distro based on
 morpheus
