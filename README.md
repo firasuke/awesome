@@ -153,6 +153,8 @@ to be, simple, fast, secure, cutting edge - with runit and without systemd
 - [KISS Linux Community](https://kisscommunity.org/): A meta-distribution
 created by Dylan Araps, featuring the kiss package manager that makes it easy to
 maintain your own system
+- [KRAK3N](https://krak3n.my/): A minimal Linux distribution based on musl libc,
+Clang/LLVM and BusyBox
 - [Kreato Linux](https://linux.kreato.dev/): An independent Linux(R)
 distribution focused on modularity, simplicity and code readability, inspired
 from projects such as KISS, Gentoo and Arch Linux
@@ -386,7 +388,7 @@ https://www.linuxquestions.org/questions/linux-from-scratch-13/%5Bannoucement%5D
 - [bootstrap-linux](https://github.com/pikhq/bootstrap-linux): A complete,
 self-bootstrapping musl-based Linux system
 - [Build Your Own Linux (From Scratch)](
-https://web.archive.org/web/20220903200435/http://www.buildyourownlinux.com/):
+https://web.archive.org/web/20220903200435/http://buildyourownlinux.com/):
 Walks users through building a basic Linux distribution
 - [Build yourself a Linux](https://github.com/MichielDerhaeg/build-linux): A
 short tutorial about building Linux based operating systems
@@ -503,7 +505,7 @@ minimalistic linux system with strong ideals
 Bootscripts for Musl-LFS (MLFS) using S6 & S6-rc
 - [Muslpi](https://github.com/repk/muslpi): CLFS (Cross Linux From Scratch)
 build system for raspberry pi using the musl libc
-- [Mutiny](https://web.archive.org/web/20220516184821/https://www.mutiny.red/):
+- [Mutiny](https://web.archive.org/web/20220516184821/https://mutiny.red/):
 A BSD-inspired Linux system and research project aiming to be a testbed for
 interesting system design, forward thinking design choices, minimalism, and
 fun computing
