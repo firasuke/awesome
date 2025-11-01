@@ -223,6 +223,8 @@ From Scratch 12.2 with some added components compiled with Fil-C
 of utilities, libraries and build scripts created with the purpose of making
 embedded Linux distributions with GUI and TUI capabilities that take up at most
 10MiB of storage and 64MiB of RAM
+- [postmarketOS](https://postmarketos.org/): A touch-optimized, pre-configured
+Alpine Linux with own packages, that can be installed on smartphones
 - [s6-overlay](https://github.com/just-containers/s6-overlay): An s6 overlay for
 containers (includes execline, s6-linux-utils & a custom init)
 - [Sabotage](https://sabotage-linux.github.io/): An experimental linux
