@@ -83,11 +83,11 @@ build bleeding-edge-toolchain for ARM microcontrollers
 - [Bluedragon](https://wiki.gentoo.org/wiki/Project:Hardened_musl/Bluedragon): A
 security-enhanced, fully featured XFCE4 desktop, amd64 Gentoo system, built with
 musl as its C standard library
+- [bonsai](https://github.com/mitchweaver/bonsai): A tiny distro-independent
+package manager
 - [bootstrap-initrd](https://hacktivis.me/articles/bootstrap-initrd): A small
 development environment based on tcc+musl capable of building a minimalist
 distro with the least amount of binaries involved
-- [bonsai](https://github.com/mitchweaver/bonsai): A tiny distro-independent
-package manager
 - [Buildroot](https://buildroot.org/): A simple, efficient and easy-to-use tool
 to generate embedded Linux systems through cross-compilation
 - [Carbs Linux](https://carbslinux.org/): An independent source-based Linux®
