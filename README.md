@@ -317,6 +317,8 @@ and hypervisor
 Linux-compatible kernel, written in Rust
 - [managarm](https://github.com/managarm/managarm): A pragmatic
 microkernel-based OS with fully asynchronous I/O
+- [Menix](https://menix-os.org/): A modular Unix-like 64-bit kernel written in
+Rust that aims to provide a familiar POSIX/Linux-like user interface
 - [Metta OS](https://github.com/metta-systems/metta): A multimedia, mobile,
 social OS
 - [midipix](https://midipix.org/): A development environment that lets you
