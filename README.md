@@ -326,6 +326,9 @@ create programs for Windows using the standard C and POSIX APIs
 - [octox](https://github.com/o8vm/octox): A Unix-like operating system inspired
 by xv6-riscv. octox loosely follows the structure and style of xv6, but is
 implemented in pure Rust
+- [os-test](https://sortix.org/os-test/): A set of test suites for POSIX
+operating systems designed to make it easy to compare differences between
+operating systems and find bugs
 - [ReactOS](https://reactos.org/): A free Windows-compatible operating system
 - [Redox OS](https://redox-os.org/): A Unix-like microkernel-based operating
 system written in Rust that offers source compatibility and is intended to be a
