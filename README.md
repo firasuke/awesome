@@ -124,6 +124,8 @@ Linux distribution, that adopts musl libc and busybox to the latest versions of
 software with a rolling-release model
 - [Fatdog64](https://distro.ibiblio.org/fatdog/web/): A small yet versatile
 64-bit multi-user Linux distribution
+- [finix](https://github.com/finix-community/finix): An experimental os,
+featuring finit as pid 1, to explore the NixOS design space
 - [Gaming Linux From Scratch (GLFS)](https://linuxfromscratch.org/glfs/): A
 book that introduces and guides the reader through additions to the system like
 Steam, Wine, and their dependencies after the LFS book or the LFS Multilib book
