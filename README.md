@@ -61,6 +61,9 @@ that meets the stringent requirements of a secure software supply chain
 Linux distribution based on musl libc and busybox
 - [Alpine-S6](https://github.com/woahbase/alpine-s6): MultiArch Alpine Linux +
 S6 Init System
+- [antiX](https://antixlinux.com/): A fast, lightweight and easy to install
+systemd-free and elogind-free linux live CD distribution based on Debian Stable
+for Intel-AMD x86 compatible systems
 - [Arachsys Linux](https://arachsys.github.io/#linux-distribution): An
 opinionated 'from scratch' Linux distribution based on musl libc
 - [Arch Linux](https://archlinux.org/): A simple, lightweight distribution
