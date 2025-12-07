@@ -491,6 +491,8 @@ distribution for the Pi
 - [Little Blue Linux (LBL)](https://repo.freesa.org/cbl.html): A basic but
 usable GNU/Linux operating system distribution that includes all the programs
 needed to rebuild itself from source code
+- [Lunaris](https://github.com/buricco/lunaris): A Linux distribution with more
+of a commercial Unix (SysV) feel using clang and musl
 - [Mage GNU/Linux](https://github.com/mage-linux): An experimental GNU/Linux
 distribution aiming at being simple and easy
 - [make-rootfs](
@@ -587,6 +589,8 @@ became independent from suckless.org and is maintained by Anselm solely
 - [StelaLinux](https://github.com/AwlsomeAlex/stelalinux): A research Linux
 Distribution built with the Linux Kernel, musl C Library, the BusyBox Userland,
 and a custom init script
+- [SulinOS](https://sulinos.github.io/): An independent linux distro project
+that does not use systemd
 - [superBoxon](https://web.archive.org/web/20240428122550/https://superboxon.com/):
 A GNU/Linux distribution based on the Slackware 64 current with a simple and human
 friendly BSD like init system
