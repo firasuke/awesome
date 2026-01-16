@@ -7,8 +7,8 @@ hardware with lower resources
 - [DragonFlyBSD](https://dragonflybsd.org/): An operating system based on the
 same UNIX ideals and APIs and shares ancestor code with other BSD operating
 systems
-- [FreeBSD](https://freebsd.org/): An operating system that focuses on
-features, speed, and stability
+- [FreeBSD](https://freebsd.org/): An operating system that focuses on features,
+speed, and stability
 - [FuguIta](https://fuguita.org/): An OpenBSD-based live system that supports
 and shares the philosophy of the OpenBSD operating system
 - [GhostBSD](https://ghostbsd.org/): A simple, elegant desktop BSD operating
@@ -49,8 +49,8 @@ illumos that blends retro style with modern components
 system based on the Linux kernel and musl runtime library
 - [AerynOS](https://aerynos.com/): A modern, innovative, and forward-thinking
 Linux distribution
-- [Algiz Linux](https://github.com/Michael-Sebero/Algiz-Linux): A high-performance,
-security-focused meta-distribution of Artix Linux
+- [Algiz Linux](https://github.com/Michael-Sebero/Algiz-Linux): A
+high-performance, security-focused meta-distribution of Artix Linux
 - [Alice Linux](https://codeberg.org/emmett1/alicelinux): A minimal distro that
 uses musl libc, busybox as main core utilities, a package manager written in
 POSIX shell script and Wayland as the only gui server
@@ -192,8 +192,8 @@ system project that was developed by making use of LFS and has its own unique
 package building and management system
 - [mkroot](https://github.com/landley/toybox/tree/master/mkroot): A simple Linux
 build based on toybox, bootable under qemu for multiple architectures
-- [MocaccinoOS](https://mocaccino.org/): A minimal Musl-based Linux From
-Scratch meta-distribution for the 21st century
+- [MocaccinoOS](https://mocaccino.org/): A minimal Musl-based Linux From Scratch
+meta-distribution for the 21st century
 - [Multilib Linux From Scratch (MLFS)](https://linuxfromscratch.org/mlfs/):
 A variant of the LFS book that builds a system that is able to execute 32-bit
 binaries
@@ -213,8 +213,7 @@ a focus on performance and practical functionality
 - [noname linux](https://github.com/xhebox/noname-linux): A musl based, x86-64
 only, lightweight, personal distro
 - [oasis](https://github.com/oasislinux/oasis): A small linux system
-- [Obarun](https://web.obarun.org/): Arch Linux based system without
-systemd
+- [Obarun](https://web.obarun.org/): Arch Linux based system without systemd
 - [OpenEmbedded](http://openembedded.org/): The build framework for embedded
 Linux
 - [OpenMandriva Lx](https://openmandriva.org/): A unique and independent
@@ -421,8 +420,8 @@ packages repo (Binhost)
 An open project that takes over after you have completed a Cross-LFS based build
 - [CoolRune](https://github.com/Michael-Sebero/CoolRune): A high-performance,
 security-focused meta-distribution of Artix Linux
-- [Cross-Compiled Linux From Scratch (CLFS)](https://trac.clfs.org): A project
-that provides you with step-by-step instructions for building your own
+- [Cross-Compiled Linux From Scratch (CLFS)](https://trac.clfs.org): A
+project that provides you with step-by-step instructions for building your own
 customized Linux system entirely from source
 - [Cross Linux From Scratch on the ARM architecture
 (CLFS-ARM)](https://github.com/LeeKyuHyuk/clfs-arm): A project that provides
@@ -449,8 +448,8 @@ distribution based on Exherbo Linux
 experimental distribution built with an alternative C Library called musl, and
 also comes with the package manager pacman and generally tries to be very close
 to Arch Linux
-- [ELLCC](https://web.archive.org/web/20240331205540/http://ellcc.org/): A project
-using clang and the LLVM compiler infrastructure
+- [ELLCC](https://web.archive.org/web/20240331205540/http://ellcc.org/): A
+project using clang and the LLVM compiler infrastructure
 - [Funtoo Linux](https://funtoo.org/): A community-developed Linux
 meta-distribution and evolution of Gentoo Linux
 - [Galeb](https://strahinja.srht.site/galeb/): A simple musl-based static distro
@@ -459,8 +458,8 @@ configuration for building with -O3, Graphite, and LTO optimizations
 - [gentoo-s6-services](https://github.com/rain-1/gentoo-s6-services)
 - [Glasnost Linux](https://glasnost.org/): A Linux® distribution using the
 Clang/LLVM toolchain and musl libc
-- [Glendix](http://glendix.org/): An attempt at porting ideas from the Plan
-9 operating system to Linux
+- [Glendix](http://glendix.org/): An attempt at porting ideas from the Plan 9
+operating system to Linux
 - [gnuxc](https://github.com/dm0-/gnuxc): A GNU operating system cross-compiler,
 that can create a free, portable, Hurd-based, desktop OS from scratch
 - [Hanh Linux](https://hanh-linux.github.io/): An independent, source-based
@@ -523,13 +522,14 @@ minimalistic linux system with strong ideals
 - [Musl-LFS-s6-Bootscripts](https://github.com/dslm4515/MLFS-S6-Bootscripts):
 Bootscripts for Musl-LFS (MLFS) using S6 & S6-rc
 - [Muslpi](https://github.com/repk/muslpi): CLFS (Cross Linux From Scratch)
-build system for raspberry pi using the musl libc -
-[Mutiny](https://web.archive.org/web/20220516184821/https://mutiny.red/): A
-BSD-inspired Linux system and research project aiming to be a testbed for
+build system for raspberry pi using the musl libc
+- [Mutiny](https://web.archive.org/web/20220516184821/https://mutiny.red/):
+A BSD-inspired Linux system and research project aiming to be a testbed for
 interesting system design, forward thinking design choices, minimalism, and
 fun computing
-- [natickOS](https://github.com/awlsomealex/natick): A research Linux Distribution
-based on the latest Linux Kernel, the BusyBox userland, and the musl C library
+- [natickOS](https://github.com/awlsomealex/natick): A research Linux
+Distribution based on the latest Linux Kernel, the BusyBox userland, and the
+musl C library
 - [nenuzhnix](https://github.com/tpimh/nenuzhnix): The most useless linux distro
 - [Non-GNU ToolChain (NGTC)](https://github.com/tpimh/ngtc): A toolchain that
 can build the Linux kernel, a minimal userspace (e.g. nenuzhnix) and ultimately
@@ -548,8 +548,8 @@ Linux From Scratch) with a focus on optimization and speed
 - [Openwall GNU/*/Linux (Owl)](https://openwall.com/Owl/): A small
 security-enhanced Linux distribution for servers, appliances, and virtual
 appliances
-- [Panda Linux](https://github.com/PandaLinux/base-64): An open-source and free
-operating system based on Debian/Ubuntu and built entirely by compiling
+- [Panda Linux](https://github.com/PandaLinux/base-64): An open-source and
+free operating system based on Debian/Ubuntu and built entirely by compiling
 source-code, using custom optimizations
 - [Physix](https://physixproject.org/): An experimental, automated
 Build-From-Source Linux distribution; originally inspired by Linux From Scratch
@@ -592,8 +592,8 @@ and a custom init script
 - [SulinOS](https://sulinos.github.io/): An independent linux distro project
 that does not use systemd
 - [superBoxon](https://web.archive.org/web/20240428122550/https://superboxon.com/):
-A GNU/Linux distribution based on the Slackware 64 current with a simple and human
-friendly BSD like init system
+A GNU/Linux distribution based on the Slackware 64 current with a simple and
+human friendly BSD like init system
 - [swerve](https://github.com/swegbun/swerve): A suckless-inspired Unix-like
 monolithic kernel originally designed for i386 machines
 - [TeoraLinux](
