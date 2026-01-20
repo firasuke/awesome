@@ -190,6 +190,9 @@ distribution based on OpenWrt
 - [Milis Linux](https://mls.akdeniz.edu.tr/en/): A Linux kernel based operating
 system project that was developed by making use of LFS and has its own unique
 package building and management system
+- [mimicOS](https://codeberg.org/mimicOS): A desktop/workstation Linux-based
+operating system that uses Zig as the default C-compiler toolchain and musl libc
+by default
 - [mkroot](https://github.com/landley/toybox/tree/master/mkroot): A simple Linux
 build based on toybox, bootable under qemu for multiple architectures
 - [MocaccinoOS](https://mocaccino.org/): A minimal Musl-based Linux From Scratch
