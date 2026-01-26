@@ -146,6 +146,9 @@ Debian without systemd), allowing users to get control over their computer and
 ensuring Init Freedom
 - [GoboLinux](https://gobolinux.org/): An alternative Linux distribution that
 redefines the entire filesystem hierarchy
+- [Hadron](https://hadron-linux.io/): A minimal, upstream-aligned Linux
+distribution built from scratch with musl, systemd, vanilla kernels and no
+package manager designed for predictable cloud and edge environments
 - [Heads](https://osresearch.net/): A minimal Linux that runs as a coreboot
 or LinuxBoot ROM payload to provide a secure, flexible boot environment for
 laptops, workstations and servers
