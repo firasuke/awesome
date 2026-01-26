@@ -112,8 +112,8 @@ miscellaneous, detritus, junk, etc., primarily for Chrome OS / Chromium OS
 architecture targeted at experienced Linux users
 - [Damn Small Linux (DSL)](https://damnsmalllinux.org/): A compact Linux
 distribution tailored for low-spec x86 computers
-- [dérive](https://derive.codeberg.page/): A simple x86-64 linux distribution
-based on musl libc and sbase/ubase
+- [dérive](https://derivelinux.org/): A simple x86-64 linux distribution based
+on musl libc and sbase/ubase
 - [distri](https://distr1.org/): A Linux distribution to research fast package
 management
 - [EasyOS](https://easyos.org/): An experimental Linux distribution
