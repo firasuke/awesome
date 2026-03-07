@@ -478,6 +478,8 @@ take on a minimal Linux config, featuring musl and LLVM
 x86-64 architecture with a focus on simplicity, sustainability and user freedom
 - [KSLinux](https://github.com/Takeya-Yuki/KSLinux): A Linux Distribution Based
 on GNU/Linux
+- [LFS-Pacman](https://github.com/djlucas/LFS-Pacman): LFS combined with Arch's
+package manager (pacman)
 - [LFS-s6](https://github.com/djlucas/LFS-s6): s6 scripts for LFS and BLFS
 - [Libertine Linux](https://github.com/libertine-linux/libertine): A secure,
 built-from git-controlled source Linux system that is fully auditable and runs
