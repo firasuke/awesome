@@ -238,6 +238,8 @@ embedded Linux distributions with GUI and TUI capabilities that take up at most
 10MiB of storage and 64MiB of RAM
 - [postmarketOS](https://postmarketos.org/): A touch-optimized, pre-configured
 Alpine Linux with own packages, that can be installed on smartphones
+- [Redrose Linux](https://redroselinux.org/): An independent x86_64 systemd-free
+FOSS-only-by-default Linux distribution
 - [s6-overlay](https://github.com/just-containers/s6-overlay): An s6 overlay for
 containers (includes execline, s6-linux-utils & a custom init)
 - [Sabotage](https://sabotage-linux.github.io/): An experimental linux
