@@ -271,6 +271,8 @@ portable and flexible community-built operating system based on Puppy Linux
 and Debian
 - [Venom GNU/Linux](https://codeberg.org/venomlinux): A lightweight source based
 distro for advanced Linux users
+- [Vitruvian](https://v-os.dev/): A Linux-based operating system with a
+BeOS/Haiku API compatibility layer
 - [Void Linux](https://voidlinux.org/): A general purpose operating system,
 based on the monolithic Linux® kernel
 - [Yocto Project](https://yoctoproject.org/): An open source collaboration
