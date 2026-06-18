@@ -297,6 +297,8 @@ musl libc and the apk package manager from Alpine
 operating system, combining the best of GNU/Linux and Fuchsia OS
 - [DragonOS](https://dragonos.org/): An operating system developed from scratch
 using Rust, with Linux compatibility
+- [DualFuse](https://github.com/ypro136/DualFuse): A minimalist 64-bit operating
+system built entirely from scratch
 - [ExectOS](https://exectos.eu.org/): An open-source, general purpose operating
 system that aims to be modular, maintainable and compatible with existing
 software
