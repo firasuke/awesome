@@ -161,6 +161,9 @@ goal to provide a full new BSD descendant operating-system named HyperbolaBSD
 - [Iglunix](https://iglunix.xyz/): A Linux distribution with no GNU software
 - [Joborun Linux](https://joborun.neocities.org/joborun): Arch as it was meant
 to be, simple, fast, secure, cutting edge - with runit and without systemd
+- [KaOS](https://kaosx.us/): An independent, built from-scratch Linux
+distribution, focused on an alternate init system (Dinit), one toolkit (Qt) and
+one architecture (x86_64)
 - [KISS Linux Community](https://kisscommunity.org/): A meta-distribution
 created by Dylan Araps, featuring the kiss package manager that makes it easy to
 maintain your own system
