@@ -293,6 +293,8 @@ operating system written in Rust and aims to be compatible with Linux apps
 desktop operating system compatible with AmigaOS at the API level
 - [Asterinas](https://asterinas.github.io/): A secure, fast, and general-purpose
 OS kernel written in Rust and compatible with Linux
+- [Astral](https://astral-os.org/): A 64 bit operating system with its own
+kernel written in C for the x86-64 architecture
 - [cavOS](https://github.com/malwarepad/cavOS): An x86-64 POSIX-compliant
 operating system in C, that uses the Linux system call layer, Limine bootloader,
 musl libc and the apk package manager from Alpine
