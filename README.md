@@ -643,9 +643,9 @@ distribution
 - [xv6-public](https://github.com/mit-pdos/xv6-public): A re-implementation of
 Dennis Ritchie's and Ken Thompson's Unix Version 6 (v6) for a modern x86-based
 multiprocessor using ANSI C
-- [Yet Another Musl LibC Linux Distro
-(YAMLLD)](https://github.com/EnterTheVoid-x86/yamlld): A busybox based musl libc
-Linux distro based on Yosild with many improvments to it
+- [Yet Another Musl LibC Linux Distro (YAMLLD)](
+https://github.com/xmb9/yamlld): A busybox based musl libc Linux distro based on
+Yosild with many improvments to it
 - [Yeti OS](https://avs-origami.github.io/wikis/yeti/): A custom bit-sized linux
 distro for the RPi zero, cross-compiled from scratch
 - [Yosild](https://github.com/jaromaz/yosild): A single shell script that builds
