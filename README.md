@@ -185,6 +185,8 @@ upon code and packages from a broad family of Gentoo-based distributions
 - [Lilblue](https://wiki.gentoo.org/wiki/Project:Hardened_uClibc/Lilblue): A
 security-enhanced, fully featured XFCE4 desktop, amd64 Gentoo system, built with
 uClibc as its C standard library
+- [Liminix](https://www.liminix.org/): A Nix-based system that uses busybox,
+musl and s6-rc
 - [Linaro](https://linaro.org/): Together with ARM, Linaro co-maintains the
 ARM software ecosystem, providing the tools, security and Linux kernel quality
 needed for a solid base to differentiate on
