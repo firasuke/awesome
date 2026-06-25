@@ -213,12 +213,15 @@ and patches to build a musl libc cross compiler
 - [musl-cross-make](https://github.com/richfelker/musl-cross-make): A fast,
 simple, but advanced makefile-based approach for producing musl-targeting cross
 compilers
-- [Musl Linux From Scrath (MLFS)](https://github.com/dslm4515/Musl-LFS): Linux
+- [Musl Linux From Scratch (MLFS)](https://github.com/dslm4515/Musl-LFS): Linux
 From Scratch using Musl as Libc and S6+S6-rc as init system
 - [mussel](https://github.com/firasuke/mussel): The shortest and fastest script
 available today to build working cross compilers that target musl libc
 - [myLinux](https://github.com/troglobit/myLinux): An embedded operating system
 based on Buildroot and Finit
+- [NeonatoX Linux From Scratch Musl Book](
+https://github.com/NeonatoX/neonatox-from-scratch-musl-book): A journet of
+neonatox migration to musl libc
 - [NOIR](https://github.com/noirlinux): An independent Linux® distribution with
 a focus on performance and practical functionality
 - [noname linux](https://github.com/xhebox/noname-linux): A musl based, x86-64
