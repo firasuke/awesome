@@ -193,6 +193,9 @@ needed for a solid base to differentiate on
 - [Linux From Scratch (LFS)](https://linuxfromscratch.org/): A project that
 provides step-by-step instructions for building a custom Linux system, entirely
 from source code
+- [METALOS](https://codeberg.org/DAFT-8/METALOS/): A meta-Linux distribution based on musl libc
+and busybox. It provides "meta" (Makefiles for Express Target Automation) to install
+a Linux-based operating system on bare metal.
 - [mfsLinux](https://mfsbsd.vx.sk/): A minimalist in-memory diskless Linux
 distribution based on OpenWrt
 - [Milis Linux](https://mls.akdeniz.edu.tr/en/): A Linux kernel based operating
@@ -252,6 +255,8 @@ FOSS-only-by-default Linux distribution
 containers (includes execline, s6-linux-utils & a custom init)
 - [Sabotage](https://sabotage-linux.github.io/): An experimental linux
 distribution based on musl libc and busybox
+- [Shebang](https://shebang-linux.github.io/): An Artix GNU/Linux based distribution
+offering a great blend of end user and power user experience.
 - [Sigma Linux](https://github.com/rdbo/sigma-linux): An Σlite operating system
 - [sixos](https://codeberg.org/amjoseph/sixos): A NixOS without systemd
 - [solyste](https://ywstd.fr/solyste/): [s]illy, [o]dd and [l]ightweight
