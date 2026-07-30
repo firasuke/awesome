@@ -41,6 +41,8 @@ powering the Oxide Rack
 with ZFS, Bhyve, DTrace, Crossbow, SMF and Linux zone support
 - [OpenIndiana](https://openindiana.org/): A community supported illumos-based
 operating system
+- [solnix](https://solnix.io/): A distribution of illumos built entirely with
+the Nix package manager and the NixOS module system
 - [Tribblix](http://tribblix.org/): An open source operating system based on
 illumos that blends retro style with modern components
 
