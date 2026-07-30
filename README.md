@@ -272,6 +272,8 @@ distribution that uses the runit init system and the Openbox window manager
 multi-party-signed Linux distribution for verifiable infrastructure
 - [stal/IX](https://stal-ix.github.io/): A statically linked, source based,
 bootstrapped rolling Linux, based on IX package manager, clang and musl
+- [starkOS](https://stark-os.codeberg.page/en/index.html): A minimalist, simple,
+and efficient GNU/Linux distribution
 - [Static Linux](https://staticlinux.org/): An extremely simple distro designed
 for little-to-no abstraction, works without GNU, and emphasizes extreme
 minimality
