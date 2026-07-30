@@ -270,6 +270,9 @@ distribution that uses the runit init system and the Openbox window manager
 multi-party-signed Linux distribution for verifiable infrastructure
 - [stal/IX](https://stal-ix.github.io/): A statically linked, source based,
 bootstrapped rolling Linux, based on IX package manager, clang and musl
+- [Static Linux](https://staticlinux.org/): An extremely simple distro designed
+for little-to-no abstraction, works without GNU, and emphasizes extreme
+minimality
 - [Suckless From Scratch (SFS)](
 https://nyght.neocities.org/Projects/SFS/suckless-from-scratch): A true
 suckless, linux based system from scratch, inspired by the ideas and concept
