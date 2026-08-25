@@ -494,6 +494,10 @@ also comes with the package manager pacman and generally tries to be very close
 to Arch Linux
 - [ELLCC](https://web.archive.org/web/20240331205540/http://ellcc.org/): A
 project using clang and the LLVM compiler infrastructure
+- [FreeBSD From Scratch](
+https://docs-archive.freebsd.org/doc/10.1-RELEASE/usr/local/share/doc/freebsd/en_US.ISO8859-1/articles/fbsd-from-scratch/article.html
+): A fully automated installation of a customized FreeBSD system compiled from
+source
 - [Funtoo Linux](https://funtoo.org/): A community-developed Linux
 meta-distribution and evolution of Gentoo Linux
 - [Galeb](https://strahinja.srht.site/galeb/): A simple musl-based static distro
