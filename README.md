@@ -43,7 +43,7 @@ with ZFS, Bhyve, DTrace, Crossbow, SMF and Linux zone support
 operating system
 - [solnix](https://solnix.io/): A distribution of illumos built entirely with
 the Nix package manager and the NixOS module system
-- [Tribblix](http://tribblix.org/): An open source operating system based on
+- [Tribblix](https://tribblix.org/): An open source operating system based on
 illumos that blends retro style with modern components
 
 ### Linux
@@ -232,7 +232,7 @@ a focus on performance and practical functionality
 only, lightweight, personal distro
 - [oasis](https://github.com/oasislinux/oasis): A small linux system
 - [Obarun](https://web.obarun.org/): Arch Linux based system without systemd
-- [OpenEmbedded](http://openembedded.org/): The build framework for embedded
+- [OpenEmbedded](https://openembedded.org/): The build framework for embedded
 Linux
 - [OpenMandriva Lx](https://openmandriva.org/): A unique and independent
 distribution and direct descendant of Mandriva Linux
@@ -413,8 +413,9 @@ multiprocessor using ANSI C
 - [Aalbus](https://github.com/Aalbus-linux/Aalbus): An experimental Linux
 distribution using musl libc, the LLVM tool chain and a mostly (Net)BSD-derived
 userland
-- [Aboriginal Linux](http://landley.net/aboriginal/): A shell script that builds
-the smallest/simplest linux system capable of rebuilding itself from source code
+- [Aboriginal Linux](https://landley.net/aboriginal/): A shell script that
+builds the smallest/simplest linux system capable of rebuilding itself from
+source code
 - [Abyss OS](https://github.com/abyss-os): A modern take on the “just enough OS”
 paradigm, with a focus on modern components (LLVM, musl) and flexibility
 - [agunix (Silver Unix)](
@@ -506,13 +507,14 @@ configuration for building with -O3, Graphite, and LTO optimizations
 - [gentoo-s6-services](https://github.com/rain-1/gentoo-s6-services)
 - [Glasnost Linux](https://glasnost.org/): A Linux® distribution using the
 Clang/LLVM toolchain and musl libc
-- [Glendix](http://glendix.org/): An attempt at porting ideas from the Plan 9
+- [Glendix](https://glendix.org/): An attempt at porting ideas from the Plan 9
 operating system to Linux
-- [gnuxc](https://github.com/dm0-/gnuxc): A GNU operating system cross-compiler,
-that can create a free, portable, Hurd-based, desktop OS from scratch
-- [Hanh Linux](https://hanh-linux.github.io/): An independent, source-based
-Linux distribution that is fast, lightweight, simple and flexible
-- [Heddle](https://github.com/davedoesdev/heddle): A Linux distribution for
+- [gnuxc](httpss://github.com/dm0-/gnuxc): A GNU operating system
+cross-compiler, that can create a free, portable, Hurd-based, desktop OS from
+scratch
+- [Hanh Linux](shttps://hanh-linux.github.io/): An independent, source-based
+Linux distribution that is fast, lightweight, simple and flexible -
+[Heddle](https://github.com/davedoesdev/heddle): A Linux distribution for
 Docker and KVM, built from scratch using Aboriginal Linux
 - [Jan Baudisch linux](https://github.com/janbaudisch/linux): Jan Baudisch's
 take on a minimal Linux config, featuring musl and LLVM
@@ -547,12 +549,11 @@ distribution aiming at being simple and easy
 - [make-rootfs](
 https://web.archive.org/web/20201127233319/https://github.com/medvid/make-rootfs
 ): A set of make recipes to bootstrap static musl / llvm based filesystem image
-- [Mastodon Linux](https://www.pell.portland.or.us/~mastodon/): A Linux
-distribution that features a primarily BSD Unix userland, a completely a.out
-set of systems programs (to avoid glibc backwards incompatability), and a lot of
-experimental things
-- [Mere Linux](https://merelinux.org/): A lightweight Linux distribution built
-around musl libc, pacman and s6
+- [Mastodon Linux](https://pell.portland.or.us/~mastodon/): A Linux distribution
+that features a primarily BSD Unix userland, a completely a.out set of systems
+programs (to avoid glibc backwards incompatability), and a lot of experimental
+things - [Mere Linux](https://merelinux.org/): A lightweight Linux distribution
+built around musl libc, pacman and s6
 - [MesaLock Linux](https://github.com/mesalock-linux/mesalock-distro): A
 memory-safe Linux distribution where the whole user space applications are
 rewritten in memory-safe programming languages like Rust and Go
@@ -561,7 +562,7 @@ Linux
 - [Minimal Linux Live (MLL)](https://ivandavidov.github.io/minimal/): A tiny
 educational Linux distribution, designed to be built from scratch using a
 collection of automated shell scripts
-- [Moebius](http://moebiuslinux.sourceforge.net/): A minimal Linux distribution
+- [Moebius](https://moebiuslinux.sourceforge.net/): A minimal Linux distribution
 for the Raspberry PI
 - [Monolinux](https://github.com/eerimoq/monolinux): Create embedded Linux
 systems with a single statically linked executable
@@ -628,9 +629,9 @@ updates, cutting-edge tooling and rock-solid reliability
 with systemd swapped out for other solutions
 - [Spider Linux](https://github.com/spider-linux/spiderlinux): A
 work-in-progress, modern, independent, free and open-source Linux distribution
-- [SSD/Linux](https://www.plathome.co.jp/support/labo/ssdlinux/index_e.html):
-The SSD Linux operating system, that straps NetBSD userland functions onto the
-Linux kernel
+- [SSD/Linux](https://plathome.co.jp/support/labo/ssdlinux/index_e.html): The
+SSD Linux operating system, that straps NetBSD userland functions onto the Linux
+kernel
 - [StarLinux](https://github.com/AwlsomeAlex/starlinux): A Linux Distribution
 (rewritten from MLL) that can be build directly on the Host Machine
 - [static linux (stali)](https://sta.li/): A static linux distribution based on
@@ -653,7 +654,7 @@ An experimental Linux Distribution with Musl, BusyBox, and Java
 The most GNU/Linux on one floppy disk
 - [trinity](https://notabug.org/rain1/trinity): A toy linux distro based on
 morpheus
-- [Vanilla](http://projects.malikania.fr/vanilla/): A new radically different,
+- [Vanilla](https://projects.malikania.fr/vanilla/): A new radically different,
 simple, modern Linux distribution based on a complete LLVM toolchain, musl and
 busybox
 - [Vine Linux](https://vinelinux.org/): A compact and lightweight Japanese Linux
