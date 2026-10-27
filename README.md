@@ -373,6 +373,8 @@ social OS
 create programs for Windows using the standard C and POSIX APIs
 - [moss](https://github.com/hexagonal-sun/moss-kernel): A Unix-like,
 Linux-compatible kernel written in Rust and Aarch64 assembly
+- [Moxnox](https://github.com/maharmstone/moxnox): An NT-like, POSIX-compatible
+hobby OS which runs on btrfs and is capable of self-hosting
 - [octox](https://github.com/o8vm/octox): A Unix-like operating system inspired
 by xv6-riscv. octox loosely follows the structure and style of xv6, but is
 implemented in pure Rust
