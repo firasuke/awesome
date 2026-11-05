@@ -148,6 +148,8 @@ Debian without systemd), allowing users to get control over their computer and
 ensuring Init Freedom
 - [GoboLinux](https://gobolinux.org/): An alternative Linux distribution that
 redefines the entire filesystem hierarchy
+- [GrailZ](https://codeberg.org/Enji/GrailZ): A Linux From Scratch distribution
+based on busybox
 - [Hadron](https://hadron-linux.io/): A minimal, upstream-aligned Linux
 distribution built from scratch with musl, systemd, vanilla kernels and no
 package manager designed for predictable cloud and edge environments
