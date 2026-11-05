@@ -162,7 +162,8 @@ package-management from Arch GNU/Linux and patchsets from Debian with a final
 goal to provide a full new BSD descendant operating-system named HyperbolaBSD
 - [Iglunix](https://iglunix.xyz/): A Linux distribution with no GNU software
 - [invelinux](https://sumtas.codeberg.page/): An Initramfs Volatile-storage
-based Embeddable Linux
+based Embeddable Linux that uses toybox as its userspace and musl as the C
+library
 - [Joborun Linux](https://joborun.neocities.org/joborun): Arch as it was meant
 to be, simple, fast, secure, cutting edge - with runit and without systemd
 - [KaOS](https://kaosx.us/): An independent, built from-scratch Linux
